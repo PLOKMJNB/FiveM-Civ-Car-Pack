@@ -1,5 +1,5 @@
 # FiveM Civilian Car Pack
 
-| Attempt | #1  | #2  |
+| Car Name | Spawn Code  | Authors Download Link  |
 | :-----: | :-: | :-: |
 | Seconds | 301 | 283 |
