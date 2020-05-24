@@ -5,6 +5,8 @@
 ![Server.cgf.txt](https://img.shields.io/badge/server.cfg.txt-Up%20to%20Date-brightgreen?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/PLOKMJNB/FiveM-Civ-Car-Pack?style=for-the-badge&logo=github)
 
+***Want any car in here? Just make an issue with a download link and I'll get to it!***
+
 ### How To Install The Cars
 - Clone or direct download this repository to your server or wherever you may be hosting your FiveM server
   - If needed use an FTP (ex. Filezilla) to send this repo to your server
