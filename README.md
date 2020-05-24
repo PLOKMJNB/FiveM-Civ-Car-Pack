@@ -37,9 +37,6 @@ start ploks_carmenu
 | **2019 Ferrari Pista 488 Spider** | pistaspider19 | [Picture](/[PLOKS_CARS]/[FERRARI]/pistaspider19/pistaspider19.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) |
 | **2017 Ford Focus RS** | 17focus | [Picture](/[PLOKS_CARS]/[RANGEROVER]/17focus/17focus.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/ford-focus-rs-2017-add-on-replace-tuning-template-multi-livery) |
 | **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) |
-
----
-
 | **Lexus GS 350** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) |
 
 | **2017 Mercedes-Benz AMG GT R** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/mercedes-benz-amg-gt-r-2017) |
