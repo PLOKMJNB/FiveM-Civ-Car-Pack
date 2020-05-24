@@ -45,4 +45,4 @@ start ploks_carmenu
 | **Mercedes SLS AMG Autovista** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/mercedes-sls-amg-autovista-add-on-replace-template) |
 | **Porsche 718 Cayman S** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) |
 | **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
-| **2014 Volkswagen Golf VII R** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/volkswagen-golf-vii-r-2014) | Removed from 5MODS |
+| **2014 Volkswagen Golf VII R** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/volkswagen-golf-vii-r-2014) |  | Removed from 5MODS |
