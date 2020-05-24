@@ -36,7 +36,7 @@ start ploks_carmenu
 | **2015 Chevrolet Tahoe** | 15tahoe | [Picture](/[PLOKS_CARS]/[CHEVROLET]/15tahoe/15tahoe.png) | SWPOK | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-chevy-tahoe-with-extras-addon) |
 | **2019 Ferrari Pista 488 Spider** | pistaspider19 | [Picture](/[PLOKS_CARS]/[FERRARI]/pistaspider19/pistaspider19.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) |
 | **2017 Ford Focus RS** | 17focus | [Picture](/[PLOKS_CARS]/[RANGEROVER]/17focus/17focus.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/ford-focus-rs-2017-add-on-replace-tuning-template-multi-livery) |
-| **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) |evoque
+| **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) |
 
 ---
 
@@ -46,16 +46,14 @@ start ploks_carmenu
 
 | **Mercedes SLS AMG Autovista** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/mercedes-sls-amg-autovista-add-on-replace-template) |
 
-| **2014 Volkswagen Golf VII R* |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/volkswagen-golf-vii-r-2014) |
+| **2014 Volkswagen Golf VII R** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/volkswagen-golf-vii-r-2014) | Removed from 5MODS |
 
+| **2008 BMW M2 e92** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/bmw-m2-e92-2008-add-on-replace) |
 
-| **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) |
-https://gta5-mods.com/vehicles/bmw-m2-e92-2008-add-on-replace
-| **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) |
-https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace
-| **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) |
-https://gta5-mods.com/vehicles/2016-bmw-m2-add-on-replace-tuning-template
-| **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) |
-https://gta5-mods.com/vehicles/ferrari-458-italia-autovista-add-on-replace
-| **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) |
-https://gta5-mods.com/vehicles/lamborghini-reventon
+| **Porsche 718 Cayman S** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) |
+
+| **2016 BMW M2** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/2016-bmw-m2-add-on-replace-tuning-template) |
+
+| **Ferrari 458 Italia Autovista** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/ferrari-458-italia-autovista-add-on-replace) |
+
+| **Lamborghini Reventon** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lamborghini-reventon) |
