@@ -1,6 +1,6 @@
 # FiveM Civilian Car Pack
 
-[Image](https://img.shields.io/github/issues/PLOKMJNB/FiveM-Civ-Car-Pack?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/PLOKMJNB/FiveM-Civ-Car-Pack?style=for-the-badge)
 
 ### How To Install The Cars
 - Clone or direct download this repository to your server or wherever you may be hosting your FiveM server
