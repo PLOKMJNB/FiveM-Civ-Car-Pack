@@ -28,7 +28,7 @@ start ploks_carmenu
 ```
 
 # The Fun Stuff
-| Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)<sub>  | Status | Extra Notes |
+| Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)</sub> | Status | Extra Notes |
 | :-----:  | :-:         | :-:             | :-: | :-: | :-: |
 | **Bentley Bentayga** | bbentayga | [Picture](/[PLOKS_CARS]/[BENTLEY]/bbentayga/bbentayga.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga) | ✔️ |
 | **2008 BMW M2 e92** |  | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/bmw-m2-e92-2008-add-on-replace) |
