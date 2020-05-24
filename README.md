@@ -44,5 +44,5 @@ start ploks_carmenu
 | **2017 Mercedes-Benz AMG GT R** | amggtr | [Picture](/[PLOKS_CARS]/[MERCEDES]/amggtr/amggtr.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/mercedes-benz-amg-gt-r-2017) | ✔️ |
 | **Mercedes SLS AMG Autovista** | slsamg | [Picture](/[PLOKS_CARS]/[MERCEDES]/slsamg/slsamg.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/mercedes-sls-amg-autovista-add-on-replace-template) | ✔️ |
 | **Porsche 718 Cayman S** | 718caymans | [Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
-| **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ | ✔️ |
+| **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
 | **2014 Volkswagen Golf VII R** | golf7r | [Picture](/[PLOKS_CARS]/[VOLKSWAGEN]/golf7r/golf7r.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/volkswagen-golf-vii-r-2014) | ✔️ | Removed from 5MODS |
