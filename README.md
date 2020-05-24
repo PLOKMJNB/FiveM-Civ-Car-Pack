@@ -31,9 +31,9 @@ start ploks_carmenu
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)<sub>  |
 | :-----:  | :-:         | :-:             | :-: | :-: |
 | **Bentley Bentayga** | bbentayga | [Picture](/[PLOKS_CARS]/[BENTLEY]/bbentayga/bbentayga.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga) |
-| **2021 Cadillac Escalade** | 21escalade | [Picture](/[PLOKS_CARS]/[CADILLAC]/cesc21/cesc21.jpg) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/cadillac-escalade-2021-next-gen-replace) |
+| **2021 Cadillac Escalade** | cesc21 | [Picture](/[PLOKS_CARS]/[CADILLAC]/cesc21/cesc21.jpg) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/cadillac-escalade-2021-next-gen-replace) |
 | **2009 Chevrolet Tahoe** | 09tahoe | [Picture](/[PLOKS_CARS]/[CHEVROLET]/09tahoe/09tahoe.png) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-tahoe-add-on-replace) |
 | **2015 Chevrolet Tahoe** | 15tahoe | [Picture](/[PLOKS_CARS]/[CHEVROLET]/15tahoe/15tahoe.png) | SWPOK | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-chevy-tahoe-with-extras-addon) |
-| **2019 Ferrari Pista 488 Spider** | 19p488 | [Picture](/[PLOKS_CARS]/[FERRARI]/19p488/19p488.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) |
+| **2019 Ferrari Pista 488 Spider** | pistaspider19 | [Picture](/[PLOKS_CARS]/[FERRARI]/19p488/19p488.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) |
 | **2017 Ford Focus RS** | 17focus | [Picture](/[PLOKS_CARS]/[RANGEROVER]/17focus/17focus.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/ford-focus-rs-2017-add-on-replace-tuning-template-multi-livery) |
 | **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) |

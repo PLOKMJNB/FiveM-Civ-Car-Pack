@@ -4,10 +4,10 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>tahoe</modelName>
-      <txdName>tahoe</txdName>
-      <handlingId>TAHOE</handlingId>
-      <gameName>TAHOE</gameName>
+      <modelName>15tahoe</modelName>
+      <txdName>15tahoe</txdName>
+      <handlingId>15tahoe</handlingId>
+      <gameName>15tahoe</gameName>
       <vehicleMakeName>CHEVY</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -128,7 +128,7 @@
   <txdRelationships>
     <Item>
       <parent>vehicles_banshee_interior</parent>
-      <child>tahoe</child>
+      <child>15tahoe</child>
     </Item>
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>

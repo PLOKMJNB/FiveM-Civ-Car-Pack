@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
      <Item type="CHandlingData">
-      <handlingName>tahoe</handlingName>
+      <handlingName>09tahoe</handlingName>
       <fMass value="2400.000000" />
       <fInitialDragCoeff value="1.220000" />
       <fPercentSubmerged value="85.000000" />

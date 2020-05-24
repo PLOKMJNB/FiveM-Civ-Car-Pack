@@ -14,10 +14,10 @@
 
 
     <Item>
-      <modelName>evoque</modelName>
-      <txdName>evoque</txdName>
-      <handlingId>evoque</handlingId>
-      <gameName>evoque</gameName>
+      <modelName>rrevoque</modelName>
+      <txdName>rrevoque</txdName>
+      <handlingId>rrevoque</handlingId>
+      <gameName>rrevoque</gameName>
       <vehicleMakeName>rangerover</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -136,7 +136,7 @@
   <txdRelationships>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>evoque</child>
+      <child>rrevoque</child>
     </Item>
 
 

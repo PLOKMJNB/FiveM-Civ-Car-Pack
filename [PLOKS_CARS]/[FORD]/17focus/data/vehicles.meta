@@ -14,10 +14,10 @@
 
 
     <Item>
-      <modelName>focusrs</modelName>
-      <txdName>focusrs</txdName>
-      <handlingId>focusrs</handlingId>
-      <gameName>FOCUSRS</gameName>
+      <modelName>17focusrs</modelName>
+      <txdName>17focusrs</txdName>
+      <handlingId>17focusrs</handlingId>
+      <gameName>17focusrs</gameName>
       <vehicleMakeName>FORD</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -136,7 +136,7 @@
   <txdRelationships>
     <Item>
       <parent>vehicles_dom_interior</parent>
-      <child>focusrs</child>
+      <child>17focusrs</child>
     </Item>
 
 
