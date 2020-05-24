@@ -1,6 +1,7 @@
 # FiveM Civilian Car Pack
 
 ### How To Install
+- Fork or direct download this repository to your server or wherver you may be hosting your FiveM server
 
 # The Fun Stuff
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)<sub>  |
