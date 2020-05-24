@@ -31,18 +31,18 @@ start ploks_carmenu
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)</sub> | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Bentley Bentayga** | bbentayga | [Picture](/[PLOKS_CARS]/[BENTLEY]/bbentayga/bbentayga.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga) | ✔️ |
-| **2016 BMW M2** | m2 | [Picture](/[PLOKS_CARS]/[BMW]/m2/m2.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/2016-bmw-m2-add-on-replace-tuning-template) |
-| **2008 BMW M3 e92** | m3e92 | [Picture](/[PLOKS_CARS]/[BMW]/m3e92/m3e92.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/bmw-m2-e92-2008-add-on-replace) |
+| **2016 BMW M2** | m2 | [Picture](/[PLOKS_CARS]/[BMW]/m2/m2.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/2016-bmw-m2-add-on-replace-tuning-template) | ✔️ |
+| **2008 BMW M3 e92** | m3e92 | [Picture](/[PLOKS_CARS]/[BMW]/m3e92/m3e92.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/bmw-m2-e92-2008-add-on-replace) | ✔️ |
 | **2021 Cadillac Escalade** | cesc21 | [Picture](/[PLOKS_CARS]/[CADILLAC]/cesc21/cesc21.jpg) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/cadillac-escalade-2021-next-gen-replace) | ✔️ |
 | **2009 Chevrolet Tahoe** | 09tahoe | [Picture](/[PLOKS_CARS]/[CHEVROLET]/09tahoe/09tahoe.png) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-tahoe-add-on-replace) | ✔️ |
 | **2015 Chevrolet Tahoe** | 15tahoe | [Picture](/[PLOKS_CARS]/[CHEVROLET]/15tahoe/15tahoe.png) | SWPOK | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-chevy-tahoe-with-extras-addon) | ✔️ |
-| **Ferrari 458 Italia Autovista** | f458 | [Picture](/[PLOKS_CARS]/[FERRARI]/f458/f458.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/ferrari-458-italia-autovista-add-on-replace) |
+| **Ferrari 458 Italia Autovista** | f458 | [Picture](/[PLOKS_CARS]/[FERRARI]/f458/f458.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/ferrari-458-italia-autovista-add-on-replace) | ✔️ |
 | **2019 Ferrari Pista 488 Spider** | pistaspider19 | [Picture](/[PLOKS_CARS]/[FERRARI]/pistaspider19/pistaspider19.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) | ✔️ |
 | **2017 Ford Focus RS** | 17focus | [Picture](/[PLOKS_CARS]/[RANGEROVER]/17focus/17focus.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/ford-focus-rs-2017-add-on-replace-tuning-template-multi-livery) | ✔️ |
-| **Lamborghini Reventon** | lamboreventon | [Picture](/[PLOKS_CARS]/[LAMBORGHINI]/lamboreventon/lamboreventon.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lamborghini-reventon) |
-| **Lexus GS 350** | gs350 | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) |
-| **2017 Mercedes-Benz AMG GT R** | amggtr | [Picture](/[PLOKS_CARS]/[MERCEDES]/amggtr/amggtr.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/mercedes-benz-amg-gt-r-2017) |
-| **Mercedes SLS AMG Autovista** | slsamg | [Picture](/[PLOKS_CARS]/[MERCEDES]/slsamg/slsamg.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/mercedes-sls-amg-autovista-add-on-replace-template) |
-| **Porsche 718 Cayman S** | 718caymans | [Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) |
-| **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
-| **2014 Volkswagen Golf VII R** | golf7r | [Picture](/[PLOKS_CARS]/[VOLKSWAGEN]/golf7r/golf7r.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/volkswagen-golf-vii-r-2014) |  | Removed from 5MODS |
+| **Lamborghini Reventon** | lamboreventon | [Picture](/[PLOKS_CARS]/[LAMBORGHINI]/lamboreventon/lamboreventon.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lamborghini-reventon) | ✔️ |
+| **Lexus GS 350** | gs350 | [Picture](/[PLOKS_CARS]/[LEXUS]/gs350/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
+| **2017 Mercedes-Benz AMG GT R** | amggtr | [Picture](/[PLOKS_CARS]/[MERCEDES]/amggtr/amggtr.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/mercedes-benz-amg-gt-r-2017) | ✔️ |
+| **Mercedes SLS AMG Autovista** | slsamg | [Picture](/[PLOKS_CARS]/[MERCEDES]/slsamg/slsamg.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/mercedes-sls-amg-autovista-add-on-replace-template) | ✔️ |
+| **Porsche 718 Cayman S** | 718caymans | [Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
+| **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ | ✔️ |
+| **2014 Volkswagen Golf VII R** | golf7r | [Picture](/[PLOKS_CARS]/[VOLKSWAGEN]/golf7r/golf7r.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/volkswagen-golf-vii-r-2014) | ✔️ | Removed from 5MODS |
