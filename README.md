@@ -1,12 +1,12 @@
 # FiveM Civilian Car Pack
 
 ### How To Install
-- Clone or direct download this repository to your server or wherver you may be hosting your FiveM server
+- Clone or direct download this repository to your server or wherever you may be hosting your FiveM server
   - If needed use an FTP (ex. Filezilla) to send this repo to your server
 - Go to your `server.cfg` in your server files and copy everything you find in this [file](server.cfg.txt)
-- Your done!
-  - If you add this while your server is running, go to your console and type, `refresh` then type `start *whatever*` to test any car out.
-    - once ou add it into the server and do a restart, this extra step is unneccasary
+- You're done!
+  - If you add this while your server is running, go to your live console and type, `refresh` then type `start *whatever*` to test any car out.
+    - Once you add it into the server and do a restart, this extra step is unnecessary
 
 # The Fun Stuff
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)<sub>  |
