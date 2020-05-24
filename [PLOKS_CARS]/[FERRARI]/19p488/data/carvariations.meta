@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>pistaspider19</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            1
+            0
+            0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            79
+            0
+            111
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Daytona Yellow -->
+            89
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Astro Blue Metallic -->
+            74
+            73
+            4
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Mulsanne Blue Metallic -->
+            181
+            73
+            68
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Classic Copper Metallic -->
+            104
+            106
+            104
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            93
+            98
+            105
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            124
+            98
+            185
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            123
+            0
+            4
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> 
+            18
+            49
+            3
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Forest Green Metallic -->
+            49
+            49
+            52
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Green Mist Metallic -->
+            170
+            0
+            182
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cranberry Red -->
+            29
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Desert Sand Metallic -->
+            165
+            106
+            106
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Hugger Orange -->
+            188
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Classic White -->
+            111
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="198" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
