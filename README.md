@@ -38,11 +38,6 @@ start ploks_carmenu
 | **2015 Chevrolet Tahoe** | 15tahoe | [Picture](/[PLOKS_CARS]/[CHEVROLET]/15tahoe/15tahoe.png) | SWPOK | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-chevy-tahoe-with-extras-addon) | ✔️ |
 | **Ferrari 458 Italia Autovista** | f458 | [Picture](/[PLOKS_CARS]/[FERRARI]/f458/f458.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/ferrari-458-italia-autovista-add-on-replace) | ✔️ |
 | **2019 Ferrari Pista 488 Spider** | pistaspider19 | [Picture](/[PLOKS_CARS]/[FERRARI]/pistaspider19/pistaspider19.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) | ✔️ |
-| **2017 Ford Focus RS** | 17focus | [Picture](/[PLOKS_CARS]/[RANGEROVER]/17focus/17focus.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/ford-focus-rs-2017-add-on-replace-tuning-template-multi-livery) | ✔️ |
-| **Lamborghini Reventon** | lamboreventon | [Picture](/[PLOKS_CARS]/[LAMBORGHINI]/lamboreventon/lamboreventon.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lamborghini-reventon) | ✔️ |
 | **Lexus GS 350** | gs350 | [Picture](/[PLOKS_CARS]/[LEXUS]/gs350/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
-| **2017 Mercedes-Benz AMG GT R** | amggtr | [Picture](/[PLOKS_CARS]/[MERCEDES]/amggtr/amggtr.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/mercedes-benz-amg-gt-r-2017) | ✔️ |
-| **Mercedes SLS AMG Autovista** | slsamg | [Picture](/[PLOKS_CARS]/[MERCEDES]/slsamg/slsamg.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/mercedes-sls-amg-autovista-add-on-replace-template) | ✔️ |
 | **Porsche 718 Cayman S** | 718caymans | [Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
 | **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
-| **2014 Volkswagen Golf VII R** | golf7r | [Picture](/[PLOKS_CARS]/[VOLKSWAGEN]/golf7r/golf7r.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/volkswagen-golf-vii-r-2014) | ✔️ | Removed from 5MODS |
