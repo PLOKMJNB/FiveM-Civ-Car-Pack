@@ -90,7 +90,7 @@ function AddFerrari(menu)
     local submenu = _menuPool:AddSubMenu(menu, "Ferrari", "All ~b~Ferrari cars", 1400, 10)
     for i = 1, 1, 1 do 
 
-	local Item = NativeUI.CreateItem("2019 Ferrari Pista 488 Spider", "~b~Spawn")
+	    local Item = NativeUI.CreateItem("2019 Ferrari Pista 488 Spider", "~b~Spawn")
         Item.Activated = function(SelectedItem)
             spawnCar("pistaspider19")
         end
@@ -163,6 +163,19 @@ function AddMercedes(menu)
     end
 end
 
+function AddPorsche(menu)
+    local submenu = _menuPool:AddSubMenu(menu, "Porsche", "All ~b~Porsche cars", 1400, 10)
+    for i = 1, 1, 1 do 
+
+        local Item = NativeUI.CreateItem("Porsche 718 Cayman S", "~b~Spawn")
+        Item.Activated = function(SelectedItem)
+            spawnCar("718caymans")
+        end
+        submenu:AddItem(Item)
+        
+    end
+end
+
 function AddRangeRover(menu)
     local submenu = _menuPool:AddSubMenu(menu, "Range Rover", "All ~b~Range Rover cars", 1400, 10)
     for i = 1, 1, 1 do 
@@ -176,12 +189,31 @@ function AddRangeRover(menu)
     end
 end
 
+function AddVolkswagen(menu)
+    local submenu = _menuPool:AddSubMenu(menu, "Volkswagen", "All ~b~Volkswagen cars", 1400, 10)
+    for i = 1, 1, 1 do 
+
+        local Item = NativeUI.CreateItem("2014 Volkswagen Golf VII R", "~b~Spawn")
+        Item.Activated = function(SelectedItem)
+            spawnCar("golf7r")
+        end
+        submenu:AddItem(Item)
+        
+    end
+end
+
 AddBentley(mainMenu)
+AddBMW(mainMenu)
 AddCadillac(mainMenu)
 AddChevrolet(mainMenu)
 AddFerrari(mainMenu)
 AddFord(mainMenu)
+AddLamborghini(mainMenu)
+AddLexus(mainMenu)
+AddMercedes(mainMenu)
+AddPorsche(mainMenu)
 AddRangeRover(mainMenu)
+AddVolkswagen(mainMenu)
 _menuPool:RefreshIndex()
 
 
