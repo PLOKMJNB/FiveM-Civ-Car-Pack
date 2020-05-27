@@ -19,6 +19,26 @@ function FirstItem(menu)
     end
 end
 
+
+function AddBMW(menu)
+    local submenu = _menuPool:AddSubMenu(menu, "BMW", "All ~b~BMW cars", 1400, 10)
+    for i = 1, 1, 1 do 
+
+        local Item = NativeUI.CreateItem("2016 BMW M2", "~b~Spawn")
+        Item.Activated = function(SelectedItem)
+            spawnCar("m2")
+        end
+        submenu:AddItem(Item)
+		
+	local Item = NativeUI.CreateItem("2008 BMW M3 e92", "~b~Spawn")
+        Item.Activated = function(SelectedItem)
+            spawnCar("m3e92")
+        end
+        submenu:AddItem(Item)
+        
+    end
+end
+
 --[[Cadillac]]--
 
 function AddBentley(menu)
@@ -70,9 +90,15 @@ function AddFerrari(menu)
     local submenu = _menuPool:AddSubMenu(menu, "Ferrari", "All ~b~Ferrari cars", 1400, 10)
     for i = 1, 1, 1 do 
 
-        local Item = NativeUI.CreateItem("2019 Ferrari Pista 488 Spider", "~b~Spawn")
+	local Item = NativeUI.CreateItem("2019 Ferrari Pista 488 Spider", "~b~Spawn")
         Item.Activated = function(SelectedItem)
             spawnCar("pistaspider19")
+        end
+        submenu:AddItem(Item)
+		
+        local Item = NativeUI.CreateItem("Ferrari 458 Italia Autovista", "~b~Spawn")
+        Item.Activated = function(SelectedItem)
+            spawnCar("f458")
         end
         submenu:AddItem(Item)
         
@@ -86,6 +112,51 @@ function AddFord(menu)
         local Item = NativeUI.CreateItem("2017 Ford Focus RS", "~b~Spawn")
         Item.Activated = function(SelectedItem)
             spawnCar("17focus")
+        end
+        submenu:AddItem(Item)
+        
+    end
+end
+
+function AddLamborghini(menu)
+    local submenu = _menuPool:AddSubMenu(menu, "Lamborghini", "All ~b~Lamborghini cars", 1400, 10)
+    for i = 1, 1, 1 do 
+
+        local Item = NativeUI.CreateItem("Lamborghini Reventon", "~b~Spawn")
+        Item.Activated = function(SelectedItem)
+            spawnCar("lamboreventon")
+        end
+        submenu:AddItem(Item)
+        
+    end
+end
+
+function AddLexus(menu)
+    local submenu = _menuPool:AddSubMenu(menu, "Lexus", "All ~b~Lexus cars", 1400, 10)
+    for i = 1, 1, 1 do 
+
+        local Item = NativeUI.CreateItem("Lexus GS 350", "~b~Spawn")
+        Item.Activated = function(SelectedItem)
+            spawnCar("gs350")
+        end
+        submenu:AddItem(Item)
+        
+    end
+end
+
+function AddMercedes(menu)
+    local submenu = _menuPool:AddSubMenu(menu, "Mercedes", "All ~b~Mercedes cars", 1400, 10)
+    for i = 1, 1, 1 do 
+
+        local Item = NativeUI.CreateItem("2017 Mercedes-Benz AMG GT R", "~b~Spawn")
+        Item.Activated = function(SelectedItem)
+            spawnCar("amggtr")
+        end
+        submenu:AddItem(Item)
+		
+	local Item = NativeUI.CreateItem("Mercedes SLS AMG Autovista", "~b~Spawn")
+        Item.Activated = function(SelectedItem)
+            spawnCar("slslamg")
         end
         submenu:AddItem(Item)
         
