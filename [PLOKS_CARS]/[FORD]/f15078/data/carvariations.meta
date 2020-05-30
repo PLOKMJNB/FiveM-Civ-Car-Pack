@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>f15078</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Raven Black -->
+            0
+            0
+            0
+            156
+            1
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Wimbledon White -->
+            111
+            111
+            0
+            156
+            111
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Candyapple Red -->
+            29
+            29
+            0
+            156
+            30
+            30
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Candyapple Red / White -->
+            29
+            111
+            0
+            156
+            1
+            30
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Metallic -->
+            4
+            4
+            5
+            156
+            1
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Metallic / Black -->
+            4
+            0
+            5
+            156
+            1
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Midnight Blue Metallic -->
+            62
+            62
+            127
+            156
+            181
+            181
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Midnight Blue Metallic / White -->
+            62
+            111
+            127
+            156
+            181
+            181
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Light Blue -->
+            176
+            176
+            0
+            156
+            181
+            181
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Bahama Blue -->
+            181
+            181
+            0
+            156
+            181
+            181
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Bahama Blue / White -->
+            181
+            111
+            0
+            156
+            181
+            181
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Light Jade -->
+            200
+            200
+            0
+            156
+            50
+            50
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Light Jade / White -->
+            200
+            111
+            0
+            156
+            1
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Jade Metallic -->
+            50
+            50
+            54
+            156
+            50
+            50
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Jade Metallic / White -->
+            50
+            111
+            54
+            156
+            111
+            50
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Jade Metallic / Light Jade -->
+            50
+            200
+            54
+            156
+            50
+            50
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Chrome Yellow -->
+            89
+            89
+            0
+            156
+            1
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Tan -->
+            169
+            169
+            0
+            156
+            97
+            97
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Tan / Medium Copper -->
+            169
+            104
+            3
+            156
+            104
+            169
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Tan / Dark Brown -->
+            169
+            103
+            3
+            156
+            104
+            169
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Medium Copper -->
+            104
+            104
+            3
+            156
+            104
+            169
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Medium Copper / White -->
+            104
+            111
+            3
+            156
+            104
+            104
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Medium Copper / Dark Brown -->
+            104
+            103
+            3
+            156
+            97
+            97
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Brown Metallic / Tan -->
+            103
+            169
+            3
+            156
+            104
+            169
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Brown Metallic / Copper -->
+            103
+            104
+            3
+            156
+            97
+            97
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

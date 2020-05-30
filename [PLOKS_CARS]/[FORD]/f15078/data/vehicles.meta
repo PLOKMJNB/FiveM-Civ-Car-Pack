@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+  <residentTxd>vehshare</residentTxd>
+  <residentAnims />
+  <InitDatas>
+    <Item>
+      <modelName>f15078</modelName>
+      <txdName>f15078</txdName>
+      <handlingId>f15078</handlingId>
+      <gameName>F15078</gameName>
+      <vehicleMakeName>FORD</vehicleMakeName>
+      <expressionDictName>null</expressionDictName>
+      <expressionName>null</expressionName>
+      <animConvRoofDictName>null</animConvRoofDictName>
+      <animConvRoofName>null</animConvRoofName>
+      <animConvRoofWindowsAffected />
+      <ptfxAssetName>null</ptfxAssetName>
+      <audioNameHash>sandking</audioNameHash>
+      <layout>LAYOUT_STD_HIGHWINDOW</layout>
+      <coverBoundOffsets>REBEL_COVER_OFFSET_INFO</coverBoundOffsets>
+      <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+      <scenarioLayout />
+      <cameraName>FOLLOW_JEEP_CAMERA</cameraName>
+      <aimCameraName>JEEP_AIM_CAMERA</aimCameraName>
+      <bonnetCameraName>VEHICLE_BONNET_CAMERA_NEAR_LOW</bonnetCameraName>
+      <povCameraName>DEFAULT_POV_CAMERA</povCameraName>
+      <FirstPersonDriveByIKOffset x="0" y="-0.06" z="0.015000" />
+      <FirstPersonDriveByUnarmedIKOffset x="0" y="-0.025000" z="0" />
+	  <FirstPersonProjectileDriveByIKOffset x="0.06" y="-0.06" z="0" />
+	  <FirstPersonProjectileDriveByPassengerIKOffset x="-0.06" y="-0.06" z="0" />
+	  <FirstPersonProjectileDriveByRearLeftIKOffset x="0" y="0" z="0" />
+	  <FirstPersonProjectileDriveByRearRightIKOffset x="0" y="0" z="0" />
+	  <FirstPersonDriveByLeftPassengerIKOffset x="0" y="0" z="0" />
+	  <FirstPersonDriveByRightPassengerIKOffset x="0" y="-0.06" z="0.015000" />
+	  <FirstPersonDriveByRightRearPassengerIKOffset x="0" y="0" z="0" />
+	  <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0" y="0" z="0" />
+	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0" y="-0.025000" z="0" />
+	  <FirstPersonMobilePhoneOffset x="0.173000" y="0.243000" z="0.503000" />
+      <FirstPersonPassengerMobilePhoneOffset x="0.135000" y="0.135000" z="0.455000" />
+      <PovCameraOffset x="0" y="-0.175000" z="0.655000" />
+      <PovCameraVerticalAdjustmentForRollCage value="-0.045000" />
+      <PovPassengerCameraOffset x="0" y="0" z="0" />
+      <PovRearPassengerCameraOffset x="0" y="0" z="0" />
+      <vfxInfoName>VFXVEHICLEINFO_CAR_OFFROAD</vfxInfoName>
+      <shouldUseCinematicViewMode value="true" />
+      <shouldCameraTransitionOnClimbUpDown value="false" />
+      <shouldCameraIgnoreExiting value="false" />
+      <AllowPretendOccupants value="true" />
+      <AllowJoyriding value="true" />
+      <AllowSundayDriving value="true" />
+      <AllowBodyColorMapping value="true" />
+      <wheelScale value="0.25" />
+      <wheelScaleRear value="0.25" />
+      <dirtLevelMin value="0.3" />
+      <dirtLevelMax value="0.85" />
+      <envEffScaleMin value="0.5" />
+      <envEffScaleMax value="1" />
+      <envEffScaleMin2 value="0" />
+      <envEffScaleMax2 value="1" />
+      <damageMapScale value="0.6" />
+      <damageOffsetScale value="1" />
+      <diffuseTint value="0x00FFFFFF" />
+      <steerWheelMult value="1" />
+      <HDTextureDist value="5" />
+      <lodDistances content="float_array">
+        15
+        35
+        80
+        160
+        500
+        500
+      </lodDistances>
+      <minSeatHeight value="0.87" />
+      <identicalModelSpawnDistance value="20" />
+      <maxNumOfSameColor value="10" />
+      <defaultBodyHealth value="1000" />
+      <pretendOccupantsScale value="1" />
+      <visibleSpawnDistScale value="1" />
+      <trackerPathWidth value="2" />
+      <weaponForceMult value="1" />
+      <frequency value="50" />
+      <swankness>SWANKNESS_1</swankness>
+      <maxNum value="20" />
+      <flags>FLAG_EXTRAS_STRONG FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_ATTACH_TRAILER_IN_CITY FLAG_AVERAGE_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS FLAG_IS_BULKY FLAG_EXTRAS_REQUIRE</flags>
+      <type>VEHICLE_TYPE_CAR</type>
+      <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
+      <dashboardType>VDT_BOBCAT</dashboardType>
+      <vehicleClass>VC_OFF_ROAD</vehicleClass>
+      <wheelType>VWT_OFFROAD</wheelType>
+      <trailers>
+        <Item>boattrailer</Item>
+        <Item>trailersmall</Item>
+      </trailers>
+      <additionalTrailers />
+      <drivers />
+      <extraIncludes />
+      <doorsWithCollisionWhenClosed>
+        <Item>VEH_EXT_BOOT</Item>
+      </doorsWithCollisionWhenClosed>
+      <driveableDoors />
+      <bumpersNeedToCollideWithMap value="false" />
+      <needsRopeTexture value="false" />
+      <requiredExtras />
+      <rewards />
+      <cinematicPartCamera>
+        <Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+        <Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+        <Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+        <Item>WHEEL_REAR_LEFT_CAMERA</Item>
+      </cinematicPartCamera>
+      <NmBraceOverrideSet>Truck</NmBraceOverrideSet>
+      <buoyancySphereOffset x="0" y="0" z="0" />
+      <buoyancySphereSizeScale value="1" />
+      <pOverrideRagdollThreshold type="NULL" />
+	  <firstPersonDrivebyData>
+        <Item>STD_DILETTANTE_FRONT_LEFT</Item>
+        <Item>STD_DILETTANTE_FRONT_RIGHT</Item>
+      </firstPersonDrivebyData>
+    </Item>
+  </InitDatas>
+
+  <txdRelationships>
+    <Item>
+      <parent>vehicles_bob_interior</parent>
+      <child>f15078</child>
+    </Item>
+  </txdRelationships>
+
+</CVehicleModelInfo__InitDataList>
