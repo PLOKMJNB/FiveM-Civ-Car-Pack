@@ -49,12 +49,9 @@ start ploks_carmenu
 | **Lexus GS 350** | gs350 | [Picture](/[PLOKS_CARS]/[LEXUS]/gs350/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **2002 Lotus Esprit V8** | esprit02 | [Picture](/[PLOKS_CARS]/[LOTUS]/esprit02/esprit02.webp) | OhiOcinu | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-lotus-esprit-v8-add-on-lods-template) | ✔️ |
 | **Quartz Regalia 723** | regalia | [Picture](/[PLOKS_CARS]/[LUCIS]/regalia/regalia.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/quartz-regalia-723) | ✔️ | Fictional [Final Fantasy XV] |
-
-| **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
-
-| **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
-
-| **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
+| **Mazda RX-7 FD** | majfd | [Picture](/[PLOKS_CARS]/[MAZDA]/majfd/majfd.webp) | MajesticDoggo | [5MODS Link](https://www.gta5-mods.com/vehicles/mazda-rx-7-fd-add-on-tuning-rhd) | ✔️ |
+| **2020 Mercedes-Benz AMG GT-R Roadster** | amggtrr20 | [Picture](/[PLOKS_CARS]/[MERCEDES]/amggtrr20/amggtrr20.webp) | [DTD] Asyr0n & CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-mercedes-benz-amg-gt-r-roadster-animated-roof-add-on-template) | ✔️ | Convertible |
+| **2019 Mercedes-Benz E400 Coupe 4matic (C238)** | e400 | [Picture](/[PLOKS_CARS]/[MERCEDES]/e400/e400.webp) | ahmeda1999 | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-mercedes-benz-e400-4matic-c238-add-on-replace-analog-digital-dials) | ✔️ |
 
 | **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
 
