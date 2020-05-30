@@ -43,6 +43,13 @@ start ploks_carmenu
 | **Chevrolet Corvette C5 Z06** | corvettec5z06 | [Picture](/[PLOKS_CARS]/[CORVETTE]/corvettec5z06/corvettec5z06.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-c5-z06-lods-add-on-template-liveries) | ✔️ |
 | **2009 Chevrolet Corvette ZR1** | czr1 | [Picture](/[PLOKS_CARS]/[CORVETTE]/czr1/czr1.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template) | ✔️ |
 | **2019 Ferrari Pista 488 Spider** | pistaspider19 | [Picture](/[PLOKS_CARS]/[FERRARI]/pistaspider19/pistaspider19.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) | ✔️ |
+
+| **1978 Ford F150 XLT Ranger** | f15078 | [Picture](/[PLOKS_CARS]/[FORD]/f15078/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
+
+| **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
+
+| **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
+
 | **Lexus GS 350** | gs350 | [Picture](/[PLOKS_CARS]/[LEXUS]/gs350/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **Porsche 718 Cayman S** | 718caymans | [Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
 | **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
