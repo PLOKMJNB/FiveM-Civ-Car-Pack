@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CHandlingDataMgr>
+  <HandlingData>
+<Item type="CHandlingData">
+    <handlingName>mr2zzw30</handlingName>
+    <fMass value="1000.00"/>
+    <fInitialDragCoeff value="3.199999"/>
+    <fDownforceModifier value="1.00"/>
+    <fPercentSubmerged value="85.00"/>
+    <vecCentreOfMassOffset x="0.0" y="-0.636" z="-0.007"/>
+    <vecInertiaMultiplier x="1.20" y="1.2" z="1.6"/>
+    <fDriveBiasFront value="0.0"/>
+    <nInitialDriveGears value="6"/>
+    <fInitialDriveForce value="0.186"/>
+    <fDriveInertia value="1.0"/>
+    <fClutchChangeRateScaleUpShift value="1.50"/>
+    <fClutchChangeRateScaleDownShift value="1.40"/>
+    <fInitialDriveMaxFlatVel value="213.0"/>
+    <fBrakeForce value="0.34"/>
+    <fBrakeBiasFront value="0.53"/>
+    <fHandBrakeForce value="0.60"/>
+    <fSteeringLock value="38.0"/>
+    <fTractionCurveMax value="1.95"/>
+    <fTractionCurveMin value="1.53"/>
+    <fTractionCurveLateral value="16.33"/>
+    <fTractionSpringDeltaMax value="0.15"/>
+    <fLowSpeedTractionLossMult value="0.0"/>
+    <fCamberStiffnesss value="0.00"/>
+    <fTractionBiasFront value="0.49"/>
+    <fTractionLossMult value="1.25"/>
+    <fSuspensionForce value="3.9"/>
+    <fSuspensionCompDamp value="1.32"/>
+    <fSuspensionReboundDamp value="1.30"/>
+    <fSuspensionUpperLimit value="0.12"/>
+    <fSuspensionLowerLimit value="-0.10"/>
+    <fSuspensionRaise value="0.00"/>
+    <fSuspensionBiasFront value="0.50"/>
+    <fAntiRollBarForce value="0.90"/>
+    <fAntiRollBarBiasFront value="0.46"/>
+    <fRollCentreHeightFront value="0.20"/>
+    <fRollCentreHeightRear value="0.20"/>
+    <fCollisionDamageMult value="2.00"/>
+    <fWeaponDamageMult value="2.00"/>
+    <fDeformationDamageMult value="2.00"/>
+    <fEngineDamageMult value="2.50"/>
+    <fPetrolTankVolume value="40.219124"/>
+    <fOilVolume value="5.00"/>
+    <fSeatOffsetDistX value="0.05"/>
+    <fSeatOffsetDistY value="0.00"/>
+    <fSeatOffsetDistZ value="0.05"/>
+    <nMonetaryValue value="16000"/>
+    <strModelFlags>440010</strModelFlags>
+    <strHandlingFlags>0</strHandlingFlags>
+    <strDamageFlags>0</strDamageFlags>
+    <AIHandling>AVERAGE</AIHandling>
+    <SubHandlingData>
+        <Item type="NULL"/>
+        <Item type="NULL"/>
+        <Item type="NULL"/>
+    </SubHandlingData>
+</Item>
+  </HandlingData>
+</CHandlingDataMgr>

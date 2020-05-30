@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+  </Kits>
+    <Lights>
+		<Item>
+      <id value="506"/>
+      <indicator>
+        <intensity value="5.8000000"/>
+        <falloffMax value="10.00000000"/>
+        <falloffExponent value="4.00000000"/>
+        <innerConeAngle value="20.00000000"/>
+        <outerConeAngle value="70.00000000"/>
+        <emmissiveBoost value="true"/>
+        <color value="0xFFFF180E"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="1.60000000"/>
+        <size_far value="1.60000000"/>
+        <intensity value="1.00000000"/>
+        <intensity_far value="4.00000000"/>
+        <color value="0xFFFF180E"/>
+        <numCoronas value="2"/>
+        <distBetweenCoronas value="63"/>
+        <distBetweenCoronas_far value="63"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.60000000"/>
+        <size_far value="0.60000000"/>
+        <intensity value="4.00000000"/>
+        <intensity_far value="1.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="1.8000000"/>
+        <falloffMax value="10.00000000"/>
+        <falloffExponent value="4.00000000"/>
+        <innerConeAngle value="20.00000000"/>
+        <outerConeAngle value="70.00000000"/>
+        <emmissiveBoost value="true"/>
+        <color value="0xFFFF0012"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </tailLight>
+      <tailLightCorona>
+        <size value="1.00000000"/>
+        <size_far value="1.60000000"/>
+        <intensity value="2.00000000"/>
+        <intensity_far value="1.00000000"/>
+        <color value="0xFFFF180E"/>
+        <numCoronas value="2"/>
+        <distBetweenCoronas value="63"/>
+        <distBetweenCoronas_far value="63"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.30000000"/>
+        <size_far value="0.50000000"/>
+        <intensity value="0.30000000"/>
+        <intensity_far value="0.40000000"/>
+        <color value="0xFFFF0012"/>
+        <numCoronas value="9"/>
+        <distBetweenCoronas value="6.8"/>
+        <distBetweenCoronas_far value="7"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="0.70000000"/>
+        <falloffMax value="10.00000000"/>
+        <falloffExponent value="4.00000000"/>
+        <innerConeAngle value="15.00000000"/>
+        <outerConeAngle value="60.00000000"/>
+        <emmissiveBoost value="true"/>
+        <color value="0xFF5483B8"/>
+        <textureName>VehicleLight_car_standardmodern</textureName>
+        <mirrorTexture value="false"/>
+      </headLight>
+      <headLightCorona>
+        <size value="1.00000000"/>
+        <size_far value="2.00000000"/>
+        <intensity value="0.70000000"/>
+        <intensity_far value="1.20000000"/>
+        <color value="0xFF61A8FF"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="27"/>
+        <distBetweenCoronas_far value="89"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.17592900"/>
+        <zRotation value="0.52778800"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.70000000"/>
+        <falloffMax value="7.20000000"/>
+        <falloffExponent value="32.00000000"/>
+        <innerConeAngle value="10.00000000"/>
+        <outerConeAngle value="45.00000000"/>
+        <emmissiveBoost value="true"/>
+        <color value="0xFFFFE386"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </reversingLight>
+      <extraLight>
+        <intensity value="2.000000" />
+        <falloffMax value="15.000000" />
+        <falloffExponent value="2.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="40.209999" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFCC" />
+        <textureName>VehicleLight_car_standardmodern</textureName>
+        <mirrorTexture value="true" />
+      </extraLight>
+      <extraLightCorona>
+        <size value="0.300000" />
+        <size_far value="10.000000" />
+        <intensity value="2.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFFFFCC" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </extraLightCorona>
+      <reversingLightCorona>
+        <size value="0.50000000"/>
+        <size_far value="2.00000000"/>
+        <intensity value="1.50000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00F7F7F7"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </reversingLightCorona>
+      <name>corvettec5z06</name>
+    </Item>
+		</Lights>
+</CVehicleModelInfoVarGlobal>
