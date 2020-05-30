@@ -31,10 +31,10 @@ start ploks_carmenu
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)</sub> | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | **Aston Martin DBX Carbon Edition** | amdbx | [Picture](/[PLOKS_CARS]/[ASTONMARTIN]/amdbx/amdbx.webp) | kuchka78 | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-dbx-carbon-edition) | ✔️ |
-| ***1983 Audi Quattro Sport** | audquattros | [Picture](/[PLOKS_CARS]/[AUDI]/audquattros/audquattros.webp) | Wanted188, METALman | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-quattro-sport-83-lods-template-add-on-tuning) | ✔️ |
-| ***2020 Audi RS7** | rs72020 | [Picture](/[PLOKS_CARS]/[AUDI]/rs72020/rs72020.webp) | tmax93 | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-rs7-2020-beta) | ✔️ |
+| **1983 Audi Quattro Sport** | audquattros | [Picture](/[PLOKS_CARS]/[AUDI]/audquattros/audquattros.webp) | Wanted188, METALman | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-quattro-sport-83-lods-template-add-on-tuning) | ✔️ |
+| **2020 Audi RS7** | rs72020 | [Picture](/[PLOKS_CARS]/[AUDI]/rs72020/rs72020.webp) | tmax93 | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-rs7-2020-beta) | ✔️ |
 | **Bentley Bentayga** | bbentayga | [Picture](/[PLOKS_CARS]/[BENTLEY]/bbentayga/bbentayga.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga) | ✔️ |
-| ***1995 BMW M5 E34** | e34 | [Picture](/[PLOKS_CARS]/[BMW]/e34/e34.webp) | HitmanNiko | [5MODS Link](https://www.gta5-mods.com/vehicles/1995-bmw-m5-e34-replace-add-on-tuning) | ✔️ |
+| **1995 BMW M5 E34** | e34 | [Picture](/[PLOKS_CARS]/[BMW]/e34/e34.webp) | HitmanNiko | [5MODS Link](https://www.gta5-mods.com/vehicles/1995-bmw-m5-e34-replace-add-on-tuning) | ✔️ |
 | **2016 BMW M2** | m2 | [Picture](/[PLOKS_CARS]/[BMW]/m2/m2.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/2016-bmw-m2-add-on-replace-tuning-template) | ✔️ |
 | **2008 BMW M3 e92** | m3e92 | [Picture](/[PLOKS_CARS]/[BMW]/m3e92/m3e92.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/bmw-m2-e92-2008-add-on-replace) | ✔️ |
 | **2021 Cadillac Escalade** | cesc21 | [Picture](/[PLOKS_CARS]/[CADILLAC]/cesc21/cesc21.jpg) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/cadillac-escalade-2021-next-gen-replace) | ✔️ |
@@ -44,8 +44,7 @@ start ploks_carmenu
 | **2009 Chevrolet Corvette ZR1** | czr1 | [Picture](/[PLOKS_CARS]/[CORVETTE]/czr1/czr1.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template) | ✔️ |
 | **2019 Ferrari Pista 488 Spider** | pistaspider19 | [Picture](/[PLOKS_CARS]/[FERRARI]/pistaspider19/pistaspider19.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) | ✔️ |
 | **1978 Ford F150 XLT Ranger** | f15078 | [Picture](/[PLOKS_CARS]/[FORD]/f15078/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
-
-| **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
+| **Honda CRX SiR 1991** | honcrx91 | [Picture](/[PLOKS_CARS]/[HONDA]/honcrx91/honcrx91.webp) | Wanted188, GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-crx-sir-91-add-on-tuning-template-lods) | ✔️ |
 
 | **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
 
