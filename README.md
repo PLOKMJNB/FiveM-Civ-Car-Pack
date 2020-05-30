@@ -42,7 +42,6 @@ start ploks_carmenu
 | **2015 Chevrolet Tahoe** | 15tahoe | [Picture](/[PLOKS_CARS]/[CHEVROLET]/15tahoe/15tahoe.png) | SWPOK | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-chevy-tahoe-with-extras-addon) | ✔️ |
 | **Chevrolet Corvette C5 Z06** | corvettec5z06 | [Picture](/[PLOKS_CARS]/[CORVETTE]/corvettec5z06/corvettec5z06.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-c5-z06-lods-add-on-template-liveries) | ✔️ |
 | **2009 Chevrolet Corvette ZR1** | czr1 | [Picture](/[PLOKS_CARS]/[CORVETTE]/czr1/czr1.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template) | ✔️ |
-| **Ferrari 458 Italia Autovista** | f458 | [Picture](/[PLOKS_CARS]/[FERRARI]/f458/f458.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/ferrari-458-italia-autovista-add-on-replace) | ✔️ |
 | **2019 Ferrari Pista 488 Spider** | pistaspider19 | [Picture](/[PLOKS_CARS]/[FERRARI]/pistaspider19/pistaspider19.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) | ✔️ |
 | **Lexus GS 350** | gs350 | [Picture](/[PLOKS_CARS]/[LEXUS]/gs350/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **Porsche 718 Cayman S** | 718caymans | [Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
