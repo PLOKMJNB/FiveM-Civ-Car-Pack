@@ -11,7 +11,11 @@
 ***Want any car in here? Just make an issue with a download link and I'll get to it!***
 
 ### How To Install The Cars
-- Clone or direct download this repository to your server or wherever you may be hosting your FiveM server
+- Download the latest release it you just want a simple install.
+- Clone or direct download if you know what your doing or if you plan to vbe doing any major reworking.
+  - Most of the time this will be outdated or incomplete asd i will be constantly updating this repository.
+- Copy the files to your server or wherever you may be hosting your FiveM server.
+  - Like ZAP-Hosting, your own dedicated VPS or even your main system<sub>[My favorite for home hosting for beginners](https://github.com/LambentLight/LambentLight)</sub>.
   - If needed use an FTP (ex. Filezilla) to send this repo to your server
 - Go to your `server.cfg` in your server files and copy everything you find in this [file](server.cfg.txt)
 - You're done installing the cars!
