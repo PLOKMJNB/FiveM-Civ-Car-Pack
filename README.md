@@ -12,8 +12,8 @@
 
 ### How To Install The Cars
 - Download the latest release it you just want a simple install.
-- Clone or direct download if you know what your doing or if you plan to vbe doing any major reworking.
-  - Most of the time this will be outdated or incomplete asd i will be constantly updating this repository.
+- Clone or direct download if you know what your doing or if you plan to be doing any major reworking.
+  - Most of the time this will be outdated or incomplete as   will be constantly updating this repository.
 - Copy the files to your server or wherever you may be hosting your FiveM server.
   - Like ZAP-Hosting, your own dedicated VPS or even your main system<sub>[My favorite for home hosting for beginners](https://github.com/LambentLight/LambentLight)</sub>.
   - If needed use an FTP (ex. Filezilla) to send this repo to your server
@@ -49,6 +49,11 @@ start ploks_carmenu
 | **2019 Ferrari Pista 488 Spider** | pistaspider19 | [Picture](/[PLOKS_CARS]/[FERRARI]/pistaspider19/pistaspider19.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) | ✔️ |
 | **1978 Ford F150 XLT Ranger** | f15078 | [Picture](/[PLOKS_CARS]/[FORD]/f15078/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
 | **Honda CRX SiR 1991** | honcrx91 | [Picture](/[PLOKS_CARS]/[HONDA]/honcrx91/honcrx91.webp) | Wanted188, GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-crx-sir-91-add-on-tuning-template-lods) | ✔️ |
+
+dragekcivick
+
+| **NAME** | dragekcivick | [Picture](/[PLOKS_CARS]/[HONDA]/dragekcivick/dragekcivick.webp) | KreyZ Designs | [5MODS Link]() | ✔️ |
+
 | **2020 Koenigsegg Jesko** | jes | [Picture](/[PLOKS_CARS]/[KOENIGSEGG]/jes/jes.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-door-script-digital-dials-extras-00abolfazl00) | ✔️ |
 | **Lexus GS 350** | gs350 | [Picture](/[PLOKS_CARS]/[LEXUS]/gs350/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **2002 Lotus Esprit V8** | esprit02 | [Picture](/[PLOKS_CARS]/[LOTUS]/esprit02/esprit02.webp) | OhiOcinu | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-lotus-esprit-v8-add-on-lods-template) | ✔️ |
@@ -62,8 +67,8 @@ start ploks_carmenu
 | **Porsche 718 Cayman S** | 718caymans | [Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
 | **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
 
-
-
+1997 Honda Civic Sedan Drag Version
+https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/
 
 
 | **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
