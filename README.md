@@ -49,26 +49,22 @@ start ploks_carmenu
 | **2019 Ferrari Pista 488 Spider** | pistaspider19 | [Picture](/[PLOKS_CARS]/[FERRARI]/pistaspider19/pistaspider19.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) | ✔️ |
 | **1978 Ford F150 XLT Ranger** | f15078 | [Picture](/[PLOKS_CARS]/[FORD]/f15078/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
 | **Honda CRX SiR 1991** | honcrx91 | [Picture](/[PLOKS_CARS]/[HONDA]/honcrx91/honcrx91.webp) | Wanted188, GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-crx-sir-91-add-on-tuning-template-lods) | ✔️ |
-
-dragekcivick
-
-| **NAME** | dragekcivick | [Picture](/[PLOKS_CARS]/[HONDA]/dragekcivick/dragekcivick.webp) | KreyZ Designs | [5MODS Link]() | ✔️ |
-
+| **1997 Honda Civic Sedan Drag Version** | dragekcivick | [Picture](/[PLOKS_CARS]/[HONDA]/dragekcivick/dragekcivick.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/) | ✔️ | xAdrian |
 | **2020 Koenigsegg Jesko** | jes | [Picture](/[PLOKS_CARS]/[KOENIGSEGG]/jes/jes.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-door-script-digital-dials-extras-00abolfazl00) | ✔️ |
 | **Lexus GS 350** | gs350 | [Picture](/[PLOKS_CARS]/[LEXUS]/gs350/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **2002 Lotus Esprit V8** | esprit02 | [Picture](/[PLOKS_CARS]/[LOTUS]/esprit02/esprit02.webp) | OhiOcinu | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-lotus-esprit-v8-add-on-lods-template) | ✔️ |
 | **Quartz Regalia 723** | regalia | [Picture](/[PLOKS_CARS]/[LUCIS]/regalia/regalia.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/quartz-regalia-723) | ✔️ | Fictional [Final Fantasy XV] |
+| **1984 Mazda RX-7 Stanced Version** | 84rx7k | [Picture](/[PLOKS_CARS]/[MAZDA]/84rx7k/84rx7k.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1984-mazda-rx-7-stanced-version-five-m-replace-add-on) | ✔️ |
 | **Mazda RX-7 FD** | majfd | [Picture](/[PLOKS_CARS]/[MAZDA]/majfd/majfd.webp) | MajesticDoggo | [5MODS Link](https://www.gta5-mods.com/vehicles/mazda-rx-7-fd-add-on-tuning-rhd) | ✔️ |
 | **2020 Mercedes-Benz AMG GT-R Roadster** | amggtrr20 | [Picture](/[PLOKS_CARS]/[MERCEDES]/amggtrr20/amggtrr20.webp) | [DTD] Asyr0n & CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-mercedes-benz-amg-gt-r-roadster-animated-roof-add-on-template) | ✔️ | Convertible |
 | **2019 Mercedes-Benz E400 Coupe 4matic (C238)** | e400 | [Picture](/[PLOKS_CARS]/[MERCEDES]/e400/e400.webp) | ahmeda1999 | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-mercedes-benz-e400-4matic-c238-add-on-replace-analog-digital-dials) | ✔️ |
-
-| **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
-
+| **Mitsubishi FTO GP Version-R** | fto | [Picture](/[PLOKS_CARS]/[Mitsubishi]/fto/fto.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/mitsubishi-fto-gp-version-r-add-on-lods-tuning-template) | ✔️ |
+| **2017 Nissan Titan Warrior** | nissantitan17 | [Picture](/[PLOKS_CARS]/[NISSAN]/nissantitan17/nissantitan17.webp) | gtavmodscar | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-titan-warrior-2017-replace) | ✔️ |
 | **Porsche 718 Cayman S** | 718caymans | [Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
 | **Range Rover Evoque** | rrevoque | [Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
-
-1997 Honda Civic Sedan Drag Version
-https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/
-
+| **2014 Rolls Royce Phantom Coupe** | RollsRoyceCP | [Picture](/[PLOKS_CARS]/[ROLLSROYCE]/RollsRoyceCP/RollsRoyceCP.webp) | gtacool (最强潮吹帝) | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-rolls-royce-phantom-coupe) | ✔️ |
+| **2018 Rolls-Royce Phantom VIII** | rrphantom | [Picture](/[PLOKS_CARS]/[ROLLSROYCE]/rrphantom/rrphantom.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-rolls-royce-phantom-viii) | ✔️ |
+| **2002 Toyota MR-S** | mr2zzw30 | [Picture](/[PLOKS_CARS]/[TOYOTA]/mr2zzw30/mr2zzw30.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-mr-s-tunable-add-on-animated-roof-lods-template) | ✔️ |
+| **WMotors Fenyr Supersport** | wmfenyr | [Picture](/[PLOKS_CARS]/[WMOTORS]/wmfenyr/wmfenyr.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/wmotors-fenyr-supersport-add-on) | ✔️ |
 
 | **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
