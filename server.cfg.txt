@@ -26,6 +26,8 @@ start honcrx91
 start dragekcivick
 ---Koenigsegg
 start jes
+---Lamborghini
+start urus
 ---Lexus
 start gs350
 ---Lotus
@@ -50,6 +52,7 @@ start rrevoque
 start RollsRoyceCP
 start rrphantom
 ---Toyota
+start lc200
 start mr2zzw30
 ---W Motors
 start wmfenyr

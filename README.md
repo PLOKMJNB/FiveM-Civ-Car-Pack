@@ -66,6 +66,7 @@ start ploks_carmenu
 | **2014 Rolls Royce Phantom Coupe** | RollsRoyceCP | [Picture](/[PLOKS_CARS]/[ROLLSROYCE]/RollsRoyceCP/RollsRoyceCP.webp) | gtacool (最强潮吹帝) | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-rolls-royce-phantom-coupe) | ✔️ |
 | **2018 Rolls-Royce Phantom VIII** | rrphantom | [Picture](/[PLOKS_CARS]/[ROLLSROYCE]/rrphantom/rrphantom.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-rolls-royce-phantom-viii) | ✔️ |
 | **2002 Toyota MR-S** | mr2zzw30 | [Picture](/[PLOKS_CARS]/[TOYOTA]/mr2zzw30/mr2zzw30.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-mr-s-tunable-add-on-animated-roof-lods-template) | ✔️ |
+| **2016 Toyota Land Cruiser VXR** | vxr | [Picture](/[PLOKS_CARS]/[TOYOTA]/vxr/vxr.jpg) | Abdulrhman1 | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-land-cruiser-vxr) | ✔️ |
 | **WMotors Fenyr Supersport** | wmfenyr | [Picture](/[PLOKS_CARS]/[WMOTORS]/wmfenyr/wmfenyr.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/wmotors-fenyr-supersport-add-on) | ✔️ |
 
 | **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
