@@ -66,6 +66,12 @@ function AddBMW(menu)
     local submenu = _menuPool:AddSubMenu(menu, "BMW", "All ~b~BMW cars", 1400, 10)
     for i = 1, 1, 1 do 
 
+        local Item = NativeUI.CreateItem("1995 BMW M5 E34", "~b~Spawn")
+        Item.Activated = function(SelectedItem)
+            spawnCar("e45")
+        end
+        submenu:AddItem(Item)
+
         local Item = NativeUI.CreateItem("2016 BMW M2", "~b~Spawn")
         Item.Activated = function(SelectedItem)
             spawnCar("m2")
@@ -396,7 +402,7 @@ Citizen.CreateThread(function()
     while true do
         Citizen.Wait(0)
         _menuPool:ProcessMenus()
-		RegisterCommand('cars',function(scource, args)
+		RegisterCommand('vip1',function(scource, args)
             mainMenu:Visible(not mainMenu:Visible())
 		end, false)
     end
@@ -451,10 +457,10 @@ _menuPool:MouseEdgeEnabled (false);
 _menuPool:ControlDisablingEnabled(false);
 
 CreateThread(function()
-while true do
-Wait(0)
-_menuPool:MouseControlsEnabled (false);
-_menuPool:MouseEdgeEnabled (false);
-_menuPool:ControlDisablingEnabled(false)
-end
-end)
+    while true do
+    Wait(0)
+    _menuPool:MouseControlsEnabled (false);
+    _menuPool:MouseEdgeEnabled (false);
+    _menuPool:ControlDisablingEnabled(false)
+    end
+end);
