@@ -1,11 +1,11 @@
 # FiveM Civilian Car Pack
 
 <!--![Car Menu](https://img.shields.io/badge/Car%20Menu-Up%20to%20Date-brightgreen?style=for-the-badge)-->
-<!--![Car List](https://img.shields.io/badge/Car%20List-Up%20to%20Date-brightgreen?style=for-the-badge)-->
+<!--![Car List](https://img.shields.io/badge/Car%20List-Outdated-red?style=for-the-badge)-->
 <!--![Server.cgf.txt](https://img.shields.io/badge/server.cfg.txt-Outdated-red?style=for-the-badge)-->
 ![Issues](https://img.shields.io/github/issues/PLOKMJNB/FiveM-Civ-Car-Pack?style=for-the-badge&logo=github)
 ![Car Menu](https://img.shields.io/badge/Car%20Menu-Outdated-red?style=for-the-badge)
-![Car List](https://img.shields.io/badge/Car%20List-Outdated-red?style=for-the-badge)
+![Car List](https://img.shields.io/badge/Car%20List-Up%20to%20Date-brightgreen?style=for-the-badge)
 ![Server.cgf.txt](https://img.shields.io/badge/server.cfg.txt-Up%20to%20Date-brightgreen?style=for-the-badge)
 
 ***Want any car in here? Just make an issue with a download link and I'll get to it!***
