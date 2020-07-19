@@ -43,6 +43,7 @@ ensure majfd
 # Mercedes
 ensure amggtrr20
 ensure e400
+ensure sl500
 # Mitsubishi
 ensure fto
 # Nissan
