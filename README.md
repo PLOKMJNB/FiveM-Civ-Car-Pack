@@ -65,7 +65,7 @@ start ploks_carmenu
 | **2017 Nissan Titan Warrior** | nissantitan17 | ![Picture](/[PLOKS_CARS]/[NISSAN]/nissantitan17/nissantitan17.webp) | gtavmodscar | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-titan-warrior-2017-replace) | ✔️ |
 | **Porsche 718 Cayman S** | 718caymans | ![Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
 | **1978 Porsche 935 Moby Dick** | maj935 | ![Picture](/[PLOKS_CARS]/[PORSCHE]/maj935/maj935.webp) | MajesticDoggo | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-porsche-935-moby-dick) | ✔️ |
-| **2020 Porsche Taycan Turbo S** | taycan | [Picture](/[PLOKS_CARS]/[PORSCHE]/taycan/taycan.webp) | Scott_Carter | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-porsche-taycan-turbo-s-add-on-replace-template-auto-spoiler) | ✔️ |
+| **2020 Porsche Taycan Turbo S** | taycan | ![Picture](/[PLOKS_CARS]/[PORSCHE]/taycan/taycan.webp) | Scott_Carter | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-porsche-taycan-turbo-s-add-on-replace-template-auto-spoiler) | ✔️ |
 | **Range Rover Evoque** | rrevoque | ![Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
 | **2014 Rolls Royce Phantom Coupe** | RollsRoyceCP | ![Picture](/[PLOKS_CARS]/[ROLLSROYCE]/RollsRoyceCP/RollsRoyceCP.webp) | gtacool (最强潮吹帝) | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-rolls-royce-phantom-coupe) | ✔️ |
 | **2018 Rolls-Royce Phantom VIII** | rrphantom | ![Picture](/[PLOKS_CARS]/[ROLLSROYCE]/rrphantom/rrphantom.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-rolls-royce-phantom-viii) | ✔️ |
