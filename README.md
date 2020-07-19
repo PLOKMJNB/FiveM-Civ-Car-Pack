@@ -34,7 +34,7 @@ start ploks_carmenu
 # The Fun Stuff
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)</sub> | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Aston Martin DBX Carbon Edition** | amdbx | [Picture](/[PLOKS_CARS]/[ASTONMARTIN]/amdbx/amdbx.webp) | kuchka78 | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-dbx-carbon-edition) | ✔️ |
+| **Aston Martin DBX Carbon Edition** | amdbx | ![Picture](/[PLOKS_CARS]/[ASTONMARTIN]/amdbx/amdbx.webp) | kuchka78 | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-dbx-carbon-edition) | ✔️ |
 | **1983 Audi Quattro Sport** | audquattros | [Picture](/[PLOKS_CARS]/[AUDI]/audquattros/audquattros.webp) | Wanted188, METALman | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-quattro-sport-83-lods-template-add-on-tuning) | ✔️ |
 | **2020 Audi RS7** | rs72020 | [Picture](/[PLOKS_CARS]/[AUDI]/rs72020/rs72020.webp) | tmax93 | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-rs7-2020-beta) | ✔️ |
 | **Bentley Bentayga** | bbentayga | [Picture](/[PLOKS_CARS]/[BENTLEY]/bbentayga/bbentayga.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga) | ✔️ |
