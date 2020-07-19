@@ -1,59 +1,63 @@
 [PLOK Cars]
----Aston Martin
-start amdbx
----Audi
-start audquattros
-start rs72020
----Bentley
-start bbentayga
----BMW
-start e34
-start m2
-start m3e92
----Cadillac
-start cesc21
----Chevrolet
-start 09tahoe
-start 15tahoe
----Corvette
-start corvettec5z06
-start czr1
----Ferrari
-start pistaspider19
----Ford
-start f15078
----Honda
-start honcrx91
-start dragekcivick
----Koenigsegg
-start jes
----Lamborghini
-start urus
----Lexus
-start gs350
----Lotus
-start esprit02
----Lucis
-start regalia
----Mazda
-start 84rx7k
-start majfd
----Mercedes
-start amggtrr20
-start e400
----Mitsubishi
-start fto
----Nissan
-start nissantitan17
----Porsche
-start 718caymans
----Range Rover
-start rrevoque
----Rolls Royce
-start RollsRoyceCP
-start rrphantom
----Toyota
-start vxr
-start mr2zzw30
----W Motors
-start wmfenyr
+# Aston Martin
+ensure amdbx
+# Audi
+ensure audquattros
+ensure rs72020
+# Bentley
+ensure bbentayga
+# BMW
+ensure e34
+ensure m2
+ensure m3e92
+# Cadillac
+ensure cesc21
+# Chevrolet
+ensure 09tahoe
+ensure 15tahoe
+# Corvette
+ensure corvettec5z06
+ensure czr1
+# Dodge
+ensure 16charger
+# Ferrari
+ensure pistaspider19
+# Ford
+ensure f15078
+# Honda
+ensure honcrx91
+ensure dragekcivick
+# Koenigsegg
+ensure jes
+# Lamborghini
+ensure urus
+# Lexus
+ensure gs350
+# Lotus
+ensure esprit02
+# Lucis
+ensure regalia
+# Mazda
+ensure 84rx7k
+ensure majfd
+# Mercedes
+ensure amggtrr20
+ensure e400
+# Mitsubishi
+ensure fto
+# Nissan
+ensure nissantitan17
+# Porsche
+ensure 718caymans
+ensure maj935
+ensure taycan
+# Range Rover
+ensure rrevoque
+# Rolls Royce
+ensure RollsRoyceCP
+ensure rrphantom
+# Toyota
+ensure vxr
+ensure mr2zzw30
+# W Motors
+ensure wmfenyr
