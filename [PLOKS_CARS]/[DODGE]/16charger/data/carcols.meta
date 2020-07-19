@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+    <Item>
+      <kitName>385_charger_modkit</kitName>
+      <id value="385" />	 	  
+      <kitType>MKT_SPORT</kitType>
+      <visibleMods>
+	    <Item>
+          <modelName>15charger_bumperf_1</modelName>
+          <modShopLabel>CHR2_BUMF1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperf_2</modelName>
+          <modShopLabel>CHR2_BUMF2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperf_3</modelName>
+          <modShopLabel>CHR2_BUMF3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperf_3b</modelName>
+          <modShopLabel>CHR2_BUMF3B</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperf_4</modelName>
+          <modShopLabel>CHR2_BUMF4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperf_5</modelName>
+          <modShopLabel>CHR2_BUMF5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperf_6</modelName>
+          <modShopLabel>CHR2_BUMF6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperf_8</modelName>
+          <modShopLabel>CHR2_BUMF8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperr_4</modelName>
+          <modShopLabel>CHR2_BUMR4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+			<Item>bumper_r</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperr_6</modelName>
+          <modShopLabel>CHR2_BUMR6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+			<Item>bumper_r</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperr_1</modelName>
+          <modShopLabel>CHR2_BUMR1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+			<Item>misc_g</Item>
+			<Item>bumper_r</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperr_2</modelName>
+          <modShopLabel>CHR2_BUMR2</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_a</Item>
+			<Item>misc_g</Item>
+			<Item>bumper_r</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperr_3</modelName>
+          <modShopLabel>CHR2_BUMR3</modShopLabel>
+          <linkedModels>
+          </linkedModels>
+          <turnOffBones>
+            <Item>misc_a</Item>
+			<Item>misc_g</Item>
+			<Item>bumper_r</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bumperr_5</modelName>
+          <modShopLabel>CHR2_BUMR5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_a</Item>
+			<Item>misc_g</Item>
+			<Item>bumper_r</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bonnet_1</modelName>
+          <modShopLabel>CHR2_HOOD1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_bonnet_2</modelName>
+          <modShopLabel>CHR2_HOOD2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_spoiler_2</modelName> <!-- Hellcat Spoiler -->
+          <modShopLabel>CHR2_WING1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+			<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_spoiler_3</modelName>
+          <modShopLabel>CHR2_WING2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+			<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_spoiler_1</modelName>
+          <modShopLabel>CHR2_WING3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+			<Item>misc_e</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_sidebadge_1</modelName> <!-- 392 HEMI Badge -->
+          <modShopLabel>CHR2_SBADGE1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_sidebadge_2</modelName> <!-- Hellcat Badge -->
+          <modShopLabel>CHR2_SBADGE2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_rearbadge_1</modelName> <!-- R/T Badge -->
+          <modShopLabel>CHR2_RBADGE1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_rearbadge_2</modelName> <!-- SRT Badge -->
+          <modShopLabel>CHR2_RBADGE2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>boot</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_skirts_01</modelName>
+          <modShopLabel>CHR2_SKIRT1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_skirts_2</modelName>
+          <modShopLabel>CHR2_SKIRT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_skirts_3</modelName>
+          <modShopLabel>CHR2_SKIRT3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>15charger_roof_1</modelName>
+          <modShopLabel>CHR2_ROOF1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_i</Item>
+          </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+      <linkMods>
+	  </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="6" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="12" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+			<identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+			<modifier value="2982690084" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+			<modifier value="3203290992" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+			<modifier value="771284519" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+			<modifier value="2586621229" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+			<modifier value="283386134" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+			<modifier value="3884502400" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+			<modifier value="265723083" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+			<modifier value="1746883687" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+			<modifier value="1919870950" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+			<modifier value="1085277077" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>HIPSTER_HORN_1</identifier>
+			<modifier value="444549672" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>HIPSTER_HORN_2</identifier>
+			<modifier value="1603064898" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>HIPSTER_HORN_3</identifier>
+			<modifier value="240366033" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+		<Item>
+			<identifier>HIPSTER_HORN_4</identifier>
+			<modifier value="960137118" />
+			<audioApply value="1.000000" />
+			<weight value="0" />
+			<type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames>
+      </slotNames>
+      <liveryNames>
+        <Item>16CHARGER_LV1</Item>
+        <Item>16CHARGER_LV2</Item>
+		<Item>16CHARGER_LV3</Item>
+		<Item>16CHARGER_LV4</Item>
+		<Item>16CHARGER_LV5</Item>
+		<Item>16CHARGER_LV6</Item>
+      </liveryNames>
+    </Item>
+ </Kits>
+  <Lights>
+    <Item>
+      <id value="615" />	
+      <indicator>
+        <intensity value="1.27500000"/>
+        <falloffMax value="2.50000000"/>
+        <falloffExponent value="8.00000000"/>
+        <innerConeAngle value="20.00000000"/>
+        <outerConeAngle value="50.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFF8000"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.07500000"/>
+        <falloffMax value="4.00000000"/>
+        <falloffExponent value="16.00000000"/>
+        <innerConeAngle value="45.00000000"/>
+        <outerConeAngle value="90.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFF0A01"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </tailLight>
+      <tailLightCorona>
+        <size value="0.00000000"/>
+        <size_far value="8.00000000"/>
+        <intensity value="4.00000000"/>
+        <intensity_far value="1.00000000"/>
+        <color value="0xFFFF2D05"/>
+        <numCoronas value="0"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="0"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="8.00000000"/>
+        <falloffMax value="35.00000000"/>
+        <falloffExponent value="16.00000000"/>
+        <innerConeAngle value="0.00000000"/>
+        <outerConeAngle value="60.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFFD859"/>
+        <textureName>VehicleLight_car_standardmodern</textureName>
+        <mirrorTexture value="false"/>
+      </headLight>
+      <headLightCorona>
+        <size value="0.10000000"/>
+        <size_far value="10.00000000"/>
+        <intensity value="4.00000000"/>
+        <intensity_far value="1.00000000"/>
+        <color value="0xFFFCBB42"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="37"/>
+        <distBetweenCoronas_far value="122"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.65000000"/>
+        <falloffMax value="20.00000000"/>
+        <falloffExponent value="32.00000000"/>
+        <innerConeAngle value="20.00000000"/>
+        <outerConeAngle value="90.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFFFFFF"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.80000000"/>
+        <size_far value="2.00000000"/>
+        <intensity value="2.50000000"/>
+        <intensity_far value="1.00000000"/>
+        <color value="0x00F7F7F7"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </reversingLightCorona>
+      <name>16charger</name>
+    </Item>
+  </Lights>
+  <Wheels>
+    <Item> <!-- VWT_SPORT -->
+	  <Item>
+        <wheelName>wheel_hellcat_02</wheelName>
+        <wheelVariation />
+        <modShopLabel>HELLCAT_02</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_fnf_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>FNF_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_srt_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>SRT_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_rt-scatpack_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>RTSCAT_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_rt-scatpack-option_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>RTSCATOPTION_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_sxt-option_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>SXTOPTION_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	  <Item>
+        <wheelName>wheel_hellcat_01</wheelName>
+        <wheelVariation />
+        <modShopLabel>HELLCAT_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+      </Item>
+	</Item>
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_BIKE -->
+    <Item/> <!-- VWT_HIEND -->
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>
