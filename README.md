@@ -46,13 +46,13 @@ start ploks_carmenu
 | **2015 Chevrolet Tahoe** | 15tahoe | ![Picture](/[PLOKS_CARS]/[CHEVROLET]/15tahoe/15tahoe.png) | SWPOK | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-chevy-tahoe-with-extras-addon) | ✔️ |
 | **Chevrolet Corvette C5 Z06** | corvettec5z06 | ![Picture](/[PLOKS_CARS]/[CORVETTE]/corvettec5z06/corvettec5z06.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-c5-z06-lods-add-on-template-liveries) | ✔️ |
 | **2009 Chevrolet Corvette ZR1** | czr1 | ![Picture](/[PLOKS_CARS]/[CORVETTE]/czr1/czr1.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template) | ✔️ |
-| **1969 Chevrolet Camaro SS 350** | 69camaross | ![Picture](/[PLOKS_CARS]/[CHEVROLET]/69camaross/69camaross.webp) | [YCA] Aige | [5MODS Link](https://fr.gta5-mods.com/vehicles/1969-chevrolet-camaro-ss-350-aige) | ✔️ |
+| **1969 Chevrolet Camaro SS 350** | 69camaross | ![Picture](/[PLOKS_CARS]/[CHEVROLET]/69camaross/69camaross.webp) | [YCA] Aige | [5MODS Link](https://fr.gta5-mods.com/vehicles/1969-chevrolet-camaro-ss-350-aige) | ❌ | VEHICLE.META ERROR |
 | **2016 Dodge Charger** | 16charger | ![Picture](/[PLOKS_CARS]/[DODGE]/16charger/16charger.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq) | ✔️ |
 | **2019 Ferrari Pista 488 Spider** | pistaspider19 | ![Picture](/[PLOKS_CARS]/[FERRARI]/pistaspider19/pistaspider19.jpg) | CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-pista-spider-2019-add-on-extras-wheels-animated-roof-lods) | ✔️ |
 | **1978 Ford F150 XLT Ranger** | f15078 | ![Picture](/[PLOKS_CARS]/[FORD]/f15078/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
 | **Honda CRX SiR 1991** | honcrx91 | ![Picture](/[PLOKS_CARS]/[HONDA]/honcrx91/honcrx91.jpg) | Wanted188, GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-crx-sir-91-add-on-tuning-template-lods) | ✔️ |
 | **1997 Honda Civic Sedan Drag Version** | dragekcivick | ![Picture](/[PLOKS_CARS]/[HONDA]/dragekcivick/dragekcivick.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/) | ✔️ | xAdrian |
-| **2020 Koenigsegg Jesko** | jes | ![Picture](/[PLOKS_CARS]/[KOENIGSEGG]/jes/jes.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-door-script-digital-dials-extras-00abolfazl00) | ✔️ |
+| **2020 Koenigsegg Jesko** | jes | ![Picture](/[PLOKS_CARS]/[KOENIGSEGG]/jes/jes.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-door-script-digital-dials-extras-00abolfazl00) | ✔️ | TO BE REPLACED (NO AUDIO) |
 | **Lamborghini Urus** | urus | ![Picture](/[PLOKS_CARS]/[LAMBORGHINI]/urus/urus.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-urus-add-on-template) | ✔️ | gabrielcalderon |
 | **Lexus GS 350** | gs350 | ![Picture](/[PLOKS_CARS]/[LEXUS]/gs350/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **2002 Lotus Esprit V8** | esprit02 | ![Picture](/[PLOKS_CARS]/[LOTUS]/esprit02/esprit02.webp) | OhiOcinu | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-lotus-esprit-v8-add-on-lods-template) | ✔️ |
@@ -73,4 +73,4 @@ start ploks_carmenu
 | **2016 Toyota Land Cruiser VXR** | vxr | ![Picture](/[PLOKS_CARS]/[TOYOTA]/vxr/vxr.jpg) | Abdulrhman1 | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-land-cruiser-vxr) | ✔️ |
 | **WMotors Fenyr Supersport** | wmfenyr | ![Picture](/[PLOKS_CARS]/[WMOTORS]/wmfenyr/wmfenyr.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/wmotors-fenyr-supersport-add-on) | ✔️ |
 
-| **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
+| **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️/❌ |
