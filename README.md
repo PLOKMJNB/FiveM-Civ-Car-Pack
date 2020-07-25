@@ -66,7 +66,7 @@ start ploks_carmenu
 | **Lamborghini Urus** | urus | ![Picture](/[PLOKS_CARS]/[LAMBORGHINI]/urus/urus.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-urus-add-on-template) | ✔️ | gabrielcalderon |
 | **Lexus GS 350** | gs350 | ![Picture](/[PLOKS_CARS]/[LEXUS]/gs350/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **2010 Lexus LFA** | lfa | ![Picture](/[PLOKS_CARS]/[LEXUS]/lfa/lfa.webp) | [GOC]peng00820 | [5MODS Link](https://www.gta5-mods.com/vehicles/2010-lexus-lfa-add-on) | ✔️/❌ |
-| **1973 Land Rover Range Rover** | lrrr | ![Picture](/[PLOKS_CARS]/[LANDROVER]/lrrr/lrrr.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/land-rover-range-rover-1973-add-on-offroad-stock-dirtmap-extras) | ✔️/❌ |
+| **1973 Land Rover Range Rover** | lrrr | ![Picture](/[PLOKS_CARS]/[LANDROVER]/lrrr/Irrr.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/land-rover-range-rover-1973-add-on-offroad-stock-dirtmap-extras) | ✔️/❌ |
 | **2002 Lotus Esprit V8** | esprit02 | ![Picture](/[PLOKS_CARS]/[LOTUS]/esprit02/esprit02.webp) | OhiOcinu | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-lotus-esprit-v8-add-on-lods-template) | ✔️ |
 | **Quartz Regalia 723** | regalia | ![Picture](/[PLOKS_CARS]/[LUCIS]/regalia/regalia.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/quartz-regalia-723) | ✔️ | Fictional [Final Fantasy XV] |
 | **Maserati Levante** | levante | ![Picture](/[PLOKS_CARS]/[MASERATI]/levante/levante.jpg) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/maserati-levante-add-on-replace) | ✔️/❌ |
