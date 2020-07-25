@@ -23,6 +23,7 @@
     - Once you add it into the server and do a restart, this extra step is unnecessary
 
 ### How to Install The Menu
+- Note: I used [Flatracer's](https://github.com/Flatracer) [Add-On Menu](https://github.com/Flatracer/AddOnVehicleSpawnMenu)
 - You will most likely already have this downloaded if you followed above
 - Before you can use the menu you must install [NativeUI](https://github.com/FrazzIe/NativeUILua)
 - in the `server.cfg` you must start NativeUI before this menu so like this:
