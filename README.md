@@ -95,7 +95,7 @@ start ploks_carmenu
 | **2018 Porsche Cayenne S** | pcs18 | ![Picture](/[PLOKS_CARS]/[PORSCHE]/pcs18/pcs18.webp) | skyrix | [5MODS Link](https://www.gta5-mods.com/vehicles/porsche-cayenne-s-2018-add-on-replace-skyrix) | ✔️/❌ |
 | **2020 Porsche Taycan Turbo S** | taycan | ![Picture](/[PLOKS_CARS]/[PORSCHE]/taycan/taycan.webp) | Scott_Carter | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-porsche-taycan-turbo-s-add-on-replace-template-auto-spoiler) | ✔️ |
 | **Range Rover Evoque** | rrevoque | ![Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
-| **2016 Range Rover Sport SVR** | rsvr16 | ![Picture](/[PLOKS_CARS]/[LANDROVER]/rsvr16/rsvr16.webp) | Faysal | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-sport-svr-2016) | ✔️/❌ |
+| **2016 Range Rover Sport SVR** | rsvr16 | ![Picture](/[PLOKS_CARS]/[RANGEROVER]/rsvr16/rsvr16.webp) | Faysal | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-sport-svr-2016) | ✔️/❌ |
 | **2014 Rolls Royce Phantom Coupe** | RollsRoyceCP | ![Picture](/[PLOKS_CARS]/[ROLLSROYCE]/RollsRoyceCP/RollsRoyceCP.webp) | gtacool (最强潮吹帝) | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-rolls-royce-phantom-coupe) | ✔️ |
 | **2018 Rolls-Royce Phantom VIII** | rrphantom | ![Picture](/[PLOKS_CARS]/[ROLLSROYCE]/rrphantom/rrphantom.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-rolls-royce-phantom-viii) | ✔️ |
 | **2004 Subaru Impreza WRX STI** | subwrx | ![Picture](/[PLOKS_CARS]/[SUBARU]/subwrx/subwrx.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning) | ✔️/❌ |
