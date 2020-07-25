@@ -101,7 +101,7 @@ start ploks_carmenu
 | **Toyota Supra** | a80 | ![Picture](/[PLOKS_CARS]/[TOYOTA]/a80/a80.webp) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-supra-add-on-stock-more-tuning) | ✔️/❌ |
 | **2002 Toyota MR-S** | mr2zzw30 | ![Picture](/[PLOKS_CARS]/[TOYOTA]/mr2zzw30/mr2zzw30.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-mr-s-tunable-add-on-animated-roof-lods-template) | ✔️ |
 | **2016 Toyota Land Cruiser VXR** | vxr | ![Picture](/[PLOKS_CARS]/[TOYOTA]/vxr/vxr.jpg) | Abdulrhman1 | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-land-cruiser-vxr) | ✔️ |
-| **W-Motors Lykan HyperSport** | lykan | ![Picture](/[PLOKS_CARS]/[WMOTORS]/lykan/lykan.webp) | Kpym | [5MODS Link](https://www.gta5-mods.com/vehicles/w-motor-lykan-hypersport-add-on-replace-digital-dials) | ✔️/❌ |
+| **W-Motors Lykan HyperSport** | lykan | ![Picture](/[PLOKS_CARS]/[WMOTORS]/lykan/Lykan.webp) | Kpym | [5MODS Link](https://www.gta5-mods.com/vehicles/w-motor-lykan-hypersport-add-on-replace-digital-dials) | ✔️/❌ |
 | **W-Motors Fenyr Supersport** | wmfenyr | ![Picture](/[PLOKS_CARS]/[WMOTORS]/wmfenyr/wmfenyr.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/wmotors-fenyr-supersport-add-on) | ✔️ |
 
 | **NAME** | SPAWN | [Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️/❌ |
