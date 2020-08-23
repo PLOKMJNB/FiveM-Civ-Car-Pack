@@ -50,6 +50,7 @@ start ploks_carmenu
 | **1978 Ford F150 XLT Ranger** | f15078 | [Picture](/[PLOKS_CARS]/[FORD]/f15078/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
 | **Honda CRX SiR 1991** | honcrx91 | [Picture](/[PLOKS_CARS]/[HONDA]/honcrx91/honcrx91.webp) | Wanted188, GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-crx-sir-91-add-on-tuning-template-lods) | ✔️ |
 | **1997 Honda Civic Sedan Drag Version** | dragekcivick | [Picture](/[PLOKS_CARS]/[HONDA]/dragekcivick/dragekcivick.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/) | ✔️ | xAdrian |
+| **2018 Jeep Grand Cherokee Trackhawk Series IV** | trhawk | [Picture](/[PLOKS_CARS]/[JEEP]/trhawk/trhawk.webp) | Soongae | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-jeep-grand-cherokee-trackhawk-series-iv-add-on) | ✔️ |
 | **2020 Koenigsegg Jesko** | jes | [Picture](/[PLOKS_CARS]/[KOENIGSEGG]/jes/jes.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-door-script-digital-dials-extras-00abolfazl00) | ✔️ |
 | **Lexus GS 350** | gs350 | [Picture](/[PLOKS_CARS]/[LEXUS]/gs350/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **2002 Lotus Esprit V8** | esprit02 | [Picture](/[PLOKS_CARS]/[LOTUS]/esprit02/esprit02.webp) | OhiOcinu | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-lotus-esprit-v8-add-on-lods-template) | ✔️ |
@@ -58,6 +59,7 @@ start ploks_carmenu
 | **Mazda RX-7 FD** | majfd | [Picture](/[PLOKS_CARS]/[MAZDA]/majfd/majfd.webp) | MajesticDoggo | [5MODS Link](https://www.gta5-mods.com/vehicles/mazda-rx-7-fd-add-on-tuning-rhd) | ✔️ |
 | **2020 Mercedes-Benz AMG GT-R Roadster** | amggtrr20 | [Picture](/[PLOKS_CARS]/[MERCEDES]/amggtrr20/amggtrr20.webp) | [DTD] Asyr0n & CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-mercedes-benz-amg-gt-r-roadster-animated-roof-add-on-template) | ✔️ | Convertible |
 | **2019 Mercedes-Benz E400 Coupe 4matic (C238)** | e400 | [Picture](/[PLOKS_CARS]/[MERCEDES]/e400/e400.webp) | ahmeda1999 | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-mercedes-benz-e400-4matic-c238-add-on-replace-analog-digital-dials) | ✔️ |
+| **2014 Mercedes-Benz S500 W222** | s500w222 | [Picture](/[PLOKS_CARS]/[MERCEDES]/s500w222/s500w222.webp) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/mercedes-benz-s500-w222) | ✔️ |
 | **Mitsubishi FTO GP Version-R** | fto | [Picture](/[PLOKS_CARS]/[Mitsubishi]/fto/fto.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/mitsubishi-fto-gp-version-r-add-on-lods-tuning-template) | ✔️ |
 | **2017 Nissan Titan Warrior** | nissantitan17 | [Picture](/[PLOKS_CARS]/[NISSAN]/nissantitan17/nissantitan17.webp) | gtavmodscar | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-titan-warrior-2017-replace) | ✔️ |
 | **Porsche 718 Cayman S** | 718caymans | [Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
