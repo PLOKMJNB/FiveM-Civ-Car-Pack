@@ -45,6 +45,7 @@ start ploks_carmenu
 | **2016 Audi SQ7** | sq72016 | ![Picture](/[PLOKS_CARS]/[AUDI]/sq72016/sq72016.webp) | [DTD] RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-sq7-2016-add-on) | ✔️ |
 | **Bentley Bentayga** | bbentayga | ![Picture](/[PLOKS_CARS]/[BENTLEY]/bbentayga/bbentayga.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga) | ✔️ |
 | **2018 Bentley Continental GT** | bnt2018 | ![Picture](/[PLOKS_CARS]/[BENTLEY]/bnt2018/bnt2018.webp) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-continental-gt-2018-1-0-replace-addon) | ✔️ |
+| **2020 Bentley Continental GT Convertible** | cgts | ![Picture](/[PLOKS_CARS]/[BENTLEY]/cgts/cgts.webp) | Thomas Shelby | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-continental-gt-convertible-2020-add-on) | ✔️ |
 | **2004 BMW 760Li Individual (E66/PFL)** | 760li04 | ![Picture](/[PLOKS_CARS]/[BMW]/760li04/760li04.webp) | DrAgOn777, HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/2004-bmw-760li-individual-e66-pfl-add-on-replace-tuning-extras) | ✔️ |
 | **1995 BMW M5 E34** | e34 | ![Picture](/[PLOKS_CARS]/[BMW]/e34/e34.webp) | HitmanNiko | [5MODS Link](https://www.gta5-mods.com/vehicles/1995-bmw-m5-e34-replace-add-on-tuning) | ✔️ |
 | **2016 BMW M2** | m2 | ![Picture](/[PLOKS_CARS]/[BMW]/m2/m2.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/2016-bmw-m2-add-on-replace-tuning-template) | ✔️ |
@@ -57,6 +58,7 @@ start ploks_carmenu
 | **2009 Chevrolet Tahoe** | 09tahoe | ![Picture](/[PLOKS_CARS]/[CHEVROLET]/09tahoe/09tahoe.png) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-tahoe-add-on-replace) | ✔️ |
 | **2015 Chevrolet Tahoe** | 15tahoe | ![Picture](/[PLOKS_CARS]/[CHEVROLET]/15tahoe/15tahoe.png) | SWPOK | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-chevy-tahoe-with-extras-addon) | ✔️ |
 | **1969 Chevrolet Camaro SS 350** | 69camaross | ![Picture](/[PLOKS_CARS]/[CHEVROLET]/69camaross/69camaross.webp) | [YCA] Aige | [5MODS Link](https://fr.gta5-mods.com/vehicles/1969-chevrolet-camaro-ss-350-aige) | ❌ | VEHICLE.META ERROR |
+| **2017 Chevrolet Camaro RS** | camrs17 | ![Picture](/[PLOKS_CARS]/[CHEVROLET]/camrs17/camrs17.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-camaro-rs-2017-add-on-replace-lods) | ✔️ |
 | **2014 Chevrolet Corvette C7 Stingray** | c7 | ![Picture](/[PLOKS_CARS]/[CORVETTE]/c7/c7.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-chevrolet-corvette-c7-stingray-aige) | ✔️ |
 | **2020 Chevrolet Corvette C8** | c8 | ![Picture](/[PLOKS_CARS]/[CORVETTE]/c8/c8.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-chevrolet-corvette-c8-add-on-extra-dirt) | ✔️ |
 | **Chevrolet Corvette C5 Z06** | corvettec5z06 | ![Picture](/[PLOKS_CARS]/[CORVETTE]/corvettec5z06/corvettec5z06.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-c5-z06-lods-add-on-template-liveries) | ✔️ |
@@ -72,10 +74,14 @@ start ploks_carmenu
 | **Honda S2000 AP2** | ap2 | ![Picture](/[PLOKS_CARS]/[HONDA]/ap2/ap2.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-s2000-tunable) | ✔️ |
 | **Honda CRX SiR 1991** | honcrx91 | ![Picture](/[PLOKS_CARS]/[HONDA]/honcrx91/honcrx91.jpg) | Wanted188, GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-crx-sir-91-add-on-tuning-template-lods) | ✔️ |
 | **1992 Honda NSX-R (NA1)** | na1 | ![Picture](/[PLOKS_CARS]/[HONDA]/na1/na1.jpg) | yca-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-nsx-r-na1-1992) | ✔️ |
+| **2017 Italdesign Zerouno** | it18 | ![Picture](/[PLOKS_CARS]/[ITALDESIGN]/it18/it18.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-italdesign-zerouno-add-on-analog-liverys-extras) | ✔️ |
 | **Jaguar F-pace 2017 hamann edition** | fpacehm | ![Picture](/[PLOKS_CARS]/[JAGUAR]/fpacehm/fpacehm.webp) | RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/jaguar-f-pace-hamann-edition) | ✔️ |
+| **2012 Jeep Wrangler** | jeep2012 | ![Picture](/[PLOKS_CARS]/[JEEP]/jeep2012/jeep2012.webp) | Dyc3 | [5MODS Link](https://www.gta5-mods.com/vehicles/12-jeep-wrangler-hq) | ✔️ |
+| **Jeep Renegade** | jeepreneg | ![Picture](/[PLOKS_CARS]/[JEEP]/jeepreneg/jeepreneg.jpg) | Los Santos Import | [5MODS Link](https://www.gta5-mods.com/vehicles/jeep-renegade-add-on) | ✔️ |
 | **2015 Jeep SRT-8** | srt8 | ![Picture](/[PLOKS_CARS]/[JEEP]/srt8/srt8.webp) | saysay & Alex9581 | [5MODS Link](https://www.gta5-mods.com/vehicles/jeep-srt-8-2015-add-on-replace) | ✔️ |
 | **2018 Jeep Grand Cherokee Trackhawk Series IV** | trhawk | ![Picture](/[PLOKS_CARS]/[JEEP]/trhawk/trhawk.webp) | Soongae | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-jeep-grand-cherokee-trackhawk-series-iv-add-on) | ✔️ |
 | **2020 Koenigsegg Jesko** | jes | ![Picture](/[PLOKS_CARS]/[KOENIGSEGG]/jes/jes.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-door-script-digital-dials-extras-00abolfazl00) | ✔️ | TO BE REPLACED (NO AUDIO) |
+| **Koenigsegg Regara** | regera | ![Picture](/[PLOKS_CARS]/[KOENIGSEGG]/regera/regera.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-koenigsegg-regera-add-on-autospoiler) | ✔️ |
 | **2013 Lamborghini Aventador LP700-4 Roadster** | lp700r | ![Picture](/[PLOKS_CARS]/[LAMBORGHINI]/lp700r/lp700r.webp) | [YCA]se7enmoon | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-lamborghini-aventador-lp750-4-superveioce-roadster-se7enmoon) | ✔️ |
 | **Lamborghini Urus** | urus | ![Picture](/[PLOKS_CARS]/[LAMBORGHINI]/urus/urus.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-urus-add-on-template) | ✔️ | gabrielcalderon |
 | **Lexus GS 350** | gs350 | ![Picture](/[PLOKS_CARS]/[LEXUS]/gs350/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
@@ -88,6 +94,7 @@ start ploks_carmenu
 | **2002 Mazda RX-7 FD Drag** | dragfd | ![Picture](/[PLOKS_CARS]/[MAZDA]/dragfd/dragfd.webp) | Khafra | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-drag-fd-rx7) | ✔️ |
 | **Mazda RX-7 FD** | majfd | ![Picture](/[PLOKS_CARS]/[MAZDA]/majfd/majfd.webp) | MajesticDoggo | [5MODS Link](https://www.gta5-mods.com/vehicles/mazda-rx-7-fd-add-on-tuning-rhd) | ✔️ |
 | **2020 Mercedes-Benz AMG GT-R Roadster** | amggtrr20 | ![Picture](/[PLOKS_CARS]/[MERCEDES]/amggtrr20/amggtrr20.webp) | [DTD] Asyr0n & CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-mercedes-benz-amg-gt-r-roadster-animated-roof-add-on-template) | ✔️ | Convertible |
+| **2020 Mercedes-AMG C63s** | c6320 | ![Picture](/[PLOKS_CARS]/[MERCEDES]/c6320/c6320.webp) | Anas0133 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-mercedes-amg-c63s-amg) | ✔️ |
 | **2013 Mercedes-Benz G65 AMG** | G65 | ![Picture](/[PLOKS_CARS]/[MERCEDES]/G65/G65.webp) | smokey8808 | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-mercedes-benz-g65-amg-add-on) | ✔️ |
 | **2019 Mercedes-Benz E400 Coupe 4matic (C238)** | e400 | ![Picture](/[PLOKS_CARS]/[MERCEDES]/e400/e400.webp) | ahmeda1999 | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-mercedes-benz-e400-4matic-c238-add-on-replace-analog-digital-dials) | ✔️ |
 | **Mercedes-Benz GL63 AMG** | gl63 | ![Picture](/[PLOKS_CARS]/[MERCEDES]/gl63/gl63.webp) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/mercedes-gl63-gl500-amg) | ✔️ |
@@ -97,7 +104,10 @@ start ploks_carmenu
 | **Mitsubishi FTO GP Version-R** | fto | ![Picture](/[PLOKS_CARS]/[MITSUBISHI]/fto/fto.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/mitsubishi-fto-gp-version-r-add-on-lods-tuning-template) | ✔️ |
 | **Nissan 180SX Type-X** | 180sx | ![Picture](/[PLOKS_CARS]/[NISSAN]/180sx/180sx.webp) | Cereal | [5MODS Link](https://www.gta5-mods.com/vehicles/180sx-type-x-tunable) | ✔️ |
 | **2017 Nissan GTR** | gtr | ![Picture](/[PLOKS_CARS]/[NISSAN]/gtr/gtr.webp) | YCA-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-nissan-gtr-nismo-yca-y97y) | ✔️ |
+| **2017 R35 Nissan GTR Convertible** | gtrc | ![Picture](/[PLOKS_CARS]/[NISSAN]/gtrc/gtrc.webp) | TGIJ | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-r35-nissan-gtr-convertible-standard-widebody-replace-addon) | ✔️ |
 | **2017 Nissan Titan Warrior** | nissantitan17 | ![Picture](/[PLOKS_CARS]/[NISSAN]/nissantitan17/nissantitan17.webp) | gtavmodscar | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-titan-warrior-2017-replace) | ✔️ |
+| **Nissan 350z Stardast** | ns350 | ![Picture](/[PLOKS_CARS]/[NISSAN]/ns350/ns350.webp) | TGIJ | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-350z-stardast-add-on-liveries-template) | ✔️ |
+| **Nissan 370z "Pandem"** | nzp | ![Picture](/[PLOKS_CARS]/[NISSAN]/nzp/nzp.webp) | TGIJ & D3NKE | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-370z-pandem-replace) | ✔️ |
 | **1969 Nissan Fairlady Z (S30)** | s30 | ![Picture](/[PLOKS_CARS]/[NISSAN]/s30/s30.webp) | y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-fairlady-z-s30-addon-rhd-devil-z) | ❌ |
 | **Porsche 718 Cayman S** | 718caymans | ![Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
 | **2003 Porsche Carrera GT (980)** | cgt | ![Picture](/[PLOKS_CARS]/[PORSCHE]/cgt/cgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2003-porsche-carrera-gt-980) | ✔️ |
@@ -109,9 +119,11 @@ start ploks_carmenu
 | **2014 Rolls Royce Phantom Coupe** | RollsRoyceCP | ![Picture](/[PLOKS_CARS]/[ROLLSROYCE]/RollsRoyceCP/RollsRoyceCP.webp) | gtacool (最强潮吹帝) | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-rolls-royce-phantom-coupe) | ✔️ |
 | **2018 Rolls-Royce Phantom VIII** | rrphantom | ![Picture](/[PLOKS_CARS]/[ROLLSROYCE]/rrphantom/rrphantom.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-rolls-royce-phantom-viii) | ✔️ |
 | **2004 Subaru Impreza WRX STI** | subwrx | ![Picture](/[PLOKS_CARS]/[SUBARU]/subwrx/subwrx.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning) | ✔️ |
+| **1996 Subaru Alcyone SVX** | svx | ![Picture](/[PLOKS_CARS]/[SUBARU]/svx/svx.jpg) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-alcyone-svx-lods-template-add-on) | ✔️ |
 | **Toyota Supra** | a80 | ![Picture](/[PLOKS_CARS]/[TOYOTA]/a80/a80.webp) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-supra-add-on-stock-more-tuning) | ✔️ |
 | **2002 Toyota MR-S** | mr2zzw30 | ![Picture](/[PLOKS_CARS]/[TOYOTA]/mr2zzw30/mr2zzw30.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-mr-s-tunable-add-on-animated-roof-lods-template) | ✔️ |
 | **2016 Toyota Land Cruiser VXR** | vxr | ![Picture](/[PLOKS_CARS]/[TOYOTA]/vxr/vxr.jpg) | Abdulrhman1 | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-land-cruiser-vxr) | ✔️ |
+| **Volvo XC90 T8** | xc90 | ![Picture](/[PLOKS_CARS]/[VOLVO]/xc90/xc90.png) | Jureeke | [5MODS Link](https://www.gta5-mods.com/vehicles/volvo-xc90-t8-add-on-fivem-jureeke) | ✔️ |
 | **W-Motors Lykan HyperSport** | lykan | ![Picture](/[PLOKS_CARS]/[WMOTORS]/lykan/Lykan.webp) | Kpym | [5MODS Link](https://www.gta5-mods.com/vehicles/w-motor-lykan-hypersport-add-on-replace-digital-dials) | ✔️ |
 | **W-Motors Fenyr Supersport** | wmfenyr | ![Picture](/[PLOKS_CARS]/[WMOTORS]/wmfenyr/wmfenyr.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/wmotors-fenyr-supersport-add-on) | ✔️ |
 

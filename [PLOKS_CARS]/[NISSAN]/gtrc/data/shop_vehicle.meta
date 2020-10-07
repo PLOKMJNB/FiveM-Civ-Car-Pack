@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_GTRC_VEH</lockHash>
+			<modelNameHash>gtrc</modelNameHash>
+			<cost value="100"/>
+			<textLabel>GTRC</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+		<Item>
+			<lockHash>CU_GTRCW_VEH</lockHash>
+			<modelNameHash>gtrcw</modelNameHash>
+			<cost value="100"/>
+			<textLabel>GTRCW</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>
+</ShopVehicleDataArray>
