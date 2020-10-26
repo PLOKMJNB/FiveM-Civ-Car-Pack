@@ -116,8 +116,10 @@ start ploks_carmenu
 | **2020 Porsche Taycan Turbo S** | taycan | ![Picture](/[PLOKS_CARS]/[PORSCHE]/taycan/taycan.webp) | Scott_Carter | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-porsche-taycan-turbo-s-add-on-replace-template-auto-spoiler) | ✔️ |
 | **Range Rover Evoque** | rrevoque | ![Picture](/[PLOKS_CARS]/[RANGEROVER]/rrevoque/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
 | **2016 Range Rover Sport SVR** | rsvr16 | ![Picture](/[PLOKS_CARS]/[RANGEROVER]/rsvr16/rsvr16.webp) | Faysal | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-sport-svr-2016) | ✔️ |
+| **Rolls Royce Cullinan** | rculi | ![Picture](/[PLOKS_CARS]/[ROLLSROYCE]/rculi/rculi.webp) | tigbel/Mr.LA | [5MODS Link](https://www.gta5-mods.com/vehicles/rolls-royce-cullinan-replace) | ✔️ | Pictures my me! |
 | **2014 Rolls Royce Phantom Coupe** | RollsRoyceCP | ![Picture](/[PLOKS_CARS]/[ROLLSROYCE]/RollsRoyceCP/RollsRoyceCP.webp) | gtacool (最强潮吹帝) | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-rolls-royce-phantom-coupe) | ✔️ |
 | **2018 Rolls-Royce Phantom VIII** | rrphantom | ![Picture](/[PLOKS_CARS]/[ROLLSROYCE]/rrphantom/rrphantom.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-rolls-royce-phantom-viii) | ✔️ |
+| **Rolls-Royce Wraith** | wraith | ![Picture](/[PLOKS_CARS]/[ROLLSROYCE]/wraith/wraith.webp) | A.N.R.T | [5MODS Link](https://www.gta5-mods.com/vehicles/rollse-royse-wraith-add-on-replace-animated-by-anertee) | ✔️ |
 | **2004 Subaru Impreza WRX STI** | subwrx | ![Picture](/[PLOKS_CARS]/[SUBARU]/subwrx/subwrx.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning) | ✔️ |
 | **1996 Subaru Alcyone SVX** | svx | ![Picture](/[PLOKS_CARS]/[SUBARU]/svx/svx.jpg) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-alcyone-svx-lods-template-add-on) | ✔️ |
 | **Toyota Supra** | a80 | ![Picture](/[PLOKS_CARS]/[TOYOTA]/a80/a80.webp) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-supra-add-on-stock-more-tuning) | ✔️ |
