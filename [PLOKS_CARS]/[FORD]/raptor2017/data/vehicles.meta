@@ -234,8 +234,12 @@
       <child>vehshare_worn</child>
     </Item>
     <Item>
-      <parent>vehicles_cav_interior</parent>
+      <parent>raptor20171</parent>
       <child>raptor2017</child>
+    </Item>
+    <Item>
+      <parent>vehicles_cav_interior</parent>
+      <child>raptor20171</child>
     </Item>
     <Item>
       <parent>vehicles_vacca_interior</parent>

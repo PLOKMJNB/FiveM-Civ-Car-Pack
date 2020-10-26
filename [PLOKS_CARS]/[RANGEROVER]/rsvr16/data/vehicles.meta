@@ -132,12 +132,12 @@
   </InitDatas>
   <txdRelationships>
   <Item>
-      <parent>rsvr162</parent>
+      <parent>rsvr161</parent>
       <child>rsvr16</child>
     </Item>
     <Item>
       <parent>vehicles_cav_interior</parent>
-      <child>rsvr162</child>
+      <child>rsvr161</child>
     </Item>  
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>
