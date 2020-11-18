@@ -111,7 +111,6 @@ start ploks_carmenu
 | **2017 Nissan Titan Warrior** | nissantitan17 | ![Picture](/[PLOKS_CARS]/[NISSAN]/nissantitan17/nissantitan17.webp) | gtavmodscar | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-titan-warrior-2017-replace) | ✔️ |
 | **Nissan 350z Stardast** | ns350 | ![Picture](/[PLOKS_CARS]/[NISSAN]/ns350/ns350.webp) | TGIJ | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-350z-stardast-add-on-liveries-template) | ✔️ |
 | **Nissan 370z "Pandem"** | nzp | ![Picture](/[PLOKS_CARS]/[NISSAN]/nzp/nzp.webp) | TGIJ & D3NKE | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-370z-pandem-replace) | ✔️ |
-| **1969 Nissan Fairlady Z (S30)** | s30 | ![Picture](/[PLOKS_CARS]/[NISSAN]/s30/s30.webp) | y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-fairlady-z-s30-addon-rhd-devil-z) | ❌ |
 | **Porsche 718 Cayman S** | 718caymans | ![Picture](/[PLOKS_CARS]/[PORSCHE]/718caymans/718caymans.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/porsche-718-cayman-s-add-on-replace) | ✔️ |
 | **2003 Porsche Carrera GT (980)** | cgt | ![Picture](/[PLOKS_CARS]/[PORSCHE]/cgt/cgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2003-porsche-carrera-gt-980) | ✔️ |
 | **1978 Porsche 935 Moby Dick** | maj935 | ![Picture](/[PLOKS_CARS]/[PORSCHE]/maj935/maj935.webp) | MajesticDoggo | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-porsche-935-moby-dick) | ✔️ |
