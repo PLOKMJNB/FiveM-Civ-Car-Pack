@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+     <modelName>dragekcivick</modelName>
+	<colors>
+        <Item>
+          <indices content="char_array">
+            029
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            029
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            029
+            029
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+		<Item>0_default_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="925" />
+      <sirenSettings value="0" />
+    </Item>	
+	<Item>
+     <modelName>dodgesrt2</modelName>
+	<colors>
+        <Item>
+          <indices content="char_array">
+            029
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            029
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            029
+            029
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+		<Item>0_default_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="925" />
+      <sirenSettings value="0" />
+    </Item>	
+  </variationData>
+</CVehicleModelInfoVariation>

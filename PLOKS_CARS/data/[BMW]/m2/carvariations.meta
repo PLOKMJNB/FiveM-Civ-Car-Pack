@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+
+
+
+
+
+
+
+
+
+
+    <Item>
+      <modelName>m2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            70
+            70
+            74
+            0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>182_m2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="934" />
+      <sirenSettings value="0" />
+    </Item>
+
+
+
+
+
+
+
+
+
+
+  </variationData>
+</CVehicleModelInfoVariation>

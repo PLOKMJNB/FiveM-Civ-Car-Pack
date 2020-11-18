@@ -1,0 +1,899 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+    <Item>
+      <kitName>988_jeep2012_modkit</kitName>
+      <id value="988" />	 	  
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+	<Item>
+          <modelName>dy3_fbmpr1</modelName>
+          <modShopLabel>jpfb1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_fbmpr3</modelName>
+          <modShopLabel>jpfb2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_fbmpr4</modelName>
+          <modShopLabel>jpfb3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_fbmpr5</modelName>
+          <modShopLabel>jpfb5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_fbmpr6</modelName>
+          <modShopLabel>jpfb6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_fbmpr7</modelName>
+          <modShopLabel>jpfb77</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_fbmpr8</modelName>
+          <modShopLabel>jpfb78</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_rbmpr1</modelName>
+          <modShopLabel>jprb1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_rbmpr2</modelName>
+          <modShopLabel>jprb2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_r</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>bumper_r</bone>
+          <collisionBone>bumper_r</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_steps1</modelName>
+          <modShopLabel>jp_SKIRT</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+              <Item>misc_d</Item>
+	  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_rollcage1</modelName>
+          <modShopLabel>jp_CAGE5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_exsht1</modelName>
+          <modShopLabel>jp_CAE7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+	       <Item>misc_a</Item>
+	  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="2" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_sintake1</modelName>
+          <modShopLabel>jp_intake</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_sintake2</modelName>
+          <modShopLabel>jp_intake</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_sintake3</modelName>
+          <modShopLabel>jp_intake</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_bon1</modelName>
+          <modShopLabel>jp_HOOD3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_bon2</modelName>
+          <modShopLabel>jp_bont</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_bon3</modelName>
+          <modShopLabel>jp_bont</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_pnt_tailgate</modelName>
+          <modShopLabel>jp_WING1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_tailgate2</modelName>
+          <modShopLabel>jp_WING13</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_spoil1</modelName>
+          <modShopLabel>jp_ROOF2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_pntroof1</modelName>
+          <modShopLabel>jp_ROOFpnt</modShopLabel>
+          <linkedModels />
+           <turnOffBones>
+	    <Item>misc_g</Item>
+	  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_null</modelName>
+          <modShopLabel>jp_ROOFnull</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+	    <Item>misc_g</Item>
+	    <Item>windscreen_r</Item>
+	    <Item>window_lr</Item>
+	    <Item>window_rr</Item>
+	  </turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_grill1</modelName>
+          <modShopLabel>jp_NOGRILL</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_grill2</modelName>
+          <modShopLabel>jp_NOGRIL</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+ 	<Item>
+          <modelName>dy3_rflight1</modelName>
+          <modShopLabel>jp_ARCH1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_rflight2</modelName>
+          <modShopLabel>jp_ARC1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_rflight3</modelName>
+          <modShopLabel>jp_ARC3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_rflight4</modelName>
+          <modShopLabel>jp_ARC4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_rflight5</modelName>
+          <modShopLabel>jp_ARC5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_rflight6</modelName>
+          <modShopLabel>jp_ARC56</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_mir1_lr</modelName>
+          <modShopLabel>jp_ARCH4</modShopLabel>
+          <linkedModels>
+            <Item>dy3_mir1_rr</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_e</Item>
+	     <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>misc_e</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_mir2_lr</modelName>
+          <modShopLabel>jp_ARCH4</modShopLabel>
+          <linkedModels>
+            <Item>dy3_mir2_rr</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_e</Item>
+	     <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>misc_e</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	<Item>
+          <modelName>dy3_mir3_lr</modelName>
+          <modShopLabel>jp_ARCH4</modShopLabel>
+          <linkedModels>
+            <Item>dy3_mir3_rr</Item>
+          </linkedModels>
+          <turnOffBones>
+	     <Item>misc_e</Item>
+	     <Item>misc_f</Item>
+          </turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>misc_e</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+      <linkMods>
+	<Item>
+          <modelName>dy3_mir1_rr</modelName>
+          <bone>misc_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+	<Item>
+          <modelName>dy3_mir2_rr</modelName>
+          <bone>misc_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+	<Item>
+          <modelName>dy3_mir3_rr</modelName>
+          <bone>misc_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+       </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="65" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="2" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="5" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="7" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="10" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+      </statMods>
+      <slotNames />
+      <liveryNames />
+    </Item>
+  </Kits>
+    <Lights>
+    <Item>
+      <id value="988" />	
+      <indicator>
+        <intensity value="0.575000" />
+        <falloffMax value="2.500000" />
+        <falloffExponent value="8.000000" />
+        <innerConeAngle value="30.000000" />
+        <outerConeAngle value="80.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF8000" />
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.150000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFF0000" />
+      </tailLight>
+      <tailLightCorona>
+        <size value="0.900000" />
+        <size_far value="5.300000" />
+        <intensity value="4.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFF1E05" />
+        <numCoronas value="0" />
+        <distBetweenCoronas value="0.1" />
+        <distBetweenCoronas_far value="20.5" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="5.667000" />
+        <zBias value="0.000000" />
+        <pullCoronaIn value="false" />
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.000000" />
+        <size_far value="0.000000" />
+        <intensity value="0.000000" />
+        <intensity_far value="0.000000" />
+        <color value="0x00000000" />
+        <numCoronas value="0" />
+        <distBetweenCoronas value="25" />
+        <distBetweenCoronas_far value="25" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.000000" />
+        <pullCoronaIn value="false" />
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.000000" />
+        <falloffMax value="35.000000" />
+        <falloffExponent value="16.000000" />
+        <innerConeAngle value="0.000000" />
+        <outerConeAngle value="60.209999" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFCC" />
+        <textureName>VehicleLight_car_oldsquare</textureName>
+        <mirrorTexture value="true" />
+      </headLight>
+      <headLightCorona>
+        <size value="0.100000" />
+        <size_far value="10.000000" />
+        <intensity value="5.000000" />
+        <intensity_far value="1.000000" />
+        <color value="0xFFFFFFFF" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.500000" />
+        <falloffMax value="4.000000" />
+        <falloffExponent value="32.000000" />
+        <innerConeAngle value="45.000000" />
+        <outerConeAngle value="90.000000" />
+        <emmissiveBoost value="false" />
+        <color value="0xFFFFFFFF" />
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.800000" />
+        <size_far value="2.000000" />
+        <intensity value="1.500000" />
+        <intensity_far value="1.000000" />
+        <color value="0x00F7F7F7" />
+        <numCoronas value="1" />
+        <distBetweenCoronas value="128" />
+        <distBetweenCoronas_far value="255" />
+        <xRotation value="0.000000" />
+        <yRotation value="0.000000" />
+        <zRotation value="0.000000" />
+        <zBias value="0.250000" />
+        <pullCoronaIn value="false" />
+      </reversingLightCorona>
+      <name>jeep2012</name>
+    </Item>
+    </Lights>
+</CVehicleModelInfoVarGlobal>

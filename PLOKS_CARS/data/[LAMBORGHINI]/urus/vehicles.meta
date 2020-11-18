@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+  <residentTxd>vehshare</residentTxd>
+  <residentAnims />
+  <InitDatas>
+    <Item>
+      <modelName>urus</modelName>
+      <txdName>urus</txdName>
+      <handlingId>URUS</handlingId>
+      <gameName>URUS</gameName>
+      <vehicleMakeName>LAMBORGHINI</vehicleMakeName>
+      <expressionDictName>null</expressionDictName>
+      <expressionName>null</expressionName>
+      <animConvRoofDictName>null</animConvRoofDictName>
+      <animConvRoofName>null</animConvRoofName>
+      <animConvRoofWindowsAffected />
+      <ptfxAssetName>null</ptfxAssetName>
+      <audioNameHash>XLS2</audioNameHash>
+      <layout>LAYOUT_STD_HIGHWINDOW</layout>
+      <coverBoundOffsets>GRESLEY_COVER_OFFSET_INFO</coverBoundOffsets>
+      <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+      <scenarioLayout />
+      <cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
+      <aimCameraName>DEFAULT_THIRD_PERSON_VEHICLE_AIM_CAMERA</aimCameraName>
+      <bonnetCameraName>VEHICLE_BONNET_CAMERA_STANDARD_LONG</bonnetCameraName>
+      <povCameraName>DEFAULT_POV_CAMERA</povCameraName>
+      <FirstPersonDriveByIKOffset x="0.040000" y="-0.060000" z="-0.050000" />
+      <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.060000" z="-0.010000" />
+	  <FirstPersonProjectileDriveByIKOffset x="0.035000" y="-0.120000" z="-0.040000" />
+	  <FirstPersonProjectileDriveByPassengerIKOffset x="-0.035000" y="-0.120000" z="-0.040000" />
+	  <FirstPersonProjectileDriveByRearLeftIKOffset x="-0.060000" y="-0.040000" z="-0.060000" />
+	  <FirstPersonProjectileDriveByRearRightIKOffset x="-0.060000" y="-0.040000" z="-0.100000" />
+	  <FirstPersonDriveByLeftPassengerIKOffset x="0.040000" y="0.000000" z="-0.040000" />
+	  <FirstPersonDriveByRightPassengerIKOffset x="-0.040000" y="-0.060000" z="-0.050000" />
+	  <FirstPersonDriveByRightRearPassengerIKOffset x="-0.050000" y="0.010000" z="-0.030000" />
+	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.060000" z="-0.010000" />
+      <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.070000" y="-0.040000" z="-0.030000" />
+	  <FirstPersonMobilePhoneOffset x="0.140000" y="0.168000" z="0.535000" />
+      <FirstPersonPassengerMobilePhoneOffset x="0.250000" y="0.173000" z="0.455000" />
+      <FirstPersonMobilePhoneSeatIKOffset>
+		<Item>
+			<Offset x="0.210000" y="0.230000" z="0.440000" />
+			<SeatIndex value="2" />
+		</Item>
+		<Item>
+			<Offset x="0.190000" y="0.230000" z="0.440000" />
+			<SeatIndex value="3" />
+		</Item>
+      </FirstPersonMobilePhoneSeatIKOffset>
+      <PovCameraOffset x="0.000000" y="-0.215000" z="0.605000" />
+      <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
+      <PovPassengerCameraOffset x="0.000000" y="0.020000" z="0.045000" />
+	  <PovRearPassengerCameraOffset x="0.015000" y="0.100000" z="0.020000" />
+      <vfxInfoName>VFXVEHICLEINFO_CAR_OFFROAD</vfxInfoName>
+<!--      <vfxInfoName>VFXVEHICLEINFO_MOTORBIKE_SANCTUS</vfxInfoName>  -->
+      <shouldUseCinematicViewMode value="true" />
+      <shouldCameraTransitionOnClimbUpDown value="false" />
+      <shouldCameraIgnoreExiting value="false" />
+      <AllowPretendOccupants value="true" />
+      <AllowJoyriding value="true" />
+      <AllowSundayDriving value="true" />
+      <AllowBodyColorMapping value="true" />
+      <wheelScale value="0.309700" />
+      <wheelScaleRear value="0.309700" />
+      <dirtLevelMin value="0.000000" />
+      <dirtLevelMax value="0.450000" />
+      <envEffScaleMin value="0.000000" />
+      <envEffScaleMax value="1.000000" />
+      <envEffScaleMin2 value="0.000000" />
+      <envEffScaleMax2 value="1.000000" />
+      <damageMapScale value="0.600000" />
+      <damageOffsetScale value="1.000000" />
+      <diffuseTint value="0x00FFFFFF" />
+      <steerWheelMult value="1.000000" />
+      <HDTextureDist value="5.000000" />
+      <lodDistances content="float_array">
+        410.000000
+        425.000000
+        465.000000
+        470.000000
+        500.000000
+        500.000000
+      </lodDistances>
+      <minSeatHeight value="0.925" />
+      <identicalModelSpawnDistance value="20" />
+      <maxNumOfSameColor value="10" />
+      <defaultBodyHealth value="1000.000000" />
+      <pretendOccupantsScale value="1.000000" />
+      <visibleSpawnDistScale value="1.000000" />
+      <trackerPathWidth value="2.000000" />
+      <weaponForceMult value="1.000000" />
+      <frequency value="80" />
+      <swankness>SWANKNESS_4</swankness>
+      <maxNum value="3" />
+      <flags>FLAG_EXTRAS_REQUIRE FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_HAS_INTERIOR_EXTRAS FLAG_HAS_LIVERY</flags>
+      <type>VEHICLE_TYPE_CAR</type>
+      <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
+	  <dashboardType>VDT_RACE</dashboardType>
+      <vehicleClass>VC_SUV</vehicleClass>
+      <wheelType>VWT_SUV</wheelType>
+      <trailers />
+      <additionalTrailers />
+      <drivers />
+      <extraIncludes />
+      <doorsWithCollisionWhenClosed />
+      <driveableDoors />
+      <bumpersNeedToCollideWithMap value="true" />
+      <needsRopeTexture value="false" />
+      <requiredExtras />
+      <rewards />
+      <cinematicPartCamera>
+        <Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+        <Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+        <Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+        <Item>WHEEL_REAR_LEFT_CAMERA</Item>
+      </cinematicPartCamera>
+      <NmBraceOverrideSet />
+      <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
+      <buoyancySphereSizeScale value="1.000000" />
+      <pOverrideRagdollThreshold type="NULL" />
+      <firstPersonDrivebyData>
+        <Item>VAN_URUS_FRONT_LEFT</Item>
+        <Item>VAN_URUS_FRONT_RIGHT</Item>
+        <Item>VAN_URUS_REAR_LEFT</Item>
+        <Item>VAN_URUS_REAR_RIGHT</Item>
+      </firstPersonDrivebyData>
+    </Item>
+  </InitDatas>
+
+  <txdRelationships>
+    <Item>
+      <parent>vehicles_race_generic</parent>
+      <child>urus</child>
+    </Item>
+  </txdRelationships>
+
+</CVehicleModelInfo__InitDataList>

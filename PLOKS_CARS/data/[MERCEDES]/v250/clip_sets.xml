@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fwClipSetManager>
+  <clipSets>
+	<Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@LOW@FRONT_DS@BASE">
+      <fallbackId>clipset@veh@low@ds@base</fallbackId>
+      <clipDictionaryName>ANIM@VEH@LOWRIDER@LOW@FRONT_DS@BASE</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@LOW@FRONT_PS@BASE">
+      <fallbackId>clipset@veh@low@ps@base</fallbackId>
+      <clipDictionaryName>ANIM@VEH@LOWRIDER@LOW@FRONT_PS@BASE</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>	
+	<Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@LOW@FRONT_DS@ARM@BASE">
+      <fallbackId>ANIM@VEH@LOWRIDER@LOW@FRONT_DS@BASE</fallbackId>
+      <clipDictionaryName>ANIM@VEH@LOWRIDER@LOW@FRONT_DS@ARM@BASE</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@LOW@FRONT_PS@ARM@BASE">
+      <fallbackId>ANIM@VEH@LOWRIDER@LOW@FRONT_PS@BASE</fallbackId>
+      <clipDictionaryName>ANIM@VEH@LOWRIDER@LOW@FRONT_PS@ARM@BASE</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@STD@MOONBEAM@RDS@BASE">
+      <fallbackId>clipset@veh@helicopter@frogger@rds@base</fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@moonbeam@rds@base</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="d_open_in" />
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@STD@MOONBEAM@RDS@ENTER_EXIT">
+      <fallbackId>anim@veh@helicopter@swift2@rds@enter_exit</fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@moonbeam@rds@enter_exit</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@STD@MOONBEAM@RDS@IDLE_PANIC">
+      <fallbackId>anim@veh@lowrider@std@moonbeam@rds@base</fallbackId>
+      <clipDictionaryName>veh@helicopter@frogger@rds@idle_panic</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@STD@MOONBEAM@RPS@BASE">
+      <fallbackId>clipset@veh@helicopter@frogger@rps@base</fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@moonbeam@rps@base</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="d_open_in" />
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@STD@MOONBEAM@RPS@ENTER_EXIT">
+      <fallbackId>anim@veh@helicopter@swift2@rps@enter_exit</fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@moonbeam@rps@enter_exit</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@STD@MOONBEAM@RPS@IDLE_PANIC">
+      <fallbackId>anim@veh@lowrider@std@moonbeam@rps@base</fallbackId>
+      <clipDictionaryName>veh@helicopter@frogger@rps@idle_panic</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@STD@PS@BASE">
+      <fallbackId>clipset@veh@std@ps@base</fallbackId>
+      <clipDictionaryName>ANIM@VEH@LOWRIDER@STD@PS@BASE</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@STD@RDS@BASE">
+      <fallbackId>clipset@veh@std@rds@base</fallbackId>
+      <clipDictionaryName>ANIM@VEH@LOWRIDER@STD@RDS@BASE</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@STD@RPS@BASE">
+      <fallbackId>clipset@veh@std@rps@base</fallbackId>
+      <clipDictionaryName>ANIM@VEH@LOWRIDER@STD@RPS@BASE</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@STD@DS@BASE">
+      <fallbackId>clipset@veh@std@ds@base</fallbackId>
+      <clipDictionaryName>ANIM@VEH@LOWRIDER@STD@DS@BASE</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="ANIM@VEH@LOWRIDER@STD@DS@ARM@BASE">
+      <fallbackId>ANIM@VEH@LOWRIDER@STD@DS@BASE</fallbackId>
+      <clipDictionaryName>ANIM@VEH@LOWRIDER@STD@DS@ARM@BASE</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@BASE">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@BASE</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="base">
+          <flags>APF_ISLOOPED APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_LOW</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_A">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_A</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_B">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_B</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_C">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_C</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_D">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_D</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_E">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_E</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_F">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_F</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_G">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_G</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_H">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_H</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_I">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_I</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>			
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_J">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_J</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_K">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_K</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+	<Item type="fwClipSet" key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_L">
+      <fallbackId />
+      <clipDictionaryName>ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_L</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_COUNTRY_BASE">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@countrybase</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="base">
+          <flags>APF_ISLOOPED APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_LOW</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_COUNTRY_IDLE_A">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@countryidle_a</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_COUNTRY_IDLE_B">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@countryidle_b</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+	<Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_COUNTRY_IDLE_C">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@countryidle_c</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_COUNTRY_IDLE_D">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@countryidle_d</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>			
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_COUNTRY_IDLE_E">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@countryidle_e</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_COUNTRY_IDLE_F">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@countryidle_f</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_GENERIC_BASE">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@genericbase</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="base">
+          <flags>APF_ISLOOPED APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_LOW</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_GENERIC_IDLE_A">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@genericidle_a</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_GENERIC_IDLE_B">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@genericidle_B</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_GENERIC_IDLE_C">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@genericidle_c</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_GENERIC_IDLE_D">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@genericidle_D</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_GENERIC_IDLE_E">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@genericidle_E</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>			
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_HIPHOP_BASE">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@hiphopbase</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="base">
+          <flags>APF_ISLOOPED APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_LOW</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_HIPHOP_IDLE_A">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@hiphopidle_a</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>			
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_HIPHOP_IDLE_B">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@hiphopidle_b</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_HIPHOP_IDLE_C">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@hiphopidle_c</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_HIPHOP_IDLE_D">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@hiphopidle_d</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_HIPHOP_IDLE_E">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@hiphopidle_e</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MEXICAN_BASE">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@mexicanbase</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="base">
+          <flags>APF_ISLOOPED APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_LOW</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MEXICAN_IDLE_A">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@mexicanidle_a</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MEXICAN_IDLE_B">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@mexicanidle_b</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MEXICAN_IDLE_C">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@mexicanidle_c</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MEXICAN_IDLE_D">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@mexicanidle_d</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>			
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MEXICAN_IDLE_E">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@mexicanidle_e</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MEXICAN_IDLE_F">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@mexicanidle_f</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MOTOWN_BASE">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@motownbase</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="base">
+          <flags>APF_ISLOOPED APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_LOW</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MOTOWN_IDLE_A">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@motownidle_a</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MOTOWN_IDLE_B">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@motownidle_b</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MOTOWN_IDLE_C">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@motownidle_c</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MOTOWN_IDLE_D">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@motownidle_d</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MOTOWN_IDLE_E">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@motownidle_e</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_MOTOWN_IDLE_F">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@motownidle_f</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_PUNK_BASE">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@punkbase</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="base">
+          <flags>APF_ISLOOPED APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_LOW</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>	
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_PUNK_IDLE_A">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@punkidle_a</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_PUNK_IDLE_B">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@punkidle_b</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_PUNK_IDLE_C">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@punkidle_c</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_PUNK_IDLE_D">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@punkidle_d</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_PUNK_IDLE_E">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@punkidle_e</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>		
+    <Item type="fwClipSet" key="HEADBOB_DRIVER_LOWRIDER_STD_PUNK_IDLE_F">
+      <fallbackId></fallbackId>
+      <clipDictionaryName>anim@veh@lowrider@std@ds@arm@music@punkidle_f</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItemWithProps" key="idle">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask />
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>			
+    <Item type="fwClipSet" key="Cover_FirstPerson_Wpn_PistolMachine">
+      <fallbackId>Cover_Wpn_PistolMachine</fallbackId>
+      <clipDictionaryName>cover@first_person@weapon@1h</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="Cover_Wpn_PistolMachine">
+      <fallbackId>cover@weapon@1h</fallbackId>
+      <clipDictionaryName>anim@cover@weapon@reloads@pistol@machine</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="anim@melee@machete@streamed_core">
+      <fallbackId>melee@small_wpn@streamed_core</fallbackId>
+      <clipDictionaryName>anim@melee@machete@streamed_core@</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="anim@melee@machete@streamed_core_fps">
+      <fallbackId>anim@melee@machete@streamed_core_fps_fallback</fallbackId>
+      <clipDictionaryName>anim@melee@machete@streamed_core_fps@</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="anim@melee@machete@streamed_core_fps_fallback">
+      <fallbackId>melee@small_wpn@streamed_core_fps</fallbackId>
+      <clipDictionaryName>anim@melee@machete@streamed_core@</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@weapons@first_person@aim_lt@generic@pistol@machine@w_fire">
+      <fallbackId>weapons@first_person@aim_lt@generic@pistol@ap_pistol@</fallbackId>
+      <clipDictionaryName>anim@weapons@pistol@machine</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="w_fire" />
+      </clipItems>
+      <moveNetworkFlags>
+        <Item>HasFireAnim</Item>
+        <Item>UseAdditives</Item>
+        <Item>HasIntro</Item>
+        <Item>HasSettle</Item>
+        <Item>HasBreatheHighAdditives</Item>
+      </moveNetworkFlags>
+    </Item>
+    <Item type="fwClipSet" key="anim@weapons@first_person@aim_rng@generic@pistol@machine@str">
+      <fallbackId>weapons@first_person@aim_rng@generic@pistol@pistol_str</fallbackId>
+      <clipDictionaryName>anim@weapons@first_person@aim_rng@generic@pistol@machine_pistol@str</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags>
+        <Item>UseAdditives</Item>
+      </moveNetworkFlags>
+    </Item>
+    <Item type="fwClipSet" key="anim@weapons@first_person@aim_rng@generic@pistol@machine@w_fire">
+      <fallbackId>weapons@first_person@aim_rng@generic@pistol@ap_pistol@</fallbackId>
+      <clipDictionaryName>anim@weapons@pistol@machine</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="w_fire" />
+      </clipItems>
+      <moveNetworkFlags>
+        <Item>HasFireAnim</Item>
+        <Item>UseAdditives</Item>
+        <Item>HasIntro</Item>
+        <Item>HasSettle</Item>
+        <Item>HasBreatheHighAdditives</Item>
+      </moveNetworkFlags>
+    </Item>
+    <Item type="fwClipSet" key="anim@weapons@first_person@aim_scope@generic@pistol@machine@w_fire">
+      <fallbackId>weapons@first_person@aim_scope@generic@pistol@ap_pistol@</fallbackId>
+      <clipDictionaryName>anim@weapons@pistol@machine</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="w_fire" />
+      </clipItems>
+      <moveNetworkFlags>
+        <Item>HasFireAnim</Item>
+        <Item>UseAdditives</Item>
+        <Item>HasIntro</Item>
+        <Item>HasSettle</Item>
+        <Item>HasBreatheHighAdditives</Item>
+      </moveNetworkFlags>
+    </Item>
+	<Item type="fwClipSet" key="anim@weapons@pistol@machine">
+      <fallbackId>weapons@pistol@ap_pistol</fallbackId>
+      <clipDictionaryName>anim@weapons@pistol@machine</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags>
+        <Item>HasFireAnim</Item>
+        <Item>UseAdditives</Item>
+        <Item>HasSettle</Item>
+        <Item>HasIntro</Item>
+      </moveNetworkFlags>
+    </Item>
+    <Item type="fwClipSet" key="anim@weapons@pistol@machine@stealth">
+      <fallbackId>weapons@pistol@ap_pistol@stealth</fallbackId>
+      <clipDictionaryName>anim@weapons@pistol@machine</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags>
+        <Item>HasFireAnim</Item>
+        <Item>UseAdditives</Item>
+        <Item>HasIntro</Item>
+        <Item>HasSettle</Item>
+      </moveNetworkFlags>
+    </Item>
+    <Item type="fwClipSet" key="anim@weapons@pistol@machine_injured">
+      <fallbackId>Wpn_Pistol_Injured</fallbackId>
+      <clipDictionaryName>anim@weapons@pistol@machine</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags>
+        <Item>HasFireAnim</Item>
+        <Item>UseAdditives</Item>
+        <Item>HasSettle</Item>
+        <Item>HasIntro</Item>
+      </moveNetworkFlags>
+    </Item>
+    <Item type="fwClipSet" key="anim@weapons@pistol@machine_str">
+      <fallbackId>weapons@pistol@ap_pistol_str</fallbackId>
+      <clipDictionaryName>anim@weapons@pistol@machine_str</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags>
+        <Item>UseAdditives</Item>
+      </moveNetworkFlags>
+    </Item>
+  </clipSets>
+  <clipDictionaryMetadatas>
+    <Item key="anim@cover@weapon@reloads@pistol@machine">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Cover</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+	<Item key="ANIM@VEH@LOWRIDER@LOW@FRONT_DS@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item> 
+   	<Item key="ANIM@VEH@LOWRIDER@LOW@FRONT_PS@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+	<Item key="ANIM@VEH@LOWRIDER@LOW@FRONT_DS@ARM@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item> 
+   	<Item key="ANIM@VEH@LOWRIDER@LOW@FRONT_PS@ARM@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+	<Item key="ANIM@VEH@LOWRIDER@STD@MOONBEAM@RDS@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+	<Item key="ANIM@VEH@LOWRIDER@STD@MOONBEAM@RDS@ENTER_EXIT">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+	<Item key="ANIM@VEH@LOWRIDER@STD@MOONBEAM@RPS@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+	<Item key="ANIM@VEH@LOWRIDER@STD@MOONBEAM@RPS@ENTER_EXIT">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+	<Item key="ANIM@VEH@LOWRIDER@STD@DS@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+	<Item key="ANIM@VEH@LOWRIDER@STD@DS@ARM@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="ANIM@VEH@LOWRIDER@STD@PS@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="ANIM@VEH@LOWRIDER@STD@RDS@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="ANIM@VEH@LOWRIDER@STD@RPS@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>		
+	<Item key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@BASE">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+	<Item key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_A">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_B">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_C">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="ANIM@AMB@CODE_HUMAN_IN_CAR_IDLES@ARM@GENERIC@DS@IDLE_D">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+	<Item key="anim@veh@lowrider@std@ds@arm@music@countrybase">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@countryidle_a">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@countryidle_b">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@countryidle_c">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@countryidle_d">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@countryidle_e">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@countryidle_f">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>		
+	<Item key="anim@veh@lowrider@std@ds@arm@music@genericbase">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@genericidle_a">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>			
+	<Item key="anim@veh@lowrider@std@ds@arm@music@genericidle_b">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>				
+	<Item key="anim@veh@lowrider@std@ds@arm@music@genericidle_c">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>			
+	<Item key="anim@veh@lowrider@std@ds@arm@music@genericidle_d">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>			
+	<Item key="anim@veh@lowrider@std@ds@arm@music@genericidle_e">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@hiphopbase">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@hiphopidle_a">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@hiphopidle_b">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@hiphopidle_c">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@hiphopidle_d">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@hiphopidle_e">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>		
+	<Item key="anim@veh@lowrider@std@ds@arm@music@mexicanbase">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@mexicanidle_a">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@mexicanidle_b">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@mexicanidle_c">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@mexicanidle_d">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@mexicanidle_e">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>		
+	<Item key="anim@veh@lowrider@std@ds@arm@music@mexicanidle_f">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>		
+	<Item key="anim@veh@lowrider@std@ds@arm@music@motownbase">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@motownidle_a">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@motownidle_b">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@motownidle_c">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@motownidle_d">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>		
+	<Item key="anim@veh@lowrider@std@ds@arm@music@motownidle_e">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>		
+	<Item key="anim@veh@lowrider@std@ds@arm@music@motownidle_f">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>		
+	<Item key="anim@veh@lowrider@std@ds@arm@music@punkbase">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@punkidle_a">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@punkidle_b">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@punkidle_c">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@punkidle_d">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@punkidle_e">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>	
+	<Item key="anim@veh@lowrider@std@ds@arm@music@punkidle_f">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Vehicle</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>		
+    <Item key="anim@melee@machete@streamed_core@">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Melee</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+    <Item key="anim@melee@machete@streamed_core_fps@">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Melee</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+    <Item key="anim@weapons@first_person@aim_rng@generic@pistol@machine_pistol@str">
+      <streamingPolicy>SP_SINGLEPLAYER_RESIDENT SP_MULTIPLAYER_RESIDENT</streamingPolicy>
+      <memoryGroup>MG_Weapons</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+    <Item key="anim@weapons@pistol@machine">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Weapons</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+    <Item key="anim@weapons@pistol@machine_str">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_Weapons</memoryGroup>
+      <streamingPriority>SP_Medium</streamingPriority>
+    </Item>
+  </clipDictionaryMetadatas>
+</fwClipSetManager>

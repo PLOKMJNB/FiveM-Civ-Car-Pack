@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+      <Item>
+      <modelName>nissantitan17</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            34 
+            1 
+            136 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0 
+            0 
+            6 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2 
+            2 
+            134 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8 
+            8 
+            134 
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            19 
+            19 
+            134 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31 
+            31 
+            28 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34 
+            34 
+            28
+            156 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64 
+            64 
+            53
+            156 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73 
+            73 
+            60 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            00 
+            38 
+            00 
+            00 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89 
+            89 
+            89 
+            156 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            107 
+            107 
+            110 
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62 
+            62 
+            5 
+            156 
+          </indices>
+          <liveries />
+        </Item>  
+        <Item>
+          <indices content="char_array">
+            107 
+            107 
+            112 
+            156 
+          </indices>
+          <liveries />
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            255 
+            255 
+            255 
+            255 
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0 
+            0 
+            0 
+          </indices>
+          <liveries />
+        </Item>         
+        <Item>
+          <indices content="char_array">
+            1 
+            1 
+            5 
+            156 
+          </indices>
+          <liveries />
+        </Item> 
+        <Item>
+          <indices content="char_array">
+            8 
+            8 
+            134 
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            141
+            0
+            82
+	    70
+	    120
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            80
+            63
+            64
+            0 
+	    130
+	    120
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            5
+            29
+            8
+            27
+	    2
+	    120
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            138
+            0
+            138
+	    38
+	    120
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            12
+            12
+            122
+            0
+	    12
+	    120
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            122
+            122
+	    111
+	    120
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <kitName>928_nissantitan17_modkit</kitName>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

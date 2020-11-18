@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>esprit02</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            29
+            112
+            36
+            112
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            11
+            0
+            0
+            112
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            0
+            0
+            112
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            111
+            112
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            95
+            112
+            95
+            112
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            0
+            65
+            112
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            0
+            53
+            112
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38
+            88
+            0
+            112
+            93
+            93
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            135
+            74
+            0
+            112
+            93
+            93
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="700" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

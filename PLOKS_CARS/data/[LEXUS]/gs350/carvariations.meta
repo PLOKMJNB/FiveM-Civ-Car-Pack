@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+
+
+
+
+
+
+
+
+
+
+    <Item>
+      <modelName>gs350</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            001
+            112 
+            112
+            0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>181_gs350_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+
+
+
+
+
+
+
+
+
+
+  </variationData>
+</CVehicleModelInfoVariation>

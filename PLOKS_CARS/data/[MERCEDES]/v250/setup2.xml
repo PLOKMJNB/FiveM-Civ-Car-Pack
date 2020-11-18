@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_vclass</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>00/00/0000 00:00:00</timeStamp>
+  <nameHash>vclass</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>VCLASS_AUTOGEN</Item>
+        <Item>VCLASS_UNLOCKS_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="9" />
+</SSetupData>

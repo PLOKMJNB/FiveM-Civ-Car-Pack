@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+      <Item>
+      <modelName>wmfenyr</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112 
+            28
+            0 
+            0 
+			156
+			112
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+
+      </colors>
+      <kits>
+        <Item>3694_wmfenyr_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>yankton plate</Name>
+            <Value value="85" />
+          </Item>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="5" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="5" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="5" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+
+  </variationData>
+</CVehicleModelInfoVariation>

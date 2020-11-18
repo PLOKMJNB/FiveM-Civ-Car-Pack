@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>lrrr</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Silver -->
+            5
+            0
+            111
+            156
+						0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Red -->
+            28
+            28
+            0
+            156
+						0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Blue -->
+            73
+            73
+            5
+            156
+						62
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Red -->
+            28
+            28
+            0
+            156
+						28
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Black -->
+            0
+            0
+            0
+            156
+						0
+          </indices>
+				</Item>
+        <Item>
+          <indices content="char_array"> <!-- Red -->
+            28
+            28
+            0
+            156
+						62
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

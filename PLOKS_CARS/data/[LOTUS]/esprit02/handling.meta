@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHandlingDataMgr>
+  <HandlingData>
+    <Item type="CHandlingData">
+      <handlingName>esprit02</handlingName> <!-- 4.5s 282 -->
+      <fMass value="1460" />
+      <fInitialDragCoeff value="3" />
+      <fPercentSubmerged value="85" />
+      <vecCentreOfMassOffset x="0" y="-0.1" z="0" />
+      <vecInertiaMultiplier x="1" y="1.2" z="1.3" />
+      <fDriveBiasFront value="0" />
+      <nInitialDriveGears value="5" />
+      <fInitialDriveForce value="0.27" />
+      <fDriveInertia value="1" />
+      <fClutchChangeRateScaleUpShift value="2" />
+      <fClutchChangeRateScaleDownShift value="2" />
+      <fInitialDriveMaxFlatVel value="250" />
+      <fBrakeForce value="0.8" />
+      <fBrakeBiasFront value="0.55" />
+      <fHandBrakeForce value="0.8" />
+      <fSteeringLock value="38" />
+      <fTractionCurveMax value="1.9" />
+      <fTractionCurveMin value="1.7" />
+      <fTractionCurveLateral value="16.7" />
+      <fTractionSpringDeltaMax value="0.1" />
+      <fLowSpeedTractionLossMult value="0" />
+      <fCamberStiffnesss value="0" />
+      <fTractionBiasFront value="0.49" />
+      <fTractionLossMult value="1" />
+      <fSuspensionForce value="3" />
+      <fSuspensionCompDamp value="1.5" />
+      <fSuspensionReboundDamp value="1.5" />
+      <fSuspensionUpperLimit value="0.05" />
+      <fSuspensionLowerLimit value="-0.08" />
+      <fSuspensionRaise value="0" />
+      <fSuspensionBiasFront value="0.5" />
+      <fAntiRollBarForce value="0.6" />
+      <fAntiRollBarBiasFront value="0.55" />
+      <fRollCentreHeightFront value="0.1" />
+      <fRollCentreHeightRear value="0.1" />
+      <fCollisionDamageMult value="1" />
+      <fWeaponDamageMult value="1" />
+      <fDeformationDamageMult value="1.3" />
+      <fEngineDamageMult value="1.5" />
+      <fPetrolTankVolume value="60" />
+      <fOilVolume value="6.5" />
+      <fSeatOffsetDistX value="0" />
+      <fSeatOffsetDistY value="-0.3" />
+      <fSeatOffsetDistZ value="0.05" />
+      <nMonetaryValue value="60000" />
+      <strModelFlags>440010</strModelFlags>
+      <strHandlingFlags>20000</strHandlingFlags>
+      <strDamageFlags>0</strDamageFlags>
+      <AIHandling>AVERAGE</AIHandling>
+      <fPopUpLightRotation value="55" />
+      <SubHandlingData>
+        <Item type="NULL" />
+      </SubHandlingData>
+    </Item>
+</HandlingData>
+</CHandlingDataMgr>

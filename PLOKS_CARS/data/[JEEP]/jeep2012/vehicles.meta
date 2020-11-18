@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+  <residentTxd>vehshare</residentTxd>
+  <residentAnims />
+  <InitDatas>
+    <Item>
+      <modelName>jeep2012</modelName>
+      <txdName>jeep2012</txdName>
+      <handlingId>jeep2012</handlingId>
+      <gameName>jeep12</gameName>
+      <vehicleMakeName>dyc3mods</vehicleMakeName>
+      <expressionDictName>null</expressionDictName>
+      <expressionName>null</expressionName>
+      <animConvRoofDictName>null</animConvRoofDictName>
+      <animConvRoofName>null</animConvRoofName>
+      <animConvRoofWindowsAffected />
+      <ptfxAssetName>null</ptfxAssetName>
+      <audioNameHash>PATRIOT</audioNameHash>
+      <layout>LAYOUT_4X4</layout>
+      <coverBoundOffsets>MESA_COVER_OFFSET_INFO</coverBoundOffsets>
+      <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+      <scenarioLayout />
+      <cameraName>FOLLOW_JEEP_CAMERA</cameraName>
+      <aimCameraName>JEEP_AIM_CAMERA</aimCameraName>
+      <bonnetCameraName>VEHICLE_BONNET_CAMERA_MID_NEAR</bonnetCameraName>
+      <povCameraName>DEFAULT_POV_CAMERA_LOOKAROUND_MID</povCameraName>
+      <FirstPersonDriveByIKOffset x="-0.018000" y="-0.043000" z="-0.020000" />
+      <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.000000" z="-0.020000" />
+	  <FirstPersonProjectileDriveByIKOffset x="0.080000" y="0.000000" z="-0.060000" />
+	  <FirstPersonProjectileDriveByPassengerIKOffset x="0.020000" y="0.060000" z="-0.090000" />
+	  <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="-0.058000" />
+	  <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="-0.058000" />
+	  <FirstPersonDriveByLeftPassengerIKOffset x="-0.030000" y="0.010000" z="-0.076000" />
+	  <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="0.000000" z="-0.040000" />
+	  <FirstPersonDriveByRightRearPassengerIKOffset x="0.015000" y="0.010000" z="-0.076000" />
+	  <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="-0.150000" z="0.010000" />
+	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.150000" z="0.010000" />
+	  <FirstPersonMobilePhoneOffset x="0.150000" y="0.260000" z="0.503000" />
+      <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.445000" />
+	  <FirstPersonMobilePhoneSeatIKOffset>
+		<Item>
+			<Offset x="0.154000" y="0.076000" z="0.478000" />
+			<SeatIndex value="2" />
+		</Item>
+		<Item>
+			<Offset x="0.154000" y="0.076000" z="0.478000" />
+			<SeatIndex value="3" />
+		</Item>
+	  </FirstPersonMobilePhoneSeatIKOffset>
+      <PovCameraOffset x="0.000000" y="-0.120000" z="0.580000" />
+      <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
+      <PovPassengerCameraOffset x="0.000000" y="0.010000" z="0.075000" />
+      <PovRearPassengerCameraOffset x="0.000000" y="-0.190000" z="0.145000" />
+      <vfxInfoName>VFXVEHICLEINFO_CAR_OFFROAD</vfxInfoName>
+      <shouldUseCinematicViewMode value="true" />
+      <shouldCameraTransitionOnClimbUpDown value="false" />
+      <shouldCameraIgnoreExiting value="false" />
+      <AllowPretendOccupants value="true" />
+      <AllowJoyriding value="true" />
+      <AllowSundayDriving value="true" />
+      <AllowBodyColorMapping value="true" />
+      <wheelScale value="0.269000" />
+      <wheelScaleRear value="0.269000" />
+      <dirtLevelMin value="0.000000" />
+      <dirtLevelMax value="0.850000" />
+      <envEffScaleMin value="0.000000" />
+      <envEffScaleMax value="1.000000" />
+      <envEffScaleMin2 value="0.000000" />
+      <envEffScaleMax2 value="1.000000" />
+      <damageMapScale value="0.600000" />
+      <damageOffsetScale value="1.000000" />
+      <diffuseTint value="0x00FFFFFF" />
+      <steerWheelMult value="1.000000" />
+      <HDTextureDist value="5.000000" />
+      <lodDistances content="float_array">
+        15.000000
+        30.000000
+        70.000000	
+        140.000000	
+        500.000000	
+        500.000000
+      </lodDistances>
+      <minSeatHeight value="0.846" />
+      <identicalModelSpawnDistance value="20" />
+      <maxNumOfSameColor value="10" />
+      <defaultBodyHealth value="1000.000000" />
+      <pretendOccupantsScale value="1.000000" />
+      <visibleSpawnDistScale value="1.000000" />
+      <trackerPathWidth value="2.000000" />
+      <weaponForceMult value="0.900000" />
+      <frequency value="100" />
+      <swankness>SWANKNESS_1</swankness>
+      <maxNum value="999" />
+      <flags>FLAG_HAS_LIVERY FLAG_EXTRAS_STRONG FLAG_RICH_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_HAS_INTERIOR_EXTRAS</flags>
+      <type>VEHICLE_TYPE_CAR</type>
+      <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
+      <vehicleClass>VC_SUV</vehicleClass>
+	  <dashboardType>VDT_SPEEDO</dashboardType>
+      <wheelType>VWT_OFFROAD</wheelType>
+      <trailers />
+      <additionalTrailers />
+      <drivers />
+      <extraIncludes />
+      <doorsWithCollisionWhenClosed />
+      <driveableDoors />
+      <bumpersNeedToCollideWithMap value="true" />
+      <needsRopeTexture value="false" />
+      <requiredExtras />
+      <rewards />
+      <cinematicPartCamera>
+        <Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+        <Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+        <Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+        <Item>WHEEL_REAR_LEFT_CAMERA</Item>
+      </cinematicPartCamera>
+      <NmBraceOverrideSet>Truck</NmBraceOverrideSet>
+      <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
+      <buoyancySphereSizeScale value="1.000000" />
+      <pOverrideRagdollThreshold type="NULL" />
+      <firstPersonDrivebyData>
+        <Item>RANGER_MESA_FRONT_LEFT</Item>
+        <Item>VAN_SPEEDO_FRONT_RIGHT</Item>
+        <Item>RANGER_CRUSADER_REAR_LEFT</Item>
+        <Item>RANGER_CRUSADER_REAR_RIGHT</Item>
+      </firstPersonDrivebyData>
+    </Item>
+  </InitDatas>
+  <txdRelationships>
+    <Item>
+      <parent>vehshare</parent>
+      <child>jeep2012</child>
+    </Item>
+    <Item>
+      <parent>vehicles_speedo_interior</parent>
+      <child>jeep2012</child>
+    </Item>
+  </txdRelationships>
+
+</CVehicleModelInfo__InitDataList>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+   <Item>
+      <modelName>760li04</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            147 
+            24 
+            4 
+            156
+						24
+						18 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+				<Item>
+          <indices content="char_array">
+            147 
+            134 
+            75 
+            156
+						21
+						22 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            147 
+            41 
+            48 
+            156
+						21
+						38 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>677_760li04_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="25" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="10" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="15" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="677" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
