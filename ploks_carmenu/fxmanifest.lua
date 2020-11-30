@@ -1,7 +1,11 @@
-fx_version 'adamant'
-game 'gta5'
+-- Resource Metadata
+fx_version 'cerulean'
+games {'gta5'}
 
-description "Add-On Vehicle Spawn Menu" -- Resource Descrption
+author 'PLOKMJNB'
+description 'Add-On Vehicle Spawn Menu by FlatracerMOD (aka Flatracer) Adapted for PLOKS Civ Car Pack'
+version '1.0.0-final
+repository 'https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack'
 
 dependencies {
     'NativeUI',
