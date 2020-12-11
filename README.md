@@ -22,9 +22,11 @@
 - Copy the files to your server or wherever you may be hosting your FiveM server.
   - Like ZAP-Hosting, your own dedicated VPS or even your main system<sub>[My favorite for home hosting for beginners](https://github.com/LambentLight/LambentLight)</sub>.
   - If needed use an FTP (ex. Filezilla) to send this repo to your server
+
+- Copy `PLOKS_CARS` folder into your `resources` folder
 - Go to your `server.cfg` in your server files and copy everything you find in this [file](ploks-cars.cfg)
 - You're done installing the cars!
-  - If you add this while your server is running, go to your live console and type, `refresh` then type `start PLOCKS_CARS`
+  - If you add this while your server is running, go to your live console and type, `refresh` then type `start PLOKS_CARS`
     - Once you add it into the server and do a restart, this extra step is unnecessary
 
 ### How to Install The Menu
