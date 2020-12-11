@@ -2,11 +2,11 @@
 
 <!--![Car Menu](https://img.shields.io/badge/Car%20Menu-Up%20to%20Date-brightgreen?style=for-the-badge)-->
 <!--![Car List](https://img.shields.io/badge/Car%20List-Outdated-red?style=for-the-badge)-->
-<!--![Server.cgf.txt](https://img.shields.io/badge/server.cfg.txt-Outdated-red?style=for-the-badge)-->
+<!--![plocks-cars.cfg](https://img.shields.io/badge/plocks&minus;cars.cfg-Outdated-red?style=for-the-badge)-->
 ![Issues](https://img.shields.io/github/issues/PLOKMJNB/FiveM-Civ-Car-Pack?style=for-the-badge&logo=github)
 ![Car Menu](https://img.shields.io/badge/Car%20Menu-Up%20to%20Date-brightgreen?style=for-the-badge)
 ![Car List](https://img.shields.io/badge/Car%20List-Up%20to%20Date-brightgreen?style=for-the-badge)
-![Server.cgf.txt](https://img.shields.io/badge/server.cfg.txt-Up%20to%20Date-brightgreen?style=for-the-badge)
+![plocks-cars.cfg](https://img.shields.io/badge/plocks&minus;cars.cfg-Up%20to%20Date-brightgreen?style=for-the-badge)
 
 ***Want any car in here? Just make an issue with a download link and I'll get to it!***
 
@@ -18,13 +18,13 @@
 ### How To Install The Cars
 - Download the latest release it you just want a simple install.
 - Clone or direct download if you know what your doing or if you plan to be doing any major reworking.
-  - Most of the time this will be outdated or incomplete as   will be constantly updating this repository.
+  - Most of the time this will be outdated or incomplete as will be constantly updating this repository.
 - Copy the files to your server or wherever you may be hosting your FiveM server.
   - Like ZAP-Hosting, your own dedicated VPS or even your main system<sub>[My favorite for home hosting for beginners](https://github.com/LambentLight/LambentLight)</sub>.
   - If needed use an FTP (ex. Filezilla) to send this repo to your server
-- Go to your `server.cfg` in your server files and copy everything you find in this [file](server.cfg.txt)
+- Go to your `server.cfg` in your server files and copy everything you find in this [file](ploks-cars.cfg)
 - You're done installing the cars!
-  - If you add this while your server is running, go to your live console and type, `refresh` then type `start *whatever*` to test any car out.
+  - If you add this while your server is running, go to your live console and type, `refresh` then type `start PLOCKS_CARS`
     - Once you add it into the server and do a restart, this extra step is unnecessary
 
 ### How to Install The Menu
@@ -33,7 +33,7 @@
 - Before you can use the menu you must install [NativeUI](https://github.com/FrazzIe/NativeUILua)
 - in the `server.cfg` you must start NativeUI before this menu so like this:
 ```
-start NativeUI 
+start NativeUI
 start ploks_carmenu
 ```
 <center><h1>All included cars with pictures and spawn codes</h1></center>
