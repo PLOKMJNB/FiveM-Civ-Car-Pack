@@ -25,3 +25,5 @@ data_file 'PTFXASSETINFO_FILE' 'data/**/ptfxassetinfo.meta'
 client_scripts {
     'vehicle_names.lua',
 }
+
+server_script 'server.lua'
