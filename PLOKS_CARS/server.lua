@@ -1,12 +1,23 @@
-if GetCurrentResourceName() ~= "PLOKS_CARS" then 
-    while true do 
-      print("DON'T CHANGE THE FOLDER NAME")  
+SetConvarServerInfo('tags', 'PLOKS_CARS')
+
+message = false
+Citizen.CreateThread(function()
+    Wait(1000)
+    while message == false do
+        message = true
+        print("   __ __  _____ ")
+        print("  / //_/ / _  / |                                Thanks for using my car pack!                                    ")
+        print(" / ,<   / // /  |-------------------------------------------------------------------------------------------------")
+        print("/_/|_| /____/   | If your ever looking for a better host than Zap or any unauthorized GSP check out khandesign.net")
     end
+end)
+
+if GetCurrentResourceName() ~= "PLOKS_CARS" then 
+  while true do 
+    print("Please Dont Change the resource name I'd suggest you change it back.")  
   end
-if (GetResourceState(GetCurrentResourceName()) == "started" then  
-    print("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit 
-        esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa 
-        qui officia deserunt mollit anim id est laborum.")
 end
+                     
+
+
+
