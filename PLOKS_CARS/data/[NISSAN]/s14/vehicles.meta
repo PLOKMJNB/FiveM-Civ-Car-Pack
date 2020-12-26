@@ -114,17 +114,17 @@
     </Item>
  </InitDatas>
  <txdRelationships>
-    <Item>
-      <parent>vehicles_btype_interior</parent>
-      <child>s14mods</child>
+		<Item>
+      <parent>s142</parent>
+      <child>s14</child>
     </Item>
     <Item>
       <parent>s14mods</parent>
-      <child>s14</child>
-    </Item>
-		<Item>
-      <parent>s14</parent>
       <child>s142</child>
+    </Item>
+    <Item>
+      <parent>vehicles_btype_interior</parent>
+      <child>s14mods</child>
     </Item>
  </txdRelationships>
 </CVehicleModelInfo__InitDataList> 
