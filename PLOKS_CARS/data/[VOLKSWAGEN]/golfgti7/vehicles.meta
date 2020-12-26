@@ -116,8 +116,12 @@
 
   <txdRelationships>
     <Item>
-      <parent>vehicles_schaf_interior</parent>
+      <parent>golfgti72</parent>
       <child>golfgti7</child>
+    </Item>
+    <Item>
+      <parent>vehicles_schaf_interior</parent>
+      <child>golfgti72</child>
     </Item>
   </txdRelationships>
 </CVehicleModelInfo__InitDataList>
