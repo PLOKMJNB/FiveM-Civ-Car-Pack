@@ -60,7 +60,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('srt8', '2015 Jeep SRT-8')
 	AddTextEntry('trhawk', '2018 Jeep Grand Cherokee Trackhawk Series IV')
 	-- KOENIGSEGG
-	AddTextEntry('regera', 'Koenigsegg Regara')
+	AddTextEntry('regera', 'Koenigsegg Regera')
 	-- LAMBORGHINI
 	AddTextEntry('huracanst', 'Lamborghini Huracan Super Trofeo')
 	AddTextEntry('lambose', 'Lamborghini Sesto Elemento')
