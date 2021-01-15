@@ -74,7 +74,7 @@ Citizen.CreateThread(function()
 	-- LANDROVER
 	AddTextEntry('lrrr', '1973 Land Rover Range Rover')
 	-- LOTUS
-	AddTextEntry('espirit02', '2002 Lotus Esprit V8')
+	AddTextEntry('esprit02', '2002 Lotus Esprit V8')
 	-- LUCIS
 	AddTextEntry('regalia', 'Quartz Regalia 723')
 	-- MASERATI
