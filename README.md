@@ -13,7 +13,7 @@
 [***Join the discord to talk to me faster or to get help! (just click this line)***](https://discord.gg/vZmRp7EqSS)
 
 
-***To see the car pictures better/larger click [here](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack/blob/master/README.md)***
+***To see the car pictures better/larger click [here](https://drive.google.com/drive/folders/1eXK65vqXWFoGuvQJB6bDBg064yk-_SPp?usp=sharing)***
 
 ### How To Install The Cars
 - Download the latest release it you just want a simple install.
@@ -30,13 +30,12 @@
     - Once you add it into the server and do a restart, this extra step is unnecessary
 
 ### How to Install The Menu
-- Note: ~~I used [Flatracer's](https://github.com/Flatracer) [Add-On Menu](https://github.com/Flatracer/AddOnVehicleSpawnMenu)~~
-  - We now use [LondonStudios](https://github.com/LondonStudios/) [Vehicle Spawner](https://github.com/LondonStudios/VehicleSpawner) due to Flatracers discontiuation of his resource.
+- We use [LondonStudios](https://github.com/LondonStudios/) [Vehicle Spawner](https://github.com/LondonStudios/VehicleSpawner)
 - You will most likely already have this downloaded if you followed above
 - in the `server.cfg` you must start NativeUI before this menu so like this:
 ```
-start NativeUI
-start ploks_carmenu
+ensure NativeUI
+ensure ploks_carmenu
 ```
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
@@ -139,7 +138,7 @@ start ploks_carmenu
 | **2020 Porsche Taycan Turbo S** | taycan | ![Picture](./img/taycan.webp) | Scott_Carter | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-porsche-taycan-turbo-s-add-on-replace-template-auto-spoiler) | ✔️ |
 | **Range Rover Evoque** | rrevoque | ![Picture](./img/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
 | **2016 Range Rover Sport SVR** | rsvr16 | ![Picture](./img/rsvr16.webp) | Faysal | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-sport-svr-2016) | ✔️ |
-| **Rolls Royce Cullinan** | rculi | ![Picture](./img/rculi.webp) | tigbel/Mr.LA | [5MODS Link](https://www.gta5-mods.com/vehicles/rolls-royce-cullinan-replace) | ✔️ | Pictures my me! |
+| **Rolls Royce Cullinan** | rculi | ![Picture](./img/rculi.webp) | tigbel/Mr.LA | [5MODS Link](https://www.gta5-mods.com/vehicles/rolls-royce-cullinan-replace) | ✔️ | Pictures by me! |
 | **2018 Rolls-Royce Phantom VIII** | rrphantom | ![Picture](./img/rrphantom.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-rolls-royce-phantom-viii) | ✔️ |
 | **Rolls-Royce Wraith** | wraith | ![Picture](./img/wraith.webp) | A.N.R.T | [5MODS Link](https://www.gta5-mods.com/vehicles/rollse-royse-wraith-add-on-replace-animated-by-anertee) | ✔️ |
 | **2008 Subaru WRX STi** | subisti08 | ![Picture](./img/subisti08.png) | AkuzakiSokudo | [5MODS Link](https://www.gta5-mods.com/vehicles/2008-subaru-wrx-sti-add-on-tuning) | ✔️ |
@@ -152,5 +151,3 @@ start ploks_carmenu
 | **Volvo XC90 T8** | xc90 | ![Picture](./img/xc90.png) | Jureeke | [5MODS Link](https://www.gta5-mods.com/vehicles/volvo-xc90-t8-add-on-fivem-jureeke) | ✔️ |
 | **W-Motors Lykan HyperSport** | lykan | ![Picture](./img/Lykan.webp) | Kpym | [5MODS Link](https://www.gta5-mods.com/vehicles/w-motor-lykan-hypersport-add-on-replace-digital-dials) | ✔️ |
 | **W-Motors Fenyr Supersport** | wmfenyr | ![Picture](./img/wmfenyr.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/wmotors-fenyr-supersport-add-on) | ✔️ |
-
-| **NAME** | SPAWN | ![Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
