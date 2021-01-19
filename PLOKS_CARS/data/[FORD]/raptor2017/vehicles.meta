@@ -85,7 +85,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 	  <dashboardType>VDT_CAVALCADE</dashboardType>
-      <vehicleClass>VC_OFF_ROAD</vehicleClass>
+      <vehicleClass>VC_UTILITY</vehicleClass>
       <wheelType>VWT_SUV</wheelType>
       <trailers />
       <additionalTrailers />
