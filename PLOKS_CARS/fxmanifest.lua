@@ -7,9 +7,6 @@ description 'A single resource car pack to eliminate the rest'
 repository 'https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack'
 
 files {
-    'data/**/*.meta',
-    'data/**/*.xml',
-    'data/**/*.dat',
     'data/**/*.ytyp'
 }
 
