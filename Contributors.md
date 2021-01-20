@@ -8,3 +8,6 @@
 
 - [Synter](https://github.com/synterrr)
   - Created the server.lua
+
+- [Hamy-os](https://github.com/hamy-os)
+  - Optimised vehicles and fixed metas
