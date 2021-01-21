@@ -7,7 +7,7 @@
       <modelName>jeep2012</modelName>
       <txdName>jeep2012</txdName>
       <handlingId>jeep2012</handlingId>
-      <gameName>jeep12</gameName>
+      <gameName>jeep2012</gameName>
       <vehicleMakeName>dyc3mods</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -94,7 +94,7 @@
       <flags>FLAG_HAS_LIVERY FLAG_EXTRAS_STRONG FLAG_RICH_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_HAS_INTERIOR_EXTRAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
-      <vehicleClass>VC_SUV</vehicleClass>
+      <vehicleClass>VC_OFF_ROAD</vehicleClass>
 	  <dashboardType>VDT_SPEEDO</dashboardType>
       <wheelType>VWT_OFFROAD</wheelType>
       <trailers />

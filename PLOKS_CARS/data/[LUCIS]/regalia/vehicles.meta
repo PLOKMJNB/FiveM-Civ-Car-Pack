@@ -102,7 +102,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 	  <dashboardType>VDT_BANSHEE</dashboardType>
-      <vehicleClass>VC_COUPE</vehicleClass>
+      <vehicleClass>VC_SEDAN</vehicleClass>
       <wheelType>VWT_HIEND</wheelType>
       <trailers />
       <additionalTrailers />

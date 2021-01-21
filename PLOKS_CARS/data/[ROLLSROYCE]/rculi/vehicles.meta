@@ -17,7 +17,7 @@
       <modelName>rculi</modelName>
       <txdName>rculi</txdName>
       <handlingId>RCULI</handlingId>
-      <gameName>CULLINAN 2019</gameName>
+      <gameName>rculi</gameName>
       <vehicleMakeName>ROLLS-ROYCE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -95,7 +95,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_RACE</dashboardType>
-      <vehicleClass>VC_SPORT</vehicleClass>
+      <vehicleClass>VC_SUV</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers />
       <additionalTrailers />
