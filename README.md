@@ -24,7 +24,7 @@
   - If needed use an FTP (ex. Filezilla) to send this repo to your server
 
 - Copy `PLOKS_CARS` folder into your `resources` folder
-- Go to your `server.cfg` in your server files and copy everything you find in this [file](ploks-cars.cfg)
+- Go to your `server.cfg` in your server files and add `ensure PLOKS_CARS` near the top of the file
 - You're done installing the cars!
   - If you add this while your server is running, go to your live console and type, `refresh` then type `start PLOKS_CARS`
     - Once you add it into the server and do a restart, this extra step is unnecessary
@@ -37,6 +37,11 @@
 ensure NativeUI
 ensure ploks_carmenu
 ```
+
+### vMenu
+- If vMenu is installed on your server, every vehicle in the pack will show under "Addon Vehicles"
+- You must update vMenu's addons.json file with all the vehicle names (see this [this example](example_vmenu_addons.json))
+
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)</sub> | Status | Extra Notes |

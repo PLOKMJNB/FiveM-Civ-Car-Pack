@@ -11,3 +11,7 @@
 
 - [Hamy-os](https://github.com/hamy-os)
   - Optimised vehicles and fixed metas
+
+- [joe-p](https://github.com/joe-p)
+  - Updated gameName in vehicles.meta files to match modelName for proper naming in vMenu
+  - Updated incorrect vehicle classes in vehicles.meta files 
