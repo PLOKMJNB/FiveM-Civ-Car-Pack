@@ -85,7 +85,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_BOBCAT</dashboardType>
-      <vehicleClass>VC_SPORT_CLASSIC</vehicleClass>
+      <vehicleClass>VC_SUV</vehicleClass>
       <wheelType>VWT_LOWRIDER</wheelType>
       <trailers />
       <additionalTrailers />

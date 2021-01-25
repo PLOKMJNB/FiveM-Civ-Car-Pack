@@ -17,7 +17,7 @@
       <modelName>pcs18</modelName>
       <txdName>pcs18</txdName>
       <handlingId>PCS18</handlingId>
-      <gameName>CAYENNE S 2018</gameName>
+      <gameName>pcs18</gameName>
       <vehicleMakeName>PORSCHE</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -95,7 +95,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_GENTAXI</dashboardType>
-      <vehicleClass>VC_SPORT</vehicleClass>
+      <vehicleClass>VC_SUV</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers />
       <additionalTrailers />
