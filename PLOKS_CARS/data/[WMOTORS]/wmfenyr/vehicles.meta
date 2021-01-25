@@ -7,7 +7,7 @@
       <modelName>wmfenyr</modelName>
       <txdName>wmfenyr</txdName>
       <handlingId>WMFENYR</handlingId>
-      <gameName>FENYR</gameName>
+      <gameName>wmfenyr</gameName>
       <vehicleMakeName>WMOTORS</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -85,7 +85,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_RACE</dashboardType>
-      <vehicleClass>VC_SPORT</vehicleClass>
+      <vehicleClass>VC_SUPER</vehicleClass>
       <wheelType>VWT_HIEND</wheelType>
       <trailers />
       <additionalTrailers />

@@ -10,7 +10,7 @@
       <modelName>jeepreneg</modelName>
       <txdName>jeepreneg</txdName>
       <handlingId>BALLER</handlingId>
-      <gameName>ASTROPE</gameName>
+      <gameName>jeepreneg</gameName>
       <vehicleMakeName>KARIN</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -98,7 +98,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_CAVALCADE</dashboardType>
-      <vehicleClass>VC_SEDAN</vehicleClass>
+      <vehicleClass>VC_SUV</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers />
       <additionalTrailers />
