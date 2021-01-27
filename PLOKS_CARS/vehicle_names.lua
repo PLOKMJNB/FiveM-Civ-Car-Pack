@@ -57,6 +57,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('na1', '1992 Honda NSX-R (NA1)')
 	AddTextEntry('ap2', 'Honda S2000 AP2')
 	AddTextEntry('dragekcivick', '1997 Honda Civic Sedan Drag Version')
+	AddTextEntry('fk8', '2018 Honda Civic Type-R (FK8)')
 	-- ITALDESIGN
 	AddTextEntry('it18', '2017 Italdesign Zerouno')
 	-- JAGUAR
@@ -152,6 +153,5 @@ Citizen.CreateThread(function()
 	AddTextEntry('lykan', 'W-Motors Lykan HyperSport')
 	-- AddTextEntry('SPAWN-CODE', 'Vehicle Name')
 	-- Add in later
-	AddTextEntry('fk8', '2018 Honda Civic Type-R (FK8)')
 	AddTextEntry('17civict', '2017 Honda Civic Touring')
 end)

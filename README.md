@@ -90,6 +90,7 @@ ensure ploks_carmenu
 | **1997 Honda Civic Sedan Drag Version** | dragekcivick | ![Picture](./img/dragekcivick.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/) | ✔️ | xAdrian |
 | **Honda S2000 AP2** | ap2 | ![Picture](./img/ap2.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-s2000-tunable) | ✔️ |
 | **2001 Honda Civic Type-R (EP3)** | ep3 | ![Picture](./img/ep3.jpg) | [YCA]Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/2004-honda-civic-type-r-ep3) | ✔️ |
+| **2018 Honda Civic Type-R (FK8)** | fk8 | ![Picture](./img/fk8.webp) | [YCA]Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-honda-civic-type-r-fk8) | ✔️ |
 | **Honda CRX SiR 1991** | honcrx91 | ![Picture](./img/honcrx91.jpg) | Wanted188, GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-crx-sir-91-add-on-tuning-template-lods) | ✔️ |
 | **1992 Honda NSX-R (NA1)** | na1 | ![Picture](./img/na1.jpg) | yca-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-nsx-r-na1-1992) | ✔️ |
 | **2017 Italdesign Zerouno** | it18 | ![Picture](./img/it18.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-italdesign-zerouno-add-on-analog-liverys-extras) | ✔️ |
@@ -165,8 +166,5 @@ ensure ploks_carmenu
 
 
 <!-- 
-https://www.gta5-mods.com/vehicles/2019-porsche-macan-turbo-add-on-extras-dirt-00abolfazl00 | pm19
-https://www.gta5-mods.com/vehicles/acura-tl-type-s-jomanire-and-lazlow555                   | tltypes
-https://www.gta5-mods.com/vehicles/2018-honda-civic-type-r-fk8                              | fk8
 https://www.gta5-mods.com/vehicles/2017-honda-civic-touring-replace                         | 17civict
 --> 
