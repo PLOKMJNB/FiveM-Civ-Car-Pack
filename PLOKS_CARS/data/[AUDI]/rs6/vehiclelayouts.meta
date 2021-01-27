@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleMetadataMgr>
+  <VehicleCoverBoundOffsetInfos />
+  <FirstPersonDriveByLookAroundData>
+    <Item type="CFirstPersonDriveByLookAroundData">
+		<Name>LOW_MASSACRO2_FRONT_LEFT</Name>
+		<AllowLookback value="true" />
+		<HeadingLimits x="-190.000000" y="160.000000" />
+		<DataLeft>
+			<Offsets>
+				<Item>
+					<Offset value="-0.325000" />
+					<AngleToBlendInOffset x="20.000000" y="100.000000" />
+				</Item>
+				<Item>
+					<Offset value="-0.125000" />
+					<AngleToBlendInOffset x="10.000000" y="90.000000" />
+				</Item>
+				<Item>
+					<Offset value="-0.020000" />
+					<AngleToBlendInOffset x="0.000000" y="90.000000" />
+				</Item>
+			</Offsets>
+			<ExtraRelativePitch x="-10.000000" y="10.000000" />
+			<AngleToBlendInExtraPitch x="50.000000" y="100.000000" />
+		</DataLeft>
+		<DataRight>
+			<Offsets>
+				<Item>
+					<Offset value="0.000000" />
+					<AngleToBlendInOffset x="0.000000" y="0.000000" />
+				</Item>
+				<Item>
+					<Offset value="0.000000" />
+					<AngleToBlendInOffset x="0.000000" y="0.000000" />
+				</Item>
+				<Item>
+					<Offset value="-0.030000" />
+					<AngleToBlendInOffset x="0.000000" y="60.000000" />
+				</Item>
+			</Offsets>
+			<ExtraRelativePitch x="-2.500000" y="-7.000000" />
+			<AngleToBlendInExtraPitch x="0.000000" y="105.000000" />
+		</DataRight>
+    </Item>
+    <Item type="CFirstPersonDriveByLookAroundData">
+		<Name>LOW_MASSACRO2_FRONT_RIGHT</Name>
+		<AllowLookback value="true" />
+		<HeadingLimits x="-190.000000" y="160.000000" />
+		<DataLeft>
+			<Offsets>
+				<Item>
+					<Offset value="0.000000" />
+					<AngleToBlendInOffset x="0.000000" y="0.000000" />
+				</Item>
+				<Item>
+					<Offset value="0.000000" />
+					<AngleToBlendInOffset x="0.000000" y="0.000000" />
+				</Item>
+				<Item>
+					<Offset value="0.000000" />
+					<AngleToBlendInOffset x="0.000000" y="0.000000" />
+				</Item>
+			</Offsets>
+			<ExtraRelativePitch x="-2.500000" y="-7.000000" />
+			<AngleToBlendInExtraPitch x="0.000000" y="105.000000" />
+		</DataLeft>
+		<DataRight>
+			<Offsets>
+				<Item>
+					<Offset value="0.325000" />
+					<AngleToBlendInOffset x="20.000000" y="100.000000" />
+				</Item>
+				<Item>
+					<Offset value="-0.125000" />
+					<AngleToBlendInOffset x="10.000000" y="90.000000" />
+				</Item>
+				<Item>
+					<Offset value="0.010000" />
+					<AngleToBlendInOffset x="0.000000" y="50.000000" />
+				</Item>
+			</Offsets>
+			<ExtraRelativePitch x="-10.000000" y="10.000000" />
+			<AngleToBlendInExtraPitch x="50.000000" y="100.000000" />
+		</DataRight>
+    </Item>
+  </FirstPersonDriveByLookAroundData>
+</CVehicleMetadataMgr>
