@@ -15,6 +15,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('rs72020', '2020 Audi RS7')
 	AddTextEntry('s8d2', '1998 Audi S8 (D2/PFL)')
 	AddTextEntry('sq72016', '2016 Audi SQ7')
+	AddTextEntry('ttrs', '2010 Audi TT RS')
 	-- BENTLEY
 	AddTextEntry('bbentayga', 'Bentley Bentayga')
 	AddTextEntry('cgts', '2020 Bentley Continental GT Convertible')

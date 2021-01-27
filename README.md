@@ -57,6 +57,7 @@ ensure ploks_carmenu
 | **2020 Audi RS7** | rs72020 | ![Picture](./img/rs72020.webp) | tmax93 | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-rs7-2020-beta) | ✔️ |
 | **1998 Audi S8 (D2/PFL)** | s8d2 | ![Picture](./img/s8d2.webp) | HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/1998-audi-s8-d2-us-6spd-add-on-replace-tuning-extras) | ✔️ |
 | **2016 Audi SQ7** | sq72016 | ![Picture](./img/sq72016.webp) | [DTD] RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-sq7-2016-add-on) | ✔️ |
+| **2010 Audi TT RS** | ttrs | ![Picture](./img/ttes.webp) | RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-ttrs-2010-add-on-tunning) | ✔️ |
 | **Bentley Bentayga** | bbentayga | ![Picture](./img/bbentayga.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga) | ✔️ |
 | **2020 Bentley Continental GT Convertible** | cgts | ![Picture](./img/cgts.webp) | Thomas Shelby | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-continental-gt-convertible-2020-add-on) | ✔️ |
 | **2004 BMW 760Li Individual (E66/PFL)** | 760li04 | ![Picture](./img/760li04.webp) | DrAgOn777, HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/2004-bmw-760li-individual-e66-pfl-add-on-replace-tuning-extras) | ✔️ |
