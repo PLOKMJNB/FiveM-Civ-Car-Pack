@@ -50,6 +50,7 @@ ensure ploks_carmenu
 | **Aston Martin DBX Carbon Edition** | amdbx | ![Picture](./img/amdbx.webp) | kuchka78 | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-dbx-carbon-edition) | ✔️ |
 | **2013 Aston Martin Vanquish** | ast | ![Picture](./img/ast.webp) | YCA-ANSWER | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-vanquish-2013) | ✔️ |
 | **1995 Audi Cabriolet (RS2) (B4)** | 80B4 | ![Picture](./img/80B4.webp) | HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/1995-audi-80-cabriolet-hkrs2-b4-street-legal-add-on-replace-tuning-extras) | ✔️ |
+| **2017 Audi A4 Quattro ABT** | aaq4 | ![Picture](./img/aaq4.webp) | SaleeN | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-audi-a4-quattro-abt-replace-tuning) | ✔️ |
 | **1983 Audi Quattro Sport** | audquattros | ![Picture](./img/audquattros.webp) | Wanted188, METALman | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-quattro-sport-83-lods-template-add-on-tuning) | ✔️ |
 | **2020 Audi Q8 50TDI** | q820 | ![Picture](./img/q820.webp) | [DTD]RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem) | ✔️ |
 | **2013 Audi R8 V10** | r8ppi | ![Picture](./img/r8ppi.webp) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-audi-r8-v10-ppi-razor-tuning-add-on) | ✔️ |
