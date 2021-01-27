@@ -1,11 +1,15 @@
 Citizen.CreateThread(function()
+	-- ACURA
+	AddTextEntry('tltypes', 'Acura TL Type-S')
 	-- ASTONMARTIN
 	AddTextEntry('amdbx', 'Aston Martin DBX Carbon Edition')
 	AddTextEntry('ast', '2013 Aston Martin Vanquish')
 	-- AUDI
 	AddTextEntry('80B4', '1995 Audi Cabriolet (RS2) (B4)')
 	AddTextEntry('audquattros', '1983 Audi Quattro Sport')
+	AddTextEntry('q820', '2020 Audi Q8 50TDI')
 	AddTextEntry('r8ppi', '2013 Audi R8 V10')
+	AddTextEntry('r820', '2020 Audi R8')
 	AddTextEntry('rs72020', '2020 Audi RS7')
 	AddTextEntry('s8d2', '1998 Audi S8 (D2/PFL)')
 	AddTextEntry('sq72016', '2016 Audi SQ7')
@@ -22,6 +26,8 @@ Citizen.CreateThread(function()
 	AddTextEntry('m4f82', '2015 BMW M4 F82')
 	AddTextEntry('m6f13', 'BMW M6 F13 Shadow Line')
 	AddTextEntry('z419', '2019 BMW Z4 M40i')
+	-- BUGATTI
+	AddTextEntry('bolide', '2020 Bugatti Bolide')
 	-- CADILLAC
 	AddTextEntry('cats', '2016 Cadillac ATS-V Coupe')
 	AddTextEntry('cesc21', '2021 Cadillac Escalade')
@@ -45,11 +51,13 @@ Citizen.CreateThread(function()
 	AddTextEntry('fgt', '2005 Ford GT')
 	AddTextEntry('gt17', '2017 Ford GT')
 	AddTextEntry('raptor2017', '2017 Ford Raptor')
+	AddTextEntry('wildtrak', '2021 Ford Bronco Wildtrak')
 	-- HONDA
 	AddTextEntry('honcrx91', 'Honda CRX SiR 1991')
 	AddTextEntry('na1', '1992 Honda NSX-R (NA1)')
 	AddTextEntry('ap2', 'Honda S2000 AP2')
 	AddTextEntry('dragekcivick', '1997 Honda Civic Sedan Drag Version')
+	AddTextEntry('fk8', '2018 Honda Civic Type-R (FK8)')
 	-- ITALDESIGN
 	AddTextEntry('it18', '2017 Italdesign Zerouno')
 	-- JAGUAR
@@ -117,9 +125,10 @@ Citizen.CreateThread(function()
 	-- PORSCHE
 	AddTextEntry('maj935', '1978 Porsche 935 Moby Dick')
 	AddTextEntry('pcs18', '2018 Porsche Cayenne S')
-	AddTextEntry('taycan', '2020 Porsche Taycan Turbo S')
 	AddTextEntry('718caymans', 'Porsche 718 Cayman S')
 	AddTextEntry('cgt', '2003 Porsche Carrera GT (980)')
+	AddTextEntry('pm19', '2019 Porsche Macan Turbo')
+	AddTextEntry('taycan', '2020 Porsche Taycan Turbo S')
 	-- RANGEROVER
 	AddTextEntry('rrevoque', 'Range Rover Evoque')
 	AddTextEntry('rsvr16', '2016 Range Rover Sport SVR')
@@ -143,4 +152,6 @@ Citizen.CreateThread(function()
 	AddTextEntry('wmfenyr', 'W-Motors Fenyr Supersport')
 	AddTextEntry('lykan', 'W-Motors Lykan HyperSport')
 	-- AddTextEntry('SPAWN-CODE', 'Vehicle Name')
+	-- Add in later
+	AddTextEntry('17civict', '2017 Honda Civic Touring')
 end)
