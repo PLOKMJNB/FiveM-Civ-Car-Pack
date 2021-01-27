@@ -85,6 +85,7 @@ ensure ploks_carmenu
 | **2005 Ford GT** | fgt | ![Picture](./img/fgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2005-ford-gt-aige) | ✔️ |
 | **2017 Ford GT** | gt17 | ![Picture](./img/gt17.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-gt-add-on-replace-yca-aige) | ✔️ |
 | **2017 Ford Raptor** | raptor2017 | ![Picture](./img/raptor2017.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning) | ✔️ |
+| **2021 Ford Bronco Wildtrak** | wildtrak | ![Picture](./img/wildtrak.webp) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem) | ✔️ |
 | **1997 Honda Civic Sedan Drag Version** | dragekcivick | ![Picture](./img/dragekcivick.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/) | ✔️ | xAdrian |
 | **Honda S2000 AP2** | ap2 | ![Picture](./img/ap2.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-s2000-tunable) | ✔️ |
 | **2001 Honda Civic Type-R (EP3)** | ep3 | ![Picture](./img/ep3.jpg) | [YCA]Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/2004-honda-civic-type-r-ep3) | ✔️ |
@@ -162,7 +163,6 @@ ensure ploks_carmenu
 
 
 <!-- 
-https://www.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem                          | q820
 https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem                   | wildtrak
 https://www.gta5-mods.com/vehicles/2019-porsche-macan-turbo-add-on-extras-dirt-00abolfazl00 | pm19
 https://www.gta5-mods.com/vehicles/acura-tl-type-s-jomanire-and-lazlow555                   | tltypes
