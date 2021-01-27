@@ -66,6 +66,7 @@ ensure ploks_carmenu
 | **2015 BMW M4 F82** | m4f82 | ![Picture](./img/m4f82.webp) | Alex9581 & p4elkin | [5MODS Link](https://www.gta5-mods.com/vehicles/bmw-m4-f82-2015-add-on-replace-animated) | ✔️ |
 | **BMW M6 F13 Shadow Line** | m6f13 | ![Picture](./img/m6f13.webp) | A.N.R.T | [5MODS Link](https://www.gta5-mods.com/vehicles/bmw-m6-f13) | ✔️ |
 | **2019 BMW Z4 M40i** | z419 | ![Picture](./img/z419.webp) | [GOC]peng00820 | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-bmw-z4-m40i-goc-peng00820) | ✔️ |
+| **2020 Bugatti Bolide** | bolide | ![Picture](./img/bolide.webp) | marko_1555 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-bugatti-bolide-addon-sp-fivem) | ✔️ |
 | **2016 Cadillac ATS-V Coupe** | cats | ![Picture](./img/cats.webp) | HitmanNiko | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-cadillac-ats-v-coupe-add-on-replace) | ✔️ |
 | **2021 Cadillac Escalade** | cesc21 | ![Picture](./img/cesc21.jpg) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/cadillac-escalade-2021-next-gen-replace) | ✔️ |
 | **2009 Chevrolet Tahoe** | 09tahoe | ![Picture](./img/09tahoe.png) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-tahoe-add-on-replace) | ✔️ |
@@ -160,7 +161,6 @@ ensure ploks_carmenu
 
 
 <!-- 
-https://www.gta5-mods.com/vehicles/audi-r8-2020-addon                                       | r820
 https://www.gta5-mods.com/vehicles/2020-bugatti-bolide-addon-sp-fivem                       | bolide
 https://www.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem                          | q820
 https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem                   | wildtrak
