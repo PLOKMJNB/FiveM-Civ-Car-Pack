@@ -7,6 +7,7 @@ Citizen.CreateThread(function()
 	-- AUDI
 	AddTextEntry('80B4', '1995 Audi Cabriolet (RS2) (B4)')
 	AddTextEntry('audquattros', '1983 Audi Quattro Sport')
+	AddTextEntry('aaq4', '2017 Audi A4 Quattro ABT')
 	AddTextEntry('q820', '2020 Audi Q8 50TDI')
 	AddTextEntry('r8ppi', '2013 Audi R8 V10')
 	AddTextEntry('r820', '2020 Audi R8')
