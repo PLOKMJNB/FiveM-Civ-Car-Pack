@@ -1,4 +1,6 @@
 Citizen.CreateThread(function()
+	-- ACURA
+	AddTextEntry('tltypes', 'Acura TL Type-S')
 	-- ASTONMARTIN
 	AddTextEntry('amdbx', 'Aston Martin DBX Carbon Edition')
 	AddTextEntry('ast', '2013 Aston Martin Vanquish')
@@ -150,7 +152,6 @@ Citizen.CreateThread(function()
 	AddTextEntry('lykan', 'W-Motors Lykan HyperSport')
 	-- AddTextEntry('SPAWN-CODE', 'Vehicle Name')
 	-- Add in later
-	AddTextEntry('tltypes', 'Acura TL Type-S')
 	AddTextEntry('fk8', '2018 Honda Civic Type-R (FK8)')
 	AddTextEntry('17civict', '2017 Honda Civic Touring')
 end)
