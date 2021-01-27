@@ -51,6 +51,7 @@ ensure ploks_carmenu
 | **1995 Audi Cabriolet (RS2) (B4)** | 80B4 | ![Picture](./img/80B4.webp) | HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/1995-audi-80-cabriolet-hkrs2-b4-street-legal-add-on-replace-tuning-extras) | ✔️ |
 | **1983 Audi Quattro Sport** | audquattros | ![Picture](./img/audquattros.webp) | Wanted188, METALman | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-quattro-sport-83-lods-template-add-on-tuning) | ✔️ |
 | **2013 Audi R8 V10** | r8ppi | ![Picture](./img/r8ppi.webp) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-audi-r8-v10-ppi-razor-tuning-add-on) | ✔️ |
+| **NAME** | r820 | ![Picture](./img/r820.webp) | [DTD]RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-r8-2020-addon) | ✔️ |
 | **2020 Audi RS7** | rs72020 | ![Picture](./img/rs72020.webp) | tmax93 | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-rs7-2020-beta) | ✔️ |
 | **1998 Audi S8 (D2/PFL)** | s8d2 | ![Picture](./img/s8d2.webp) | HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/1998-audi-s8-d2-us-6spd-add-on-replace-tuning-extras) | ✔️ |
 | **2016 Audi SQ7** | sq72016 | ![Picture](./img/sq72016.webp) | [DTD] RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-sq7-2016-add-on) | ✔️ |
