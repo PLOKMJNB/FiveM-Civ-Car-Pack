@@ -50,6 +50,7 @@ ensure ploks_carmenu
 | **2013 Aston Martin Vanquish** | ast | ![Picture](./img/ast.webp) | YCA-ANSWER | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-vanquish-2013) | ✔️ |
 | **1995 Audi Cabriolet (RS2) (B4)** | 80B4 | ![Picture](./img/80B4.webp) | HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/1995-audi-80-cabriolet-hkrs2-b4-street-legal-add-on-replace-tuning-extras) | ✔️ |
 | **1983 Audi Quattro Sport** | audquattros | ![Picture](./img/audquattros.webp) | Wanted188, METALman | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-quattro-sport-83-lods-template-add-on-tuning) | ✔️ |
+| **2020 Audi Q8 50TDI** | q820 | ![Picture](./img/q820.webp) | [DTD]RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem) | ✔️ |
 | **2013 Audi R8 V10** | r8ppi | ![Picture](./img/r8ppi.webp) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-audi-r8-v10-ppi-razor-tuning-add-on) | ✔️ |
 | **NAME** | r820 | ![Picture](./img/r820.webp) | [DTD]RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-r8-2020-addon) | ✔️ |
 | **2020 Audi RS7** | rs72020 | ![Picture](./img/rs72020.webp) | tmax93 | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-rs7-2020-beta) | ✔️ |
@@ -161,7 +162,6 @@ ensure ploks_carmenu
 
 
 <!-- 
-https://www.gta5-mods.com/vehicles/2020-bugatti-bolide-addon-sp-fivem                       | bolide
 https://www.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem                          | q820
 https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem                   | wildtrak
 https://www.gta5-mods.com/vehicles/2019-porsche-macan-turbo-add-on-extras-dirt-00abolfazl00 | pm19
