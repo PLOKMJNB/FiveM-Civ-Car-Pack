@@ -4,7 +4,7 @@
 <!--![Car List](https://img.shields.io/badge/Car%20List-Outdated-red?style=for-the-badge)-->
 <!--![plocks-cars.cfg](https://img.shields.io/badge/plocks&minus;cars.cfg-Outdated-red?style=for-the-badge)-->
 ![Issues](https://img.shields.io/github/issues/PLOKMJNB/FiveM-Civ-Car-Pack?style=for-the-badge&logo=github)
-![Car Menu](https://img.shields.io/badge/Cars%20As%20of%20Now-116-brightgreen?style=for-the-badge)
+![Car Menu](https://img.shields.io/badge/Cars%20As%20of%20Now-118-brightgreen?style=for-the-badge)
 
 ***Want any car in here? Just make an issue with a download link and I'll get to it!***
 
