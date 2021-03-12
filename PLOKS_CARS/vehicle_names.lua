@@ -50,6 +50,7 @@ Citizen.CreateThread(function()
 	('488', 'Ferrari 488 Spider')
 	AddTextEntry('f430s', 'Ferrari F430 Scuderia')
 	('f812', '2018 Ferrari 812 Superfast')
+	('fct', '2015 Ferrari California T')
 	('fxxk', 'Ferrari FXX-K Hybrid Hypercar')
 	AddTextEntry('laferrari', '2015 Ferrari LaFerrari')
 	-- FORD

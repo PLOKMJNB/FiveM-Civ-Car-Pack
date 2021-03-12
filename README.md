@@ -85,6 +85,7 @@ ensure ploks_carmenu
 | **Ferrari 488 Spider** | 488 | ![Picture](./img/488.jgp) | [DTD]Dennissaurus | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-488-gts-addon-replace-tuner) | ✔️ |
 | **Ferrari F430 Scuderia** | f430s | ![Picture](./img/f430s.webp) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-430-scuderia-add-on-replace-tuning-template) | ✔️ |
 | **2018 Ferrari 812 Superfast** | f812 | ![Picture](./img/f812.webp) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-812-superfast) | ✔️ |
+| **2015 Ferrari California T** | fct | ![Picture](./img/fct.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-california-t-2015-replace) | ✔️ |
 | **Ferrari FXX-K Hybrid Hypercar** | fxxk | ![Picture](./img/fxxk.webp) | Rmod Customs | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-fxx-k) | ✔️ |
 | **2015 Ferrari LaFerrari** | laferrari | ![Picture](./img/laferrari.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler) | ✔️ |
 
