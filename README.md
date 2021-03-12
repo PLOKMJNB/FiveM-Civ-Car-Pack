@@ -83,6 +83,7 @@ ensure ploks_carmenu
 | **2016 Dodge Charger** | 16charger | ![Picture](./img/16charger.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq) | ✔️ |
 
 | **Ferrari F430 Scuderia** | f430s | ![Picture](./img/f430s.webp) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-430-scuderia-add-on-replace-tuning-template) | ✔️ |
+| **Ferrari FXX-K Hybrid Hypercar** | fxxk | ![Picture](./img/fxxk.webp) | Rmod Customs | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-fxx-k) | ✔️ |
 | **2015 Ferrari LaFerrari** | laferrari | ![Picture](./img/laferrari.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler) | ✔️ |
 
 | **2012 Ford F150 SVT Raptor R** | f150 | ![Picture](./img/f150.webp) | [GOC]peng00820 | [5MODS Link](https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor) | ✔️ |
