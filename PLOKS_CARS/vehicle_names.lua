@@ -54,6 +54,16 @@ Citizen.CreateThread(function()
 	('fxxk', 'Ferrari FXX-K Hybrid Hypercar')
 	AddTextEntry('laferrari', '2015 Ferrari LaFerrari')
 	('mig', 'Ferrari Enzo')
+	-- -- yFe458
+		('yFe458i1', '458 Italia')
+		('yFe458i2', '458 Speciale')
+		('yFe458s1X', '458 Spider (Roof Extra)')
+		('yFe458s1', '458 Spider (Roofworks)')
+		('yFe458s2X', '458 Speciale Aperta (Roof Extra)')
+		('yFe458s2', '458 Speciale Aperta (Roofworks)')
+		-- yFeF12
+		('yFeF12A', 'Ferrari F60 America')
+		('yFeF12T', 'Ferrari F12 TRS Roadster')
 	-- FORD
 	AddTextEntry('f15078', '1978 Ford F150 XLT Ranger')
 	AddTextEntry('f150', '2012 Ford F150 SVT Raptor R')

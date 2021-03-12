@@ -89,6 +89,8 @@ ensure ploks_carmenu
 | **Ferrari FXX-K Hybrid Hypercar** | fxxk | ![Picture](./img/fxxk.webp) | Rmod Customs | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-fxx-k) | ✔️ |
 | **2015 Ferrari LaFerrari** | laferrari | ![Picture](./img/laferrari.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler) | ✔️ |
 | **Ferrari Enzo** | mig | ![Picture](./img/mig.jpg) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-enzo-gemballa-mig-u1-tuning-add-on#description_tab) | ✔️ |
+| **Ferrari 458 Italia, Spider, Speciale & Aperta** | yFe458i1, yFe458i2, yFe458s1X, yFe458s1, yFe458s2X, yFe458s2 | ![Picture](./img/yFe458.jpg) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-458-spider-2013-add-on-tuning-livery) | ✔️ |
+| **Ferrari F12 TRS & F60 America** | yFeF12T, yFeF12A | ![Picture](./img/SPAWN.webp) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-f12-pack) | ✔️ |
 
 | **2012 Ford F150 SVT Raptor R** | f150 | ![Picture](./img/f150.webp) | [GOC]peng00820 | [5MODS Link](https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor) | ✔️ |
 | **1978 Ford F150 XLT Ranger** | f15078 | ![Picture](./img/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
