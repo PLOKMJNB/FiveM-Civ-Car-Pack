@@ -82,7 +82,9 @@ ensure ploks_carmenu
 | **2009 Chevrolet Corvette ZR1** | czr1 | ![Picture](./img/czr1.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template) | ✔️ |
 | **2016 Dodge Charger** | 16charger | ![Picture](./img/16charger.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq) | ✔️ |
 
+| **Ferrari 488 Spider** | 488 | ![Picture](./img/488.jgp) | [DTD]Dennissaurus | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-488-gts-addon-replace-tuner) | ✔️ |
 | **Ferrari F430 Scuderia** | f430s | ![Picture](./img/f430s.webp) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-430-scuderia-add-on-replace-tuning-template) | ✔️ |
+| **2018 Ferrari 812 Superfast** | f812 | ![Picture](./img/f812.webp) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-812-superfast) | ✔️ |
 | **Ferrari FXX-K Hybrid Hypercar** | fxxk | ![Picture](./img/fxxk.webp) | Rmod Customs | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-fxx-k) | ✔️ |
 | **2015 Ferrari LaFerrari** | laferrari | ![Picture](./img/laferrari.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler) | ✔️ |
 
