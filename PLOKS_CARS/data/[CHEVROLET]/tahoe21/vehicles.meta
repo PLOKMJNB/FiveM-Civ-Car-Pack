@@ -7,7 +7,7 @@
       <modelName>tahoe21</modelName>
       <txdName>tahoe21</txdName>
       <handlingId>TAHOE21</handlingId>
-      <gameName>TAHOE</gameName>
+      <gameName>tahoe21</gameName>
       <vehicleMakeName>CHEVROLET</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -103,7 +103,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 	  <dashboardType>VDT_ZTYPE</dashboardType>
-      <vehicleClass>VC_VAN</vehicleClass>
+      <vehicleClass>VC_SUV</vehicleClass>
       <wheelType>VWT_SUV</wheelType>
       <trailers>
         <Item>boattrailer</Item>

@@ -95,7 +95,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 	  <dashboardType>VDT_SUPERGT</dashboardType>
-      <vehicleClass>VC_COUPE</vehicleClass>
+      <vehicleClass>VC_SUV</vehicleClass>
       <wheelType>VWT_HIEND</wheelType>
       <trailers>
    	  	<Item>boattrailer</Item>

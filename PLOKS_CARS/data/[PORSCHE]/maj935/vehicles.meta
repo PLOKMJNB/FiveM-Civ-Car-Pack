@@ -7,7 +7,7 @@
       <modelName>maj935</modelName>
       <txdName>maj935</txdName>
       <handlingId>MAJ935</handlingId>
-      <gameName>935</gameName>
+      <gameName>maj935</gameName>
       <vehicleMakeName>Porsche</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -85,7 +85,7 @@
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
 	  <dashboardType>VDT_SUPERGT</dashboardType>
-      <vehicleClass>VC_SUPER</vehicleClass>
+      <vehicleClass>VC_SPORT_CLASSIC</vehicleClass>
       <wheelType>VWT_HIEND</wheelType>
       <trailers />
       <additionalTrailers />

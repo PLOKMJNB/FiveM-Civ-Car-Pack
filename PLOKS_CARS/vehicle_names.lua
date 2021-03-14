@@ -1,14 +1,21 @@
 Citizen.CreateThread(function()
+	-- ACURA
+	AddTextEntry('tltypes', 'Acura TL Type-S')
 	-- ASTONMARTIN
 	AddTextEntry('amdbx', 'Aston Martin DBX Carbon Edition')
 	AddTextEntry('ast', '2013 Aston Martin Vanquish')
 	-- AUDI
 	AddTextEntry('80B4', '1995 Audi Cabriolet (RS2) (B4)')
 	AddTextEntry('audquattros', '1983 Audi Quattro Sport')
+	AddTextEntry('aaq4', '2017 Audi A4 Quattro ABT')
+	AddTextEntry('q820', '2020 Audi Q8 50TDI')
 	AddTextEntry('r8ppi', '2013 Audi R8 V10')
+	AddTextEntry('r820', '2020 Audi R8')
+	AddTextEntry('rs6', '2016 Audi RS6 C7')
 	AddTextEntry('rs72020', '2020 Audi RS7')
 	AddTextEntry('s8d2', '1998 Audi S8 (D2/PFL)')
 	AddTextEntry('sq72016', '2016 Audi SQ7')
+	AddTextEntry('ttrs', '2010 Audi TT RS')
 	-- BENTLEY
 	AddTextEntry('bbentayga', 'Bentley Bentayga')
 	AddTextEntry('cgts', '2020 Bentley Continental GT Convertible')
@@ -22,6 +29,8 @@ Citizen.CreateThread(function()
 	AddTextEntry('m4f82', '2015 BMW M4 F82')
 	AddTextEntry('m6f13', 'BMW M6 F13 Shadow Line')
 	AddTextEntry('z419', '2019 BMW Z4 M40i')
+	-- BUGATTI
+	AddTextEntry('bolide', '2020 Bugatti Bolide')
 	-- CADILLAC
 	AddTextEntry('cats', '2016 Cadillac ATS-V Coupe')
 	AddTextEntry('cesc21', '2021 Cadillac Escalade')
@@ -39,18 +48,36 @@ Citizen.CreateThread(function()
 	AddTextEntry('16charger', '2016 Dodge Charger')
 	AddTextEntry('99viper', '1999 Dodge Viper GTS ACR')
 	-- FERRARI
+	AddTextEntry('488', 'Ferrari 488 Spider')
 	AddTextEntry('f430s', 'Ferrari F430 Scuderia')
+	AddTextEntry('f812', '2018 Ferrari 812 Superfast')
+	AddTextEntry('fct', '2015 Ferrari California T')
+	AddTextEntry('fxxk', 'Ferrari FXX-K Hybrid Hypercar')
+	AddTextEntry('laferrari', '2015 Ferrari LaFerrari')
+	AddTextEntry('mig', 'Ferrari Enzo')
+		-- yFe458
+		AddTextEntry('yFe458i1', '458 Italia')
+		AddTextEntry('yFe458i2', '458 Speciale')
+		AddTextEntry('yFe458s1X', '458 Spider (Roof Extra)')
+		AddTextEntry('yFe458s1', '458 Spider (Roofworks)')
+		AddTextEntry('yFe458s2X', '458 Speciale Aperta (Roof Extra)')
+		AddTextEntry('yFe458s2', '458 Speciale Aperta (Roofworks)')
+		-- yFeF12
+		AddTextEntry('yFeF12A', 'Ferrari F60 America')
+		AddTextEntry('yFeF12T', 'Ferrari F12 TRS Roadster')
 	-- FORD
 	AddTextEntry('f15078', '1978 Ford F150 XLT Ranger')
 	AddTextEntry('f150', '2012 Ford F150 SVT Raptor R')
 	AddTextEntry('fgt', '2005 Ford GT')
 	AddTextEntry('gt17', '2017 Ford GT')
 	AddTextEntry('raptor2017', '2017 Ford Raptor')
+	AddTextEntry('wildtrak', '2021 Ford Bronco Wildtrak')
 	-- HONDA
 	AddTextEntry('honcrx91', 'Honda CRX SiR 1991')
 	AddTextEntry('na1', '1992 Honda NSX-R (NA1)')
 	AddTextEntry('ap2', 'Honda S2000 AP2')
 	AddTextEntry('dragekcivick', '1997 Honda Civic Sedan Drag Version')
+	AddTextEntry('fk8', '2018 Honda Civic Type-R (FK8)')
 	-- ITALDESIGN
 	AddTextEntry('it18', '2017 Italdesign Zerouno')
 	-- JAGUAR
@@ -75,7 +102,7 @@ Citizen.CreateThread(function()
 	-- LANDROVER
 	AddTextEntry('lrrr', '1973 Land Rover Range Rover')
 	-- LOTUS
-	AddTextEntry('espirit02', '2002 Lotus Esprit V8')
+	AddTextEntry('esprit02', '2002 Lotus Esprit V8')
 	-- LUCIS
 	AddTextEntry('regalia', 'Quartz Regalia 723')
 	-- MASERATI
@@ -118,9 +145,10 @@ Citizen.CreateThread(function()
 	-- PORSCHE
 	AddTextEntry('maj935', '1978 Porsche 935 Moby Dick')
 	AddTextEntry('pcs18', '2018 Porsche Cayenne S')
-	AddTextEntry('taycan', '2020 Porsche Taycan Turbo S')
 	AddTextEntry('718caymans', 'Porsche 718 Cayman S')
 	AddTextEntry('cgt', '2003 Porsche Carrera GT (980)')
+	AddTextEntry('pm19', '2019 Porsche Macan Turbo')
+	AddTextEntry('taycan', '2020 Porsche Taycan Turbo S')
 	-- RANGEROVER
 	AddTextEntry('rrevoque', 'Range Rover Evoque')
 	AddTextEntry('rsvr16', '2016 Range Rover Sport SVR')
@@ -144,4 +172,6 @@ Citizen.CreateThread(function()
 	AddTextEntry('wmfenyr', 'W-Motors Fenyr Supersport')
 	AddTextEntry('lykan', 'W-Motors Lykan HyperSport')
 	-- AddTextEntry('SPAWN-CODE', 'Vehicle Name')
+	-- Add in later
+	AddTextEntry('17civict', '2017 Honda Civic Touring')
 end)

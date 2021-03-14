@@ -4,16 +4,14 @@
 <!--![Car List](https://img.shields.io/badge/Car%20List-Outdated-red?style=for-the-badge)-->
 <!--![plocks-cars.cfg](https://img.shields.io/badge/plocks&minus;cars.cfg-Outdated-red?style=for-the-badge)-->
 ![Issues](https://img.shields.io/github/issues/PLOKMJNB/FiveM-Civ-Car-Pack?style=for-the-badge&logo=github)
-![Car Menu](https://img.shields.io/badge/Car%20Menu-Up%20to%20Date-brightgreen?style=for-the-badge)
-![Car List](https://img.shields.io/badge/Car%20List-Up%20to%20Date-brightgreen?style=for-the-badge)
-![plocks-cars.cfg](https://img.shields.io/badge/plocks&minus;cars.cfg-Up%20to%20Date-brightgreen?style=for-the-badge)
+![Car Menu](https://img.shields.io/badge/Cars%20As%20of%20Now-118-brightgreen?style=for-the-badge)
 
 ***Want any car in here? Just make an issue with a download link and I'll get to it!***
 
 [***Join the discord to talk to me faster or to get help! (just click this line)***](https://discord.gg/vZmRp7EqSS)
 
 
-***To see the car pictures better/larger click [here](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack/blob/master/README.md)***
+***To see the car pictures better/larger click [here](https://drive.google.com/drive/folders/1eXK65vqXWFoGuvQJB6bDBg064yk-_SPp?usp=sharing)***
 
 ### How To Install The Cars
 - Download the latest release it you just want a simple install.
@@ -24,32 +22,42 @@
   - If needed use an FTP (ex. Filezilla) to send this repo to your server
 
 - Copy `PLOKS_CARS` folder into your `resources` folder
-- Go to your `server.cfg` in your server files and copy everything you find in this [file](ploks-cars.cfg)
+- Go to your `server.cfg` in your server files and add `ensure PLOKS_CARS` near the top of the file
 - You're done installing the cars!
   - If you add this while your server is running, go to your live console and type, `refresh` then type `start PLOKS_CARS`
     - Once you add it into the server and do a restart, this extra step is unnecessary
 
 ### How to Install The Menu
-- Note: ~~I used [Flatracer's](https://github.com/Flatracer) [Add-On Menu](https://github.com/Flatracer/AddOnVehicleSpawnMenu)~~
-  - We now use [LondonStudios](https://github.com/LondonStudios/) [Vehicle Spawner](https://github.com/LondonStudios/VehicleSpawner) due to Flatracers discontiuation of his resource.
+- We use [LondonStudios](https://github.com/LondonStudios/) [Vehicle Spawner](https://github.com/LondonStudios/VehicleSpawner)
 - You will most likely already have this downloaded if you followed above
 - in the `server.cfg` you must start NativeUI before this menu so like this:
 ```
-start NativeUI
-start ploks_carmenu
+ensure NativeUI
+ensure ploks_carmenu
 ```
+
+### vMenu
+- If vMenu is installed on your server, every vehicle in the pack will show under "Addon Vehicles"
+- You must update vMenu's addons.json file with all the vehicle names (see this [this example](example_vmenu_addons.json))
+
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
 | Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)</sub> | Status | Extra Notes |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **Acura TL Type-S** | tltypes | ![Picture](./img/tltypes.webp) | Jomanire and Lazlow555 | [5MODS Link](https://www.gta5-mods.com/vehicles/acura-tl-type-s-jomanire-and-lazlow555) | ✔️ |
 | **Aston Martin DBX Carbon Edition** | amdbx | ![Picture](./img/amdbx.webp) | kuchka78 | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-dbx-carbon-edition) | ✔️ |
 | **2013 Aston Martin Vanquish** | ast | ![Picture](./img/ast.webp) | YCA-ANSWER | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-vanquish-2013) | ✔️ |
 | **1995 Audi Cabriolet (RS2) (B4)** | 80B4 | ![Picture](./img/80B4.webp) | HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/1995-audi-80-cabriolet-hkrs2-b4-street-legal-add-on-replace-tuning-extras) | ✔️ |
+| **2017 Audi A4 Quattro ABT** | aaq4 | ![Picture](./img/aaq4.webp) | SaleeN | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-audi-a4-quattro-abt-replace-tuning) | ✔️ |
 | **1983 Audi Quattro Sport** | audquattros | ![Picture](./img/audquattros.webp) | Wanted188, METALman | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-quattro-sport-83-lods-template-add-on-tuning) | ✔️ |
+| **2020 Audi Q8 50TDI** | q820 | ![Picture](./img/q820.webp) | [DTD]RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem) | ✔️ |
 | **2013 Audi R8 V10** | r8ppi | ![Picture](./img/r8ppi.webp) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-audi-r8-v10-ppi-razor-tuning-add-on) | ✔️ |
+| **2020 Audi R8** | r820 | ![Picture](./img/r820.webp) | [DTD]RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-r8-2020-addon) | ✔️ |
+| **2016 Audi RS6 C7 Performance** | rs6 | ![Picture](./img/rs6.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-audi-rs6-c7-add-on-abt-tuning) | ✔️ |
 | **2020 Audi RS7** | rs72020 | ![Picture](./img/rs72020.webp) | tmax93 | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-rs7-2020-beta) | ✔️ |
 | **1998 Audi S8 (D2/PFL)** | s8d2 | ![Picture](./img/s8d2.webp) | HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/1998-audi-s8-d2-us-6spd-add-on-replace-tuning-extras) | ✔️ |
 | **2016 Audi SQ7** | sq72016 | ![Picture](./img/sq72016.webp) | [DTD] RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-sq7-2016-add-on) | ✔️ |
+| **2010 Audi TT RS** | ttrs | ![Picture](./img/ttes.webp) | RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-ttrs-2010-add-on-tunning) | ✔️ |
 | **Bentley Bentayga** | bbentayga | ![Picture](./img/bbentayga.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga) | ✔️ |
 | **2020 Bentley Continental GT Convertible** | cgts | ![Picture](./img/cgts.webp) | Thomas Shelby | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-continental-gt-convertible-2020-add-on) | ✔️ |
 | **2004 BMW 760Li Individual (E66/PFL)** | 760li04 | ![Picture](./img/760li04.webp) | DrAgOn777, HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/2004-bmw-760li-individual-e66-pfl-add-on-replace-tuning-extras) | ✔️ |
@@ -61,6 +69,7 @@ start ploks_carmenu
 | **2015 BMW M4 F82** | m4f82 | ![Picture](./img/m4f82.webp) | Alex9581 & p4elkin | [5MODS Link](https://www.gta5-mods.com/vehicles/bmw-m4-f82-2015-add-on-replace-animated) | ✔️ |
 | **BMW M6 F13 Shadow Line** | m6f13 | ![Picture](./img/m6f13.webp) | A.N.R.T | [5MODS Link](https://www.gta5-mods.com/vehicles/bmw-m6-f13) | ✔️ |
 | **2019 BMW Z4 M40i** | z419 | ![Picture](./img/z419.webp) | [GOC]peng00820 | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-bmw-z4-m40i-goc-peng00820) | ✔️ |
+| **2020 Bugatti Bolide** | bolide | ![Picture](./img/bolide.webp) | marko_1555 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-bugatti-bolide-addon-sp-fivem) | ✔️ |
 | **2016 Cadillac ATS-V Coupe** | cats | ![Picture](./img/cats.webp) | HitmanNiko | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-cadillac-ats-v-coupe-add-on-replace) | ✔️ |
 | **2021 Cadillac Escalade** | cesc21 | ![Picture](./img/cesc21.jpg) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/cadillac-escalade-2021-next-gen-replace) | ✔️ |
 | **2009 Chevrolet Tahoe** | 09tahoe | ![Picture](./img/09tahoe.png) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-tahoe-add-on-replace) | ✔️ |
@@ -73,15 +82,26 @@ start ploks_carmenu
 | **2009 Chevrolet Corvette ZR1** | czr1 | ![Picture](./img/czr1.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template) | ✔️ |
 | **2016 Dodge Charger** | 16charger | ![Picture](./img/16charger.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq) | ✔️ |
 | **1999 Dodge Viper GTS ACR** | 99viper | ![Picture](./img/99viper.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-dodge-viper-gts-acr) | ✔️ |
+| **Ferrari 488 Spider** | 488 | ![Picture](./img/488.jgp) | [DTD]Dennissaurus | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-488-gts-addon-replace-tuner) | ✔️ |
 | **Ferrari F430 Scuderia** | f430s | ![Picture](./img/f430s.webp) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-430-scuderia-add-on-replace-tuning-template) | ✔️ |
+| **2018 Ferrari 812 Superfast** | f812 | ![Picture](./img/f812.webp) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-812-superfast) | ✔️ |
+| **2015 Ferrari California T** | fct | ![Picture](./img/fct.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-california-t-2015-replace) | ✔️ |
+| **Ferrari FXX-K Hybrid Hypercar** | fxxk | ![Picture](./img/fxxk.webp) | Rmod Customs | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-fxx-k) | ✔️ |
+| **2015 Ferrari LaFerrari** | laferrari | ![Picture](./img/laferrari.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler) | ✔️ |
+| **Ferrari Enzo** | mig | ![Picture](./img/mig.jpg) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-enzo-gemballa-mig-u1-tuning-add-on#description_tab) | ✔️ |
+| **Ferrari 458 Italia, Spider, Speciale & Aperta** | yFe458i1, yFe458i2, yFe458s1X, yFe458s1, yFe458s2X, yFe458s2 | ![Picture](./img/yFe458.jpg) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-458-spider-2013-add-on-tuning-livery) | ✔️ |
+| **Ferrari F12 TRS & F60 America** | yFeF12T, yFeF12A | ![Picture](./img/SPAWN.webp) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-f12-pack) | ✔️ |
+
 | **2012 Ford F150 SVT Raptor R** | f150 | ![Picture](./img/f150.webp) | [GOC]peng00820 | [5MODS Link](https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor) | ✔️ |
 | **1978 Ford F150 XLT Ranger** | f15078 | ![Picture](./img/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
 | **2005 Ford GT** | fgt | ![Picture](./img/fgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2005-ford-gt-aige) | ✔️ |
 | **2017 Ford GT** | gt17 | ![Picture](./img/gt17.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-gt-add-on-replace-yca-aige) | ✔️ |
 | **2017 Ford Raptor** | raptor2017 | ![Picture](./img/raptor2017.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning) | ✔️ |
+| **2021 Ford Bronco Wildtrak** | wildtrak | ![Picture](./img/wildtrak.webp) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem) | ✔️ |
 | **1997 Honda Civic Sedan Drag Version** | dragekcivick | ![Picture](./img/dragekcivick.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/) | ✔️ | xAdrian |
 | **Honda S2000 AP2** | ap2 | ![Picture](./img/ap2.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-s2000-tunable) | ✔️ |
 | **2001 Honda Civic Type-R (EP3)** | ep3 | ![Picture](./img/ep3.jpg) | [YCA]Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/2004-honda-civic-type-r-ep3) | ✔️ |
+| **2018 Honda Civic Type-R (FK8)** | fk8 | ![Picture](./img/fk8.webp) | [YCA]Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-honda-civic-type-r-fk8) | ✔️ |
 | **Honda CRX SiR 1991** | honcrx91 | ![Picture](./img/honcrx91.jpg) | Wanted188, GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-crx-sir-91-add-on-tuning-template-lods) | ✔️ |
 | **1992 Honda NSX-R (NA1)** | na1 | ![Picture](./img/na1.jpg) | yca-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-nsx-r-na1-1992) | ✔️ |
 | **2017 Italdesign Zerouno** | it18 | ![Picture](./img/it18.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-italdesign-zerouno-add-on-analog-liverys-extras) | ✔️ |
@@ -137,10 +157,11 @@ start ploks_carmenu
 | **2003 Porsche Carrera GT (980)** | cgt | ![Picture](./img/cgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2003-porsche-carrera-gt-980) | ✔️ |
 | **1978 Porsche 935 Moby Dick** | maj935 | ![Picture](./img/maj935.webp) | MajesticDoggo | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-porsche-935-moby-dick) | ✔️ |
 | **2018 Porsche Cayenne S** | pcs18 | ![Picture](./img/pcs18.webp) | skyrix | [5MODS Link](https://www.gta5-mods.com/vehicles/porsche-cayenne-s-2018-add-on-replace-skyrix) | ✔️ |
+| **2019 Porsche Macan Turbo** | pm19 | ![Picture](./img/pm19.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-porsche-macan-turbo-add-on-extras-dirt-00abolfazl00) | ✔️ |
 | **2020 Porsche Taycan Turbo S** | taycan | ![Picture](./img/taycan.webp) | Scott_Carter | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-porsche-taycan-turbo-s-add-on-replace-template-auto-spoiler) | ✔️ |
 | **Range Rover Evoque** | rrevoque | ![Picture](./img/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
 | **2016 Range Rover Sport SVR** | rsvr16 | ![Picture](./img/rsvr16.webp) | Faysal | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-sport-svr-2016) | ✔️ |
-| **Rolls Royce Cullinan** | rculi | ![Picture](./img/rculi.webp) | tigbel/Mr.LA | [5MODS Link](https://www.gta5-mods.com/vehicles/rolls-royce-cullinan-replace) | ✔️ | Pictures my me! |
+| **Rolls Royce Cullinan** | rculi | ![Picture](./img/rculi.webp) | tigbel/Mr.LA | [5MODS Link](https://www.gta5-mods.com/vehicles/rolls-royce-cullinan-replace) | ✔️ | Pictures by me! |
 | **2018 Rolls-Royce Phantom VIII** | rrphantom | ![Picture](./img/rrphantom.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-rolls-royce-phantom-viii) | ✔️ |
 | **Rolls-Royce Wraith** | wraith | ![Picture](./img/wraith.webp) | A.N.R.T | [5MODS Link](https://www.gta5-mods.com/vehicles/rollse-royse-wraith-add-on-replace-animated-by-anertee) | ✔️ |
 | **2008 Subaru WRX STi** | subisti08 | ![Picture](./img/subisti08.png) | AkuzakiSokudo | [5MODS Link](https://www.gta5-mods.com/vehicles/2008-subaru-wrx-sti-add-on-tuning) | ✔️ |
@@ -154,4 +175,7 @@ start ploks_carmenu
 | **W-Motors Lykan HyperSport** | lykan | ![Picture](./img/Lykan.webp) | Kpym | [5MODS Link](https://www.gta5-mods.com/vehicles/w-motor-lykan-hypersport-add-on-replace-digital-dials) | ✔️ |
 | **W-Motors Fenyr Supersport** | wmfenyr | ![Picture](./img/wmfenyr.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/wmotors-fenyr-supersport-add-on) | ✔️ |
 
-| **NAME** | SPAWN | ![Picture](/[PLOKS_CARS]/[BRAND]/SPAWN/SPAWN.webp) | author | [5MODS Link]() | ✔️ |
+
+<!-- 
+https://www.gta5-mods.com/vehicles/2017-honda-civic-touring-replace                         | 17civict
+--> 
