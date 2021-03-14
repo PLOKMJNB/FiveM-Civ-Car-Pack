@@ -37,6 +37,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('c8', '2020 Chevrolet Corvette C8')
 	-- DODGE
 	AddTextEntry('16charger', '2016 Dodge Charger')
+	AddTextEntry('99viper', '1999 Dodge Viper GTS ACR')
 	-- FERRARI
 	AddTextEntry('f430s', 'Ferrari F430 Scuderia')
 	-- FORD
