@@ -47,6 +47,7 @@ Citizen.CreateThread(function()
 	-- DODGE
 	AddTextEntry('16charger', '2016 Dodge Charger')
 	AddTextEntry('99viper', '1999 Dodge Viper GTS ACR')
+	('chr20', 'Dodge Charger Hellcat Widebody 2021')
 	-- FERRARI
 	AddTextEntry('488', 'Ferrari 488 Spider')
 	AddTextEntry('f430s', 'Ferrari F430 Scuderia')

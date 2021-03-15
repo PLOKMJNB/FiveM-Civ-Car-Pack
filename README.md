@@ -82,6 +82,7 @@ ensure ploks_carmenu
 | **2009 Chevrolet Corvette ZR1** | czr1 | ![Picture](./img/czr1.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template) | ✔️ |
 | **2016 Dodge Charger** | 16charger | ![Picture](./img/16charger.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq) | ✔️ |
 | **1999 Dodge Viper GTS ACR** | 99viper | ![Picture](./img/99viper.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-dodge-viper-gts-acr) | ✔️ |
+| **Dodge Charger Hellcat Widebody 2021** | chr20 | ![Picture](./img/chr20.webp) | Aaaqil | [5MODS Link](https://www.gta5-mods.com/vehicles/dodge-charger-hellcat-widebody-2021) | ✔️ |
 | **Ferrari 488 Spider** | 488 | ![Picture](./img/488.jgp) | [DTD]Dennissaurus | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-488-gts-addon-replace-tuner) | ✔️ |
 | **Ferrari F430 Scuderia** | f430s | ![Picture](./img/f430s.webp) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-430-scuderia-add-on-replace-tuning-template) | ✔️ |
 | **2018 Ferrari 812 Superfast** | f812 | ![Picture](./img/f812.webp) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-812-superfast) | ✔️ |
@@ -91,7 +92,6 @@ ensure ploks_carmenu
 | **Ferrari Enzo** | mig | ![Picture](./img/mig.jpg) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-enzo-gemballa-mig-u1-tuning-add-on#description_tab) | ✔️ |
 | **Ferrari 458 Italia, Spider, Speciale & Aperta** | yFe458i1, yFe458i2, yFe458s1X, yFe458s1, yFe458s2X, yFe458s2 | ![Picture](./img/yFe458.jpg) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-458-spider-2013-add-on-tuning-livery) | ✔️ |
 | **Ferrari F12 TRS & F60 America** | yFeF12T, yFeF12A | ![Picture](./img/SPAWN.webp) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-f12-pack) | ✔️ |
-
 | **2012 Ford F150 SVT Raptor R** | f150 | ![Picture](./img/f150.webp) | [GOC]peng00820 | [5MODS Link](https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor) | ✔️ |
 | **1978 Ford F150 XLT Ranger** | f15078 | ![Picture](./img/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
 | **2005 Ford GT** | fgt | ![Picture](./img/fgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2005-ford-gt-aige) | ✔️ |
@@ -110,6 +110,7 @@ ensure ploks_carmenu
 | **Jeep Renegade** | jeepreneg | ![Picture](./img/jeepreneg.jpg) | Los Santos Import | [5MODS Link](https://www.gta5-mods.com/vehicles/jeep-renegade-add-on) | ✔️ |
 | **2015 Jeep SRT-8** | srt8 | ![Picture](./img/srt8.webp) | saysay & Alex9581 | [5MODS Link](https://www.gta5-mods.com/vehicles/jeep-srt-8-2015-add-on-replace) | ✔️ |
 | **2018 Jeep Grand Cherokee Trackhawk Series IV** | trhawk | ![Picture](./img/trhawk.webp) | Soongae | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-jeep-grand-cherokee-trackhawk-series-iv-add-on) | ✔️ |
+| **2017 Koenigsegg Agera RS** | agerars | ![Picture](./img/agerars.png) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-koenigsegg-agera-rs-add-on) | ✔️ |
 | **Koenigsegg Regara** | regera | ![Picture](./img/regera.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-koenigsegg-regera-add-on-autospoiler) | ✔️ |
 | **Lamborghini Huracan Super Trofeo** | huracanst | ![Picture](./img/huracanst.webp) | yanfenglenfan | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-huracan-super-trofeo-add-on-hq-1-0) | ✔️ |
 | **Lamborghini Sesto Elemento** | lambose | ![Picture](./img/lambose.jpg) | yanfenglenfan | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-sesto-elemento-add-on-digital-gear-hq) | ✔️ |
