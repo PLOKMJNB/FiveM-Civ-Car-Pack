@@ -84,6 +84,8 @@ ensure ploks_carmenu
 | **2016 Dodge Charger** | 16charger | ![Picture](./img/16charger.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq) | ✔️ |
 | **1999 Dodge Viper GTS ACR** | 99viper | ![Picture](./img/99viper.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-dodge-viper-gts-acr) | ✔️ |
 | **Dodge Charger Hellcat Widebody 2021** | chr20 | ![Picture](./img/chr20.webp) | Aaaqil | [5MODS Link](https://www.gta5-mods.com/vehicles/dodge-charger-hellcat-widebody-2021) | ✔️ |
+| **2015 Dodge RAM 2500** | ram2500 | ![Picture](./img/ram2500.webp) | DeezNutties123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-dodge-ram-2500-add-on-tuning) | ✔️ |
+| **2017 Dodge RAM 1500 Rebel TRX** | trx | ![Picture](./img/trx.webp) | DeezNutties123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ram-1500-rebel-trx-concept-add-on-beta) | ✔️ |
 | **Ferrari 488 Spider** | 488 | ![Picture](./img/488.jgp) | [DTD]Dennissaurus | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-488-gts-addon-replace-tuner) | ✔️ |
 | **Ferrari F430 Scuderia** | f430s | ![Picture](./img/f430s.webp) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-430-scuderia-add-on-replace-tuning-template) | ✔️ |
 | **2018 Ferrari 812 Superfast** | f812 | ![Picture](./img/f812.webp) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-812-superfast) | ✔️ |

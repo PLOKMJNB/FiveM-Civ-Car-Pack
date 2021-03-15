@@ -37,18 +37,20 @@ Citizen.CreateThread(function()
 	-- CHEVROLET
 	AddTextEntry('09tahoe', '2009 Chevrolet Tahoe')
 	AddTextEntry('15tahoe', '2015 Chevrolet Tahoe')
+	('2020ss', '2020 Chevrolet Camaro SS')
 	AddTextEntry('camrs17', '2017 Chevrolet Camaro RS')
 	AddTextEntry('tahoe21', '2021 Chevrolet Tahoe RST')
 	-- CORVETTE
 	AddTextEntry('corvettec5z06', 'Chevrolet Corvette C5 Z06')
 	AddTextEntry('czr1', '2009 Chevrolet Corvette ZR1')
-	('2020ss', '2020 Chevrolet Camaro SS')
 	AddTextEntry('c7', '2014 Chevrolet Corvette C7 Stingray')
 	AddTextEntry('c8', '2020 Chevrolet Corvette C8')
 	-- DODGE
 	AddTextEntry('16charger', '2016 Dodge Charger')
 	AddTextEntry('99viper', '1999 Dodge Viper GTS ACR')
 	AddTextEntry('chr20', 'Dodge Charger Hellcat Widebody 2021')
+	('ram2500', '2015 Dodge RAM 2500')
+	('trx', '2017 Dodge RAM 1500 Rebel TRX')
 	-- FERRARI
 	AddTextEntry('488', 'Ferrari 488 Spider')
 	AddTextEntry('f430s', 'Ferrari F430 Scuderia')

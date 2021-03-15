@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHandlingDataMgr>
+  <HandlingData>
+    <Item type="CHandlingData">
+      <handlingName>RAM2500</handlingName>
+      <fMass value="2288" />
+<fInitialDragCoeff value="8.5" />
+<fPercentSubmerged value="85.0" />
+      <vecCentreOfMassOffset x="0" y="0.0" z="0" />
+      <vecInertiaMultiplier x="1.2" y="1.2" z="1.25" />
+<fDriveBiasFront value="0.2" />
+<nInitialDriveGears value="5" />
+<fInitialDriveForce value="0.21" />
+<fDriveInertia value="1.0" />
+<fClutchChangeRateScaleUpShift value="1.3" />
+<fClutchChangeRateScaleDownShift value="1.3" />
+<fInitialDriveMaxFlatVel value="160.000000" />
+<fBrakeForce value="0.32" />
+<fBrakeBiasFront value="0.55" />
+<fHandBrakeForce value="0.4" />
+<fSteeringLock value="35.0" />
+<fTractionCurveMax value="2.00" />
+<fTractionCurveMin value="1.7" />
+<fTractionCurveLateral value="18.0" />
+<fTractionSpringDeltaMax value="0.13" />
+<fLowSpeedTractionLossMult value="0.0" />
+<fCamberStiffnesss value="0" />
+<fTractionBiasFront value="0.494" />
+<fTractionLossMult value="0.55" />
+<fSuspensionForce value="1.400000" />
+<fSuspensionCompDamp value="1.200000" />
+<fSuspensionReboundDamp value="1.200000" />
+<fSuspensionUpperLimit value="0.15" />
+<fSuspensionLowerLimit value="-0.16" />
+<fSuspensionRaise value="0" />
+<fSuspensionBiasFront value="0.47" />
+<fAntiRollBarForce value="0.4" />
+<fAntiRollBarBiasFront value="0.4" />
+<fRollCentreHeightFront value="0.5" />
+<fRollCentreHeightRear value="0.43" />
+<fCollisionDamageMult value="0.64" />
+<fWeaponDamageMult value="0.82" />
+<fDeformationDamageMult value="2.15" />
+<fEngineDamageMult value="0.73" />
+<fPetrolTankVolume value="262.50" />
+<fOilVolume value="149.84" />
+<fSeatOffsetDistX value="0.2" />
+<fSeatOffsetDistY value="0" />
+<fSeatOffsetDistZ value="0.0" />
+<nMonetaryValue value="25000" />
+      <strModelFlags>400010</strModelFlags>
+      <strHandlingFlags>0</strHandlingFlags>
+      <strDamageFlags>0</strDamageFlags>
+      <AIHandling>TRUCK</AIHandling>
+      <SubHandlingData>
+        <Item type="CCarHandlingData">
+          <fBackEndPopUpCarImpulseMult value="0.1" />
+          <fBackEndPopUpBuildingImpulseMult value="0.03" />
+          <fBackEndPopUpMaxDeltaSpeed value="0.6" />
+        </Item>
+        <Item type="NULL" />
+        <Item type="NULL" />
+      </SubHandlingData>
+    </Item>
+
+
+
+
+
+
+
+
+
+
+  </HandlingData>
+</CHandlingDataMgr>
