@@ -157,6 +157,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('taycan', '2020 Porsche Taycan Turbo S')
 	-- RANGEROVER
 	AddTextEntry('rrevoque', 'Range Rover Evoque')
+	AddTextEntry('rrst', 'Range Rover Vogue Startech')
 	AddTextEntry('rsvr16', '2016 Range Rover Sport SVR')
 	-- ROLLSROYCE
 	AddTextEntry('wraith', 'Rolls-Royce Wraith')
