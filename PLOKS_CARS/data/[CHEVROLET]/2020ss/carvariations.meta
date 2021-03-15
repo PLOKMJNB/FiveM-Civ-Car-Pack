@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+	     <Item>
+      <modelName>2020ss</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">  <!-- Black / Black / Red -->
+            0
+            0
+            0
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Red / Red -->
+            27
+            27
+            28
+            28
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Gasoline Green / Gold -->
+            54
+            158
+            54
+            37
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Feather Gray -->
+            6
+            107
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Race Red / BlackInt -->
+            44
+            0
+            44
+            5
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- White / Black -->
+            111
+            0
+            5
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- White / Cream -->
+            111
+            107
+            0
+            5
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Magnetic -->
+            95
+            95
+            95
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Black -->
+            0
+            0
+            0
+            5
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Wine Red / Red -->
+            0
+            28
+            44
+            5
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Stone Grey / Cream -->
+            10
+            107
+            10
+            111
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>9128_2020ss_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -42,12 +42,13 @@ Citizen.CreateThread(function()
 	-- CORVETTE
 	AddTextEntry('corvettec5z06', 'Chevrolet Corvette C5 Z06')
 	AddTextEntry('czr1', '2009 Chevrolet Corvette ZR1')
+	('2020ss', '2020 Chevrolet Camaro SS')
 	AddTextEntry('c7', '2014 Chevrolet Corvette C7 Stingray')
 	AddTextEntry('c8', '2020 Chevrolet Corvette C8')
 	-- DODGE
 	AddTextEntry('16charger', '2016 Dodge Charger')
 	AddTextEntry('99viper', '1999 Dodge Viper GTS ACR')
-	('chr20', 'Dodge Charger Hellcat Widebody 2021')
+	AddTextEntry('chr20', 'Dodge Charger Hellcat Widebody 2021')
 	-- FERRARI
 	AddTextEntry('488', 'Ferrari 488 Spider')
 	AddTextEntry('f430s', 'Ferrari F430 Scuderia')
@@ -71,6 +72,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('f150', '2012 Ford F150 SVT Raptor R')
 	AddTextEntry('fgt', '2005 Ford GT')
 	AddTextEntry('gt17', '2017 Ford GT')
+	('mustang50th', '2015 Ford Mustang GT 50 Years Special Edition')
 	AddTextEntry('raptor2017', '2017 Ford Raptor')
 	AddTextEntry('wildtrak', '2021 Ford Bronco Wildtrak')
 	-- HONDA
@@ -89,6 +91,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('srt8', '2015 Jeep SRT-8')
 	AddTextEntry('trhawk', '2018 Jeep Grand Cherokee Trackhawk Series IV')
 	-- KOENIGSEGG
+	AddTextEntry('agerars', '2017 Koenigsegg Agera RS')
 	AddTextEntry('regera', 'Koenigsegg Regera')
 	-- LAMBORGHINI
 	AddTextEntry('huracanst', 'Lamborghini Huracan Super Trofeo')

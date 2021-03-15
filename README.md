@@ -78,6 +78,7 @@ ensure ploks_carmenu
 | **2021 Chevrolet Tahoe RST** | tahoe21 | ![Picture](./img/tahoe21.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-chevrolet-tahoe-rst-add-on) | ✔️ |
 | **2014 Chevrolet Corvette C7 Stingray** | c7 | ![Picture](./img/c7.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-chevrolet-corvette-c7-stingray-aige) | ✔️ |
 | **2020 Chevrolet Corvette C8** | c8 | ![Picture](./img/c8.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-chevrolet-corvette-c8-add-on-extra-dirt) | ✔️ |
+| **2020 Chevrolet Camaro SS** | 2020ss | ![Picture](./img/2020ss.webp) | ArcticAsian | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-chevrolet-camaro-ss-add-on-replace-tuning-template-rs-ss-zl1-1le-widebody) | ✔️ |
 | **Chevrolet Corvette C5 Z06** | corvettec5z06 | ![Picture](./img/corvettec5z06.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-c5-z06-lods-add-on-template-liveries) | ✔️ |
 | **2009 Chevrolet Corvette ZR1** | czr1 | ![Picture](./img/czr1.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template) | ✔️ |
 | **2016 Dodge Charger** | 16charger | ![Picture](./img/16charger.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq) | ✔️ |
@@ -96,6 +97,7 @@ ensure ploks_carmenu
 | **1978 Ford F150 XLT Ranger** | f15078 | ![Picture](./img/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
 | **2005 Ford GT** | fgt | ![Picture](./img/fgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2005-ford-gt-aige) | ✔️ |
 | **2017 Ford GT** | gt17 | ![Picture](./img/gt17.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-gt-add-on-replace-yca-aige) | ✔️ |
+| **2015 Ford Mustang GT 50 Years Special Edition** | mustang50th | ![Picture](./img/mustang50th.webp) | modcanario (alertacobra_gta5_mods) and zQrba | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ford-mustang-gt-50-years-special-edition-add-on-tunning) | ✔️ |
 | **2017 Ford Raptor** | raptor2017 | ![Picture](./img/raptor2017.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning) | ✔️ |
 | **2021 Ford Bronco Wildtrak** | wildtrak | ![Picture](./img/wildtrak.webp) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem) | ✔️ |
 | **1997 Honda Civic Sedan Drag Version** | dragekcivick | ![Picture](./img/dragekcivick.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/) | ✔️ | xAdrian |
