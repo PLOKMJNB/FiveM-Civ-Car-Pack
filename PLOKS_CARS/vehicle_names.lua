@@ -160,6 +160,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('rrst', 'Range Rover Vogue Startech')
 	AddTextEntry('rsvr16', '2016 Range Rover Sport SVR')
 	-- ROLLSROYCE
+	AddTextEntry('dawnonyx', '2016 Rolls-Royce Dawn Onyx')
 	AddTextEntry('wraith', 'Rolls-Royce Wraith')
 	AddTextEntry('rculi', 'Rolls Royce Cullinan')
 	AddTextEntry('rrphantom', '2018 Rolls-Royce Phantom VIII')

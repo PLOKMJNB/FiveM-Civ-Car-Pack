@@ -167,6 +167,7 @@ ensure ploks_carmenu
 | **Range Rover Evoque** | rrevoque | ![Picture](./img/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
 | **Range Rover Vogue Startech** | rrst | ![Picture](./img/rrst.webp) | What The Fuck | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-vogue-startech-add-on-tuning) | ✔️ |
 | **2016 Range Rover Sport SVR** | rsvr16 | ![Picture](./img/rsvr16.webp) | Faysal | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-sport-svr-2016) | ✔️ |
+| **2016 Rolls-Royce Dawn Onyx** | dawnonyx | ![Picture](./img/dawnonyx.webp) | What The Fuck | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-rolls-royce-dawn-onyx-concept-add-on-tuning-1-0-what-the-fuck) | ✔️ |
 | **Rolls Royce Cullinan** | rculi | ![Picture](./img/rculi.webp) | tigbel/Mr.LA | [5MODS Link](https://www.gta5-mods.com/vehicles/rolls-royce-cullinan-replace) | ✔️ | Pictures by me! |
 | **2018 Rolls-Royce Phantom VIII** | rrphantom | ![Picture](./img/rrphantom.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-rolls-royce-phantom-viii) | ✔️ |
 | **Rolls-Royce Wraith** | wraith | ![Picture](./img/wraith.webp) | A.N.R.T | [5MODS Link](https://www.gta5-mods.com/vehicles/rollse-royse-wraith-add-on-replace-animated-by-anertee) | ✔️ |
