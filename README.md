@@ -173,7 +173,7 @@ ensure ploks_carmenu
 | **2008 Subaru WRX STi** | subisti08 | ![Picture](./img/subisti08.png) | AkuzakiSokudo | [5MODS Link](https://www.gta5-mods.com/vehicles/2008-subaru-wrx-sti-add-on-tuning) | ✔️ |
 | **2004 Subaru Impreza WRX STI** | subwrx | ![Picture](./img/subwrx.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning) | ✔️ |
 | **1996 Subaru Alcyone SVX** | svx | ![Picture](./img/svx.jpg) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-alcyone-svx-lods-template-add-on) | ✔️ |
-| **Toyota Supra** | a80 | ![Picture](./img/a80.webp) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-supra-add-on-stock-more-tuning) | ✔️ |
+| **1998 Toyota Supra Turbo (A80)** | toysupmk4 | ![Picture](./img/toysupmk4.webp) | Wanted188, HummingBird | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-supra-turbo-98-a80-add-on-lods-250-tuning-parts) | ✔️ |
 | **Toyota Mark II JZX100** | mk2100 | ![Picture](./img/mk2100.webp) | cereaI | [5MODS Link](https://www.gta5-mods.com/vehicles/jzx100-mark-ii-add-on-tuning-template) | ✔️ |
 | **2016 Toyota Land Cruiser VXR** | vxr | ![Picture](./img/vxr.jpg) | Abdulrhman1 | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-land-cruiser-vxr) | ✔️ |
 | **2015 Volkswagen Golf GTI MK7** | golfgti7 | ![Picture](./img/golfgti7.webp) | mateus_ulhoa3D | [5MODS Link](https://www.gta5-mods.com/vehicles/volkswagen-golf-gti-mk7-2015-add-on-replace-digital-dials-dirt-map) | ✔️ |

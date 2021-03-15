@@ -169,8 +169,8 @@ Citizen.CreateThread(function()
 	AddTextEntry('svx', '1996 Subaru Alcyone SVX')
 	-- TOYOTA
 	AddTextEntry('vxr', '2016 Toyota Land Cruiser VXR')
+	AddTextEntry('toysupmk4', '1998 Toyota Supra Turbo (A80)')
 	AddTextEntry('mk2100', 'Toyota Mark II JZX100')
-	AddTextEntry('a80', 'Toyota Supra')
 	-- VOLKSWAGEN
 	AddTextEntry('golfgti7', '2015 Volkswagen Golf GTI MK7')
 	-- VOLVO
