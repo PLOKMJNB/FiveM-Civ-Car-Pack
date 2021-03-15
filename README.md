@@ -57,7 +57,7 @@ ensure ploks_carmenu
 | **2020 Audi RS7** | rs72020 | ![Picture](./img/rs72020.webp) | tmax93 | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-rs7-2020-beta) | ✔️ |
 | **1998 Audi S8 (D2/PFL)** | s8d2 | ![Picture](./img/s8d2.webp) | HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/1998-audi-s8-d2-us-6spd-add-on-replace-tuning-extras) | ✔️ |
 | **2016 Audi SQ7** | sq72016 | ![Picture](./img/sq72016.webp) | [DTD] RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-sq7-2016-add-on) | ✔️ |
-| **2010 Audi TT RS** | ttrs | ![Picture](./img/ttes.webp) | RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-ttrs-2010-add-on-tunning) | ✔️ |
+| **2010 Audi TT RS** | ttrs | ![Picture](./img/ttrs.webp) | RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/audi-ttrs-2010-add-on-tunning) | ✔️ |
 | **Bentley Bentayga** | bbentayga | ![Picture](./img/bbentayga.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-bentayga) | ✔️ |
 | **2020 Bentley Continental GT Convertible** | cgts | ![Picture](./img/cgts.webp) | Thomas Shelby | [5MODS Link](https://www.gta5-mods.com/vehicles/bentley-continental-gt-convertible-2020-add-on) | ✔️ |
 | **2004 BMW 760Li Individual (E66/PFL)** | 760li04 | ![Picture](./img/760li04.webp) | DrAgOn777, HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/2004-bmw-760li-individual-e66-pfl-add-on-replace-tuning-extras) | ✔️ |
@@ -86,7 +86,7 @@ ensure ploks_carmenu
 | **Dodge Charger Hellcat Widebody 2021** | chr20 | ![Picture](./img/chr20.webp) | Aaaqil | [5MODS Link](https://www.gta5-mods.com/vehicles/dodge-charger-hellcat-widebody-2021) | ✔️ |
 | **2015 Dodge RAM 2500** | ram2500 | ![Picture](./img/ram2500.webp) | DeezNutties123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-dodge-ram-2500-add-on-tuning) | ✔️ |
 | **2017 Dodge RAM 1500 Rebel TRX** | trx | ![Picture](./img/trx.webp) | DeezNutties123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ram-1500-rebel-trx-concept-add-on-beta) | ✔️ |
-| **Ferrari 488 Spider** | 488 | ![Picture](./img/488.jgp) | [DTD]Dennissaurus | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-488-gts-addon-replace-tuner) | ✔️ |
+| **Ferrari 488 Spider** | 488 | ![Picture](./img/488.jpg) | [DTD]Dennissaurus | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-488-gts-addon-replace-tuner) | ✔️ |
 | **Ferrari F430 Scuderia** | f430s | ![Picture](./img/f430s.webp) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-430-scuderia-add-on-replace-tuning-template) | ✔️ |
 | **2018 Ferrari 812 Superfast** | f812 | ![Picture](./img/f812.webp) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-812-superfast) | ✔️ |
 | **2015 Ferrari California T** | fct | ![Picture](./img/fct.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-california-t-2015-replace) | ✔️ |
@@ -94,7 +94,7 @@ ensure ploks_carmenu
 | **2015 Ferrari LaFerrari** | laferrari | ![Picture](./img/laferrari.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler) | ✔️ |
 | **Ferrari Enzo** | mig | ![Picture](./img/mig.jpg) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-enzo-gemballa-mig-u1-tuning-add-on#description_tab) | ✔️ |
 | **Ferrari 458 Italia, Spider, Speciale & Aperta** | yFe458i1, yFe458i2, yFe458s1X, yFe458s1, yFe458s2X, yFe458s2 | ![Picture](./img/yFe458.jpg) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-458-spider-2013-add-on-tuning-livery) | ✔️ |
-| **Ferrari F12 TRS & F60 America** | yFeF12T, yFeF12A | ![Picture](./img/SPAWN.webp) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-f12-pack) | ✔️ |
+| **Ferrari F12 TRS & F60 America** | yFeF12T, yFeF12A | ![Picture](./img/yFeF12.webp) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-f12-pack) | ✔️ |
 | **2012 Ford F150 SVT Raptor R** | f150 | ![Picture](./img/f150.webp) | [GOC]peng00820 | [5MODS Link](https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor) | ✔️ |
 | **1978 Ford F150 XLT Ranger** | f15078 | ![Picture](./img/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
 | **2005 Ford GT** | fgt | ![Picture](./img/fgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2005-ford-gt-aige) | ✔️ |
