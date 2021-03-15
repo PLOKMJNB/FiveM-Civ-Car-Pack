@@ -104,6 +104,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('veneno', '2013 Lamborghini Veneno LP750-4')
 	-- LEXUS
 	AddTextEntry('gs350', 'Lexus GS 350')
+	AddTextEntry('is350mod', '2014 Lexus IS 350')
 	AddTextEntry('rcf', '2015 Lexus RCF')
 	-- LANDROVER
 	AddTextEntry('lrrr', '1973 Land Rover Range Rover')
@@ -169,6 +170,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('subwrx', '2004 Subaru Impreza WRX STI')
 	AddTextEntry('svx', '1996 Subaru Alcyone SVX')
 	-- TOYOTA
+	AddTextEntry('cam8tun', '2018 Toyota Camry XSE')
 	AddTextEntry('vxr', '2016 Toyota Land Cruiser VXR')
 	AddTextEntry('toysupmk4', '1998 Toyota Supra Turbo (A80)')
 	AddTextEntry('mk2100', 'Toyota Mark II JZX100')

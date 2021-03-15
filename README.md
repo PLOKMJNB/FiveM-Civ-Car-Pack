@@ -123,6 +123,7 @@ ensure ploks_carmenu
 | **Lamborghini Urus** | urus | ![Picture](./img/urus.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-urus-add-on-template) | ✔️ | gabrielcalderon |
 | **2013 Lamborghini Veneno LP750-4** | veneno | ![Picture](./img/veneno.webp) | yanfenglenfan | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-lamborghini-veneno-lp750-4-add-on-l-tuning-l-4k-template-l-digital-gear) | ✔️ |
 | **Lexus GS 350** | gs350 | ![Picture](./img/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
+| **2014 Lexus IS 350** | is350mod | ![Picture](./img/is350mod.jpg) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-lexus-is-350-exterior-remodel-add-on-tuning-template) | ✔️ |
 | **2015 Lexus RCF** | rcf | ![Picture](./img/rcf.jpg) | YCA-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-lexus-rcf-add-on-rocketbunny) | ✔️ |
 | **1973 Land Rover Range Rover** | lrrr | ![Picture](./img/Irrr.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/land-rover-range-rover-1973-add-on-offroad-stock-dirtmap-extras) | ✔️ |
 | **2002 Lotus Esprit V8** | esprit02 | ![Picture](./img/esprit02.webp) | OhiOcinu | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-lotus-esprit-v8-add-on-lods-template) | ✔️ |
@@ -174,6 +175,7 @@ ensure ploks_carmenu
 | **2008 Subaru WRX STi** | subisti08 | ![Picture](./img/subisti08.png) | AkuzakiSokudo | [5MODS Link](https://www.gta5-mods.com/vehicles/2008-subaru-wrx-sti-add-on-tuning) | ✔️ |
 | **2004 Subaru Impreza WRX STI** | subwrx | ![Picture](./img/subwrx.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning) | ✔️ |
 | **1996 Subaru Alcyone SVX** | svx | ![Picture](./img/svx.jpg) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-alcyone-svx-lods-template-add-on) | ✔️ |
+| **2018 Toyota Camry XSE** | cam8tun | ![Picture](./img/cam8tun.webp) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-camry-xse-2018-crazy-exterior-add-on-tuning) | ✔️ |
 | **1998 Toyota Supra Turbo (A80)** | toysupmk4 | ![Picture](./img/toysupmk4.webp) | Wanted188, HummingBird | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-supra-turbo-98-a80-add-on-lods-250-tuning-parts) | ✔️ |
 | **Toyota Mark II JZX100** | mk2100 | ![Picture](./img/mk2100.webp) | cereaI | [5MODS Link](https://www.gta5-mods.com/vehicles/jzx100-mark-ii-add-on-tuning-template) | ✔️ |
 | **2016 Toyota Land Cruiser VXR** | vxr | ![Picture](./img/vxr.jpg) | Abdulrhman1 | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-land-cruiser-vxr) | ✔️ |
