@@ -7,8 +7,8 @@ Citizen.CreateThread(function()
     end
     if GetCurrentResourceName() == 'PLOKS_CARS' then
         print("   __ __  _____ ")
-        print("  / //_/ / _  / |                                Thanks for using my car pack!                                    ")
-        print(" / ,<   / // /  |-------------------------------------------------------------------------------------------------")
-        print("/_/|_| /____/   | If your ever looking for a better host than Zap or any unauthorized GSP check out khandesign.net")
+        print("  / //_/ / _  / |                      Thanks for using my car pack!                   ")
+        print(" / ,<   / // /  |----------------------------------------------------------------------")
+        print("/_/|_| /____/   | Need help or wanna chat with other users? join discord.khandesign.net")
     end
 end)
