@@ -127,7 +127,13 @@ Citizen.CreateThread(function()
 	AddTextEntry('miata3', '1989 Mazda Miata NA')
 	AddTextEntry('na6', 'Mazda MX-5 Miata (NA6C)')
 	-- MCLAREN
+	AddTextEntry('650s', 'McLaren 650S Coupe') https://www.gta5-mods.com/vehicles/mclaren-650s-coupe-hq
+	AddTextEntry('675lt', '2016 McLaren 675LT Coupe') https://www.gta5-mods.com/vehicles/2016-mclaren-675lt-coupe-zen-imogen-zenzoit-ngr_ardiansyah
+	AddTextEntry('720s', '2017 McLaren 720S') https://www.gta5-mods.com/vehicles/2017-mclaren-720s-add-on-tuning-hq
+	AddTextEntry('gtr96', '1996 McLaren F1 GTR') https://www.gta5-mods.com/vehicles/1996-mclaren-f1-gtr
 	AddTextEntry('mcst', '2020 McLaren Speedtail')
+	AddTextEntry('mp412c', 'McLaren MP4-12C') https://www.gta5-mods.com/vehicles/mclaren-mp4-12c
+	AddTextEntry('senna', '2019 McLaren Senna') https://www.gta5-mods.com/vehicles/2019-mclaren-senna
 	-- MERCEDES
 	AddTextEntry('amggtrr20', '2020 Mercedes-Benz AMG GT-R Roadster')
 	AddTextEntry('c6320', '2020 Mercedes-AMG C63s')
