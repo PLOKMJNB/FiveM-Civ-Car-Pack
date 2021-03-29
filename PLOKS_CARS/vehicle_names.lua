@@ -171,6 +171,16 @@ Citizen.CreateThread(function()
 	AddTextEntry('subisti08', '2008 Subaru WRX STi')
 	AddTextEntry('subwrx', '2004 Subaru Impreza WRX STI')
 	AddTextEntry('svx', '1996 Subaru Alcyone SVX')
+	-- SUZUKI
+	AddTextEntry('gsxr19', '2019 Suzuki GSX-R1000R') https://www.gta5-mods.com/vehicles/2019-suzuki-gsx-r1000r-add-on-tuning-joe_garage-mod
+	AddTextEntry('katana19', '2019 Suzuki Katana') https://www.gta5-mods.com/vehicles/2019-suzuki-katana
+	AddTextEntry('#', '#')
+	AddTextEntry('#', '#')
+	AddTextEntry('#', '#')
+	AddTextEntry('#', '#')
+	AddTextEntry('#', '#')
+	AddTextEntry('#', '#')
+	AddTextEntry('#', '#')
 	-- TESLA
 	AddTextEntry('tr22', '2020 Tesla Roadster') https://www.gta5-mods.com/vehicles/tesla-roadster-2020-add-on-replace-auto-spoiler https://www.gta5-mods.com/vehicles/realistic-tesla-roadster-2020-handling
 	AddTextEntry('p90d', 'Tesla Model X Unplugged Performance') https://www.gta5-mods.com/vehicles/telsa-model-x-unplugged-performance-hq-addon
