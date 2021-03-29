@@ -173,6 +173,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('svx', '1996 Subaru Alcyone SVX')
 	-- TESLA
 	AddTextEntry('tr22', '2020 Tesla Roadster') https://www.gta5-mods.com/vehicles/tesla-roadster-2020-add-on-replace-auto-spoiler https://www.gta5-mods.com/vehicles/realistic-tesla-roadster-2020-handling
+	AddTextEntry('p90d', 'Tesla Model X Unplugged Performance') https://www.gta5-mods.com/vehicles/telsa-model-x-unplugged-performance-hq-addon
 	AddTextEntry('models', '2016 Tesla Model S P90D') https://www.gta5-mods.com/vehicles/2016-tesla-model-s-p90d https://www.gta5-mods.com/vehicles/tesla-model-s-p90d-2016-handling
 	AddTextEntry('tmodel', '2018 Tesla Model 3') https://www.gta5-mods.com/vehicles/tesla-model-3-2018-add-on-replace https://www.gta5-mods.com/vehicles/realistic-tesla-model-3-handling
 	AddTextEntry('teslax', '2016 Tesla Model X P90D') https://www.gta5-mods.com/vehicles/tesla-model-x-p90d
