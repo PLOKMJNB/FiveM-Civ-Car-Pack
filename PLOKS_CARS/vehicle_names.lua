@@ -51,6 +51,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('chr20', 'Dodge Charger Hellcat Widebody 2021')
 	AddTextEntry('ram2500', '2015 Dodge RAM 2500')
 	AddTextEntry('trx', '2017 Dodge RAM 1500 Rebel TRX')
+	AddTextEntry('16challenger', '2016 Dodge Challenger') https://www.gta5-mods.com/vehicles/2015-dodge-challenger-add-on-stock-shaker-hellcat
 	-- FERRARI
 	AddTextEntry('488', 'Ferrari 488 Spider')
 	AddTextEntry('f430s', 'Ferrari F430 Scuderia')
@@ -169,6 +170,12 @@ Citizen.CreateThread(function()
 	AddTextEntry('subisti08', '2008 Subaru WRX STi')
 	AddTextEntry('subwrx', '2004 Subaru Impreza WRX STI')
 	AddTextEntry('svx', '1996 Subaru Alcyone SVX')
+	-- TESLA
+	AddTextEntry('tr22', '2020 Tesla Roadster') https://www.gta5-mods.com/vehicles/tesla-roadster-2020-add-on-replace-auto-spoiler https://www.gta5-mods.com/vehicles/realistic-tesla-roadster-2020-handling
+	AddTextEntry('models', '2016 Tesla Model S P90D') https://www.gta5-mods.com/vehicles/2016-tesla-model-s-p90d https://www.gta5-mods.com/vehicles/tesla-model-s-p90d-2016-handling
+	AddTextEntry('tmodel', '2018 Tesla Model 3') https://www.gta5-mods.com/vehicles/tesla-model-3-2018-add-on-replace https://www.gta5-mods.com/vehicles/realistic-tesla-model-3-handling
+	AddTextEntry('teslax', '2016 Tesla Model X P90D') https://www.gta5-mods.com/vehicles/tesla-model-x-p90d
+	AddTextEntry('teslapd', '2017 Tesla Model S Prior design') https://www.gta5-mods.com/vehicles/tesla-prior-design-add_on-replace https://www.gta5-mods.com/vehicles/spawn-fix-realistic-handling-for-tesla-model-s-prior-design-2017
 	-- TOYOTA
 	AddTextEntry('cam8tun', '2018 Toyota Camry XSE')
 	AddTextEntry('vxr', '2016 Toyota Land Cruiser VXR')
@@ -182,6 +189,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('wmfenyr', 'W-Motors Fenyr Supersport')
 	AddTextEntry('lykan', 'W-Motors Lykan HyperSport')
 	-- AddTextEntry('SPAWN-CODE', 'Vehicle Name')
+	AddTextEntry('#', '#')
 	-- Add in later
 	AddTextEntry('17civict', '2017 Honda Civic Touring')
 end)
