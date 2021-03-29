@@ -102,6 +102,7 @@ Citizen.CreateThread(function()
 	-- LAMBORGHINI
 	AddTextEntry('huracanst', 'Lamborghini Huracan Super Trofeo')
 	AddTextEntry('lambose', 'Lamborghini Sesto Elemento')
+	AddTextEntry('lp670sv', '2009 Lamborghini Murcielago LP 670-4 SV') https://www.gta5-mods.com/vehicles/2009-lamborghini-murcielago-lp-670-4-sv-add-on
 	AddTextEntry('lp700r', '2013 Lamborghini Aventador LP700-4 Roadster')
 	AddTextEntry('svj63', 'Lamborghini Aventador SVJ')
 	AddTextEntry('urus', 'Lamborghini Urus')
