@@ -50,6 +50,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('99viper', '1999 Dodge Viper GTS ACR')
 	AddTextEntry('chr20', 'Dodge Charger Hellcat Widebody 2021')
 	AddTextEntry('ram2500', '2015 Dodge RAM 2500')
+	AddTextEntry('srt4', 'Dodge Neon SRT-4') https://newmods.net/gta-5-dodge-neon-srt-4-add-on-tuning-template-unlock-1-0/
 	AddTextEntry('trx', '2017 Dodge RAM 1500 Rebel TRX')
 	AddTextEntry('16challenger', '2016 Dodge Challenger') https://www.gta5-mods.com/vehicles/2015-dodge-challenger-add-on-stock-shaker-hellcat
 	-- FERRARI
