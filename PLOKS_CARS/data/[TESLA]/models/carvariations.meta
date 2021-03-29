@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>models</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            8 
+            2
+            0 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11
+            107 
+            63
+            39 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            141 
+            107 
+            62
+            83 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            4 
+            106 
+            5
+            39 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            112 
+            106 
+            5
+            39 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            29 
+            29 
+            29
+            39 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>410_models_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="410" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
