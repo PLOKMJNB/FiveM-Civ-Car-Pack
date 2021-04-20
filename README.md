@@ -11,30 +11,10 @@
 [***Join the discord to talk to me faster or to get help! (just click this line)***](https://discord.gg/vZmRp7EqSS)
 
 
-***To see the car pictures better/larger click [here](https://drive.google.com/drive/folders/1eXK65vqXWFoGuvQJB6bDBg064yk-_SPp?usp=sharing)***
+***To see the car pictures better/larger click [here](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack/blob/master/README.md)***
 
 ### How To Install The Cars
-- Download the latest release it you just want a simple install.
-- Clone or direct download if you know what your doing or if you plan to be doing any major reworking.
-  - Most of the time this will be outdated or incomplete as will be constantly updating this repository.
-- Copy the files to your server or wherever you may be hosting your FiveM server.
-  - Like ZAP-Hosting, your own dedicated VPS or even your main system<sub>[My favorite for home hosting for beginners](https://github.com/LambentLight/LambentLight)</sub>.
-  - If needed use an FTP (ex. Filezilla) to send this repo to your server
-
-- Copy `PLOKS_CARS` folder into your `resources` folder
-- Go to your `server.cfg` in your server files and add `ensure PLOKS_CARS` near the top of the file
-- You're done installing the cars!
-  - If you add this while your server is running, go to your live console and type, `refresh` then type `start PLOKS_CARS`
-    - Once you add it into the server and do a restart, this extra step is unnecessary
-
-### How to Install The Menu
-- We use [LondonStudios](https://github.com/LondonStudios/) [Vehicle Spawner](https://github.com/LondonStudios/VehicleSpawner)
-- You will most likely already have this downloaded if you followed above
-- in the `server.cfg` you must start NativeUI before this menu so like this:
-```
-ensure NativeUI
-ensure ploks_carmenu
-```
+- [Click here](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack/wiki/VPS-installation) to see the wiki page for how to install the proper way
 
 ### vMenu
 - If vMenu is installed on your server, every vehicle in the pack will show under "Addon Vehicles"
@@ -194,9 +174,7 @@ ensure ploks_carmenu
 | **2018 Tesla Model 3** | tmodel | ![Picture](./img/tmodel.webp) | skyrix | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-model-3-2018-add-on-replace) | ✔️ | [Custom Handling](https://www.gta5-mods.com/vehicles/realistic-tesla-model-3-handling) |
 | **2016 Tesla Model X P90D** | teslax | ![Picture](./img/teslax.jpg) | Biggdogg & FoxtrotDelta | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-model-x-p90d) | ✔️ |
 | **2017 Tesla Model S Prior design** | teslapd | ![Picture](./img/teslapd.webp) | [DTD]RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-prior-design-add_on-replace) | ✔️ | [Custom Handling](https://www.gta5-mods.com/vehicles/spawn-fix-realistic-handling-for-tesla-model-s-prior-design-2017) |
-
-
-| **2018 Toyota Camry XSE** | cam8tun | ![Picture](./img/cam8tun.webp) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-camry-xse-2018-crazy-exterior-add-on-tuning) | ✔️ |
+| **2018 Toyota Camry XSE** | cam8tun | ![Picture](./img/cam8tun.png) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-camry-xse-2018-crazy-exterior-add-on-tuning) | ✔️ |
 | **1998 Toyota Supra Turbo (A80)** | toysupmk4 | ![Picture](./img/toysupmk4.webp) | Wanted188, HummingBird | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-supra-turbo-98-a80-add-on-lods-250-tuning-parts) | ✔️ |
 | **Toyota Mark II JZX100** | mk2100 | ![Picture](./img/mk2100.webp) | cereaI | [5MODS Link](https://www.gta5-mods.com/vehicles/jzx100-mark-ii-add-on-tuning-template) | ✔️ |
 | **2016 Toyota Land Cruiser VXR** | vxr | ![Picture](./img/vxr.jpg) | Abdulrhman1 | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-land-cruiser-vxr) | ✔️ |
