@@ -49,12 +49,12 @@ Citizen.CreateThread(function()
 	AddTextEntry('16charger', '2016 Dodge Charger')
 	AddTextEntry('99viper', '1999 Dodge Viper GTS ACR')
 	AddTextEntry('chr20', 'Dodge Charger Hellcat Widebody 2021')
-	AddTextEntry('demon', '2018 Dodge Challenger SRT Demon') https://www.gta5-mods.com/vehicles/2018-dodge-challenger-srt-demon-libertywalk-add-on
-	AddTextEntry('raid', 'Dodge Challenger Raid') https://www.gta5-mods.com/vehicles/dodge-challanger-raid
+	AddTextEntry('demon', '2018 Dodge Challenger SRT Demon')
+	AddTextEntry('raid', 'Dodge Challenger Raid')
 	AddTextEntry('ram2500', '2015 Dodge RAM 2500')
-	AddTextEntry('srt4', 'Dodge Neon SRT-4') https://newmods.net/gta-5-dodge-neon-srt-4-add-on-tuning-template-unlock-1-0/
+	AddTextEntry('srt4', 'Dodge Neon SRT-4')
 	AddTextEntry('trx', '2017 Dodge RAM 1500 Rebel TRX')
-	AddTextEntry('16challenger', '2016 Dodge Challenger') https://www.gta5-mods.com/vehicles/2015-dodge-challenger-add-on-stock-shaker-hellcat
+	AddTextEntry('16challenger', '2016 Dodge Challenger')
 	-- FERRARI
 	AddTextEntry('488', 'Ferrari 488 Spider')
 	AddTextEntry('f430s', 'Ferrari F430 Scuderia')
@@ -66,10 +66,8 @@ Citizen.CreateThread(function()
 		-- yFe458
 		AddTextEntry('yFe458i1', '458 Italia')
 		AddTextEntry('yFe458i2', '458 Speciale')
-		AddTextEntry('yFe458s1X', '458 Spider (Roof Extra)')
-		AddTextEntry('yFe458s1', '458 Spider (Roofworks)')
-		AddTextEntry('yFe458s2X', '458 Speciale Aperta (Roof Extra)')
-		AddTextEntry('yFe458s2', '458 Speciale Aperta (Roofworks)')
+		AddTextEntry('yFe458s1', '458 Spider')
+		AddTextEntry('yFe458s2', '458 Speciale Aperta')
 		-- yFeF12
 		AddTextEntry('yFeF12A', 'Ferrari F60 America')
 		AddTextEntry('yFeF12T', 'Ferrari F12 TRS Roadster')
@@ -102,7 +100,7 @@ Citizen.CreateThread(function()
 	-- LAMBORGHINI
 	AddTextEntry('huracanst', 'Lamborghini Huracan Super Trofeo')
 	AddTextEntry('lambose', 'Lamborghini Sesto Elemento')
-	AddTextEntry('lp670sv', '2009 Lamborghini Murcielago LP 670-4 SV') https://www.gta5-mods.com/vehicles/2009-lamborghini-murcielago-lp-670-4-sv-add-on
+	AddTextEntry('lp670sv', '2009 Lamborghini Murcielago LP 670-4 SV')
 	AddTextEntry('lp700r', '2013 Lamborghini Aventador LP700-4 Roadster')
 	AddTextEntry('svj63', 'Lamborghini Aventador SVJ')
 	AddTextEntry('urus', 'Lamborghini Urus')
@@ -127,13 +125,13 @@ Citizen.CreateThread(function()
 	AddTextEntry('miata3', '1989 Mazda Miata NA')
 	AddTextEntry('na6', 'Mazda MX-5 Miata (NA6C)')
 	-- MCLAREN
-	AddTextEntry('650s', 'McLaren 650S Coupe') https://www.gta5-mods.com/vehicles/mclaren-650s-coupe-hq
-	AddTextEntry('675lt', '2016 McLaren 675LT Coupe') https://www.gta5-mods.com/vehicles/2016-mclaren-675lt-coupe-zen-imogen-zenzoit-ngr_ardiansyah
-	AddTextEntry('720s', '2017 McLaren 720S') https://www.gta5-mods.com/vehicles/2017-mclaren-720s-add-on-tuning-hq
-	AddTextEntry('gtr96', '1996 McLaren F1 GTR') https://www.gta5-mods.com/vehicles/1996-mclaren-f1-gtr
+	AddTextEntry('650s', 'McLaren 650S Coupe')
+	AddTextEntry('675lt', '2016 McLaren 675LT Coupe')
+	AddTextEntry('720s', '2017 McLaren 720S')
+	AddTextEntry('gtr96', '1996 McLaren F1 GTR')
 	AddTextEntry('mcst', '2020 McLaren Speedtail')
-	AddTextEntry('mp412c', 'McLaren MP4-12C') https://www.gta5-mods.com/vehicles/mclaren-mp4-12c
-	AddTextEntry('senna', '2019 McLaren Senna') https://www.gta5-mods.com/vehicles/2019-mclaren-senna
+	AddTextEntry('mp412c', 'McLaren MP4-12C')
+	AddTextEntry('senna', '2019 McLaren Senna')
 	-- MERCEDES
 	AddTextEntry('amggtrr20', '2020 Mercedes-Benz AMG GT-R Roadster')
 	AddTextEntry('c6320', '2020 Mercedes-AMG C63s')
@@ -181,22 +179,15 @@ Citizen.CreateThread(function()
 	AddTextEntry('subwrx', '2004 Subaru Impreza WRX STI')
 	AddTextEntry('svx', '1996 Subaru Alcyone SVX')
 	-- SUZUKI
-	AddTextEntry('gsxr19', '2019 Suzuki GSX-R1000R') https://www.gta5-mods.com/vehicles/2019-suzuki-gsx-r1000r-add-on-tuning-joe_garage-mod
-	AddTextEntry('katana19', '2019 Suzuki Katana') https://www.gta5-mods.com/vehicles/2019-suzuki-katana
-	AddTextEntry('#', '#')
-	AddTextEntry('#', '#')
-	AddTextEntry('#', '#')
-	AddTextEntry('#', '#')
-	AddTextEntry('#', '#')
-	AddTextEntry('#', '#')
-	AddTextEntry('#', '#')
+	AddTextEntry('gsxr19', '2019 Suzuki GSX-R1000R')
+	AddTextEntry('katana19', '2019 Suzuki Katana')
 	-- TESLA
-	AddTextEntry('tr22', '2020 Tesla Roadster') https://www.gta5-mods.com/vehicles/tesla-roadster-2020-add-on-replace-auto-spoiler https://www.gta5-mods.com/vehicles/realistic-tesla-roadster-2020-handling
-	AddTextEntry('p90d', 'Tesla Model X Unplugged Performance') https://www.gta5-mods.com/vehicles/telsa-model-x-unplugged-performance-hq-addon
-	AddTextEntry('models', '2016 Tesla Model S P90D') https://www.gta5-mods.com/vehicles/2016-tesla-model-s-p90d https://www.gta5-mods.com/vehicles/tesla-model-s-p90d-2016-handling
-	AddTextEntry('tmodel', '2018 Tesla Model 3') https://www.gta5-mods.com/vehicles/tesla-model-3-2018-add-on-replace https://www.gta5-mods.com/vehicles/realistic-tesla-model-3-handling
-	AddTextEntry('teslax', '2016 Tesla Model X P90D') https://www.gta5-mods.com/vehicles/tesla-model-x-p90d
-	AddTextEntry('teslapd', '2017 Tesla Model S Prior design') https://www.gta5-mods.com/vehicles/tesla-prior-design-add_on-replace https://www.gta5-mods.com/vehicles/spawn-fix-realistic-handling-for-tesla-model-s-prior-design-2017
+	AddTextEntry('tr22', '2020 Tesla Roadster')
+	AddTextEntry('p90d', 'Tesla Model X Unplugged Performance')
+	AddTextEntry('models', '2016 Tesla Model S P90D')
+	AddTextEntry('tmodel', '2018 Tesla Model 3')
+	AddTextEntry('teslax', '2016 Tesla Model X P90D')
+	AddTextEntry('teslapd', '2017 Tesla Model S Prior design')
 	-- TOYOTA
 	AddTextEntry('cam8tun', '2018 Toyota Camry XSE')
 	AddTextEntry('vxr', '2016 Toyota Land Cruiser VXR')
