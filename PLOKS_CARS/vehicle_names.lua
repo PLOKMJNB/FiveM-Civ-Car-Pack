@@ -178,7 +178,7 @@ Citizen.CreateThread(function()
 	AddTextEntry('svx', '1996 Subaru Alcyone SVX')
 	-- SUZUKI
 	AddTextEntry('gsxr19', '2019 Suzuki GSX-R1000R')
-	AddTextEntry('katana19', '2019 Suzuki Katana')
+	AddTextEntry('katana', '2019 Suzuki Katana')
 	-- TESLA
 	AddTextEntry('tr22', '2020 Tesla Roadster')
 	AddTextEntry('p90d', 'Tesla Model X Unplugged Performance')

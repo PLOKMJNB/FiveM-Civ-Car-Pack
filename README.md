@@ -167,7 +167,7 @@
 | **2004 Subaru Impreza WRX STI** | subwrx | ![Picture](./img/subwrx.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning) | ✔️ |
 | **1996 Subaru Alcyone SVX** | svx | ![Picture](./img/svx.jpg) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-alcyone-svx-lods-template-add-on) | ✔️ |
 | **2019 Suzuki GSX-R1000R** | gsxr19 | ![Picture](./img/gsxr19.webp) | Joe_Garage-MOD | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-suzuki-gsx-r1000r-add-on-tuning-joe_garage-mod) | ✔️ |
-| **2019 Suzuki Katana** | katana19 | ![Picture](./img/katana19.jpg) | Zen-Imogen, NGR_Ardiansyah | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-suzuki-katana) | ✔️ |
+| **2019 Suzuki Katana** | katana | ![Picture](./img/katana.jpg) | Zen-Imogen, NGR_Ardiansyah | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-suzuki-katana) | ✔️ |
 | **2020 Tesla Roadster** | tr22 | ![Picture](./img/tr22.webp) | skyrix | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-roadster-2020-add-on-replace-auto-spoiler) | ✔️ | [Custom Handling](https://www.gta5-mods.com/vehicles/realistic-tesla-roadster-2020-handling) |
 | **Tesla Model X Unplugged Performance** | p90d | ![Picture](./img/p90d.webp) | MrDK | [5MODS Link](https://www.gta5-mods.com/vehicles/telsa-model-x-unplugged-performance-hq-addon) | ✔️ |
 | **2016 Tesla Model S P90D** | models | ![Picture](./img/models.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-tesla-model-s-p90d) | ✔️ | [Custom Handling](https://www.gta5-mods.com/vehicles/tesla-model-s-p90d-2016-handling) |
