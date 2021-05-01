@@ -100,14 +100,16 @@
       </trailers>
       <additionalTrailers />
       <drivers />
-      <extraIncludes />
+      <extraIncludes>
+        <Item>EXTRA_1 EXTRA_2</Item>
+      </extraIncludes>
       <doorsWithCollisionWhenClosed>
         <Item>VEH_EXT_BOOT</Item>
       </doorsWithCollisionWhenClosed>
       <driveableDoors />
       <bumpersNeedToCollideWithMap value="false" />
       <needsRopeTexture value="false" />
-      <requiredExtras />
+      <requiredExtras>EXTRA_1 EXTRA_2</requiredExtras>>
       <rewards />
       <cinematicPartCamera>
         <Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
