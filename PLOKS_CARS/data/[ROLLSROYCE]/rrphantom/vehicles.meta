@@ -102,12 +102,12 @@
       <drivers />
       <extraIncludes>
         <Item>EXTRA_1 EXTRA_2</Item>
-      <requiredExtras>EXTRA_1 EXTRA_2</requiredExtras>
+      </extraIncludes>
       <doorsWithCollisionWhenClosed />
       <driveableDoors />
       <bumpersNeedToCollideWithMap value="true" />
       <needsRopeTexture value="false" />
-      <requiredExtras />
+      <requiredExtras>EXTRA_1 EXTRA_2</requiredExtras>
       <rewards />
       <cinematicPartCamera>
         <Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
