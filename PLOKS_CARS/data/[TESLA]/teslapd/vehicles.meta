@@ -92,7 +92,7 @@
       <frequency value="100" />
       <swankness>SWANKNESS_2</swankness>
       <maxNum value="999" />
-      <flags>FLAG_HAS_LIVERY FLAG_AVERAGE_CAR FLAG_IS_ELECTRIC FLAG_HAS_INTERIOR_EXTRAS FLAG_EXTRAS_REQUIRED FLAG_EXTRAS_STRONG</flags>
+      <flags>FLAG_HAS_LIVERY FLAG_AVERAGE_CAR FLAG_IS_ELECTRIC FLAG_HAS_INTERIOR_EXTRAS FLAG_EXTRAS_REQUIRED FLAG_EXTRAS_RARE FLAG_EXTRAS_SCRIPT</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
 	  <dashboardType>VDT_RACE</dashboardType>
@@ -102,15 +102,13 @@
       <additionalTrailers />
       <drivers />
       <extraIncludes>
-	  <Item>EXTRA_2</Item>
-	  </extraIncludes>
+	      <Item>EXTRA_2</Item>
+	    </extraIncludes>
       <doorsWithCollisionWhenClosed />
       <driveableDoors />
       <bumpersNeedToCollideWithMap value="false" />
       <needsRopeTexture value="false" />
-      <requiredExtras>
-	  <Item>EXTRA_2</Item>
-	  </requiredExtras>
+      <requiredExtras>EXTRA_2</requiredExtras>
       <rewards />
       <cinematicPartCamera>
         <Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
