@@ -11,7 +11,7 @@ Citizen.CreateThread(function()
     end
     if GetCurrentResourceName() == 'PLOKS_CARS' then
         function checkVersion(_, responseText)
-            curVersion = LoadResourceFile(GetCurrentResourceName(), "version") -- make sure the "version" file actually exists in your resource root!
+            curVersion = LoadResourceFile(GetCurrentResourceName(), "version")
 
             if curVersion ~= responseText and tonumber(curVersion) < tonumber(responseText) then
                 print("    _/    _/ _/_/_/  ║                   Hey there! Yeah you, thanks for using my car pack!")
