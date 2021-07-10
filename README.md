@@ -57,7 +57,7 @@
 | **2017 Chevrolet Camaro RS** | camrs17 | ![Picture](./img/camrs17.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-camaro-rs-2017-add-on-replace-lods) | ✔️ |
 | **2021 Chevrolet Tahoe RST** | tahoe21 | ![Picture](./img/tahoe21.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-chevrolet-tahoe-rst-add-on) | ✔️ |
 | **2014 Chevrolet Corvette C7 Stingray** | c7 | ![Picture](./img/c7.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-chevrolet-corvette-c7-stingray-aige) | ✔️ |
-| **2020 Chevrolet Corvette C8** | c8 | ![Picture](./img/c8.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-chevrolet-corvette-c8-add-on-extra-dirt) | ✔️ |
+| **2020 Chevrolet Corvette C8 Stingray** | stingray | ![Picture](./img/c8.webp) | LightningJet357 | [5MODS Link](https://gta5-mods.com/vehicles/2020-corvette-c8-stingray-add-on-oiv-tuning-template) | ✔️ |
 | **2020 Chevrolet Camaro SS** | 2020ss | ![Picture](./img/2020ss.webp) | ArcticAsian | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-chevrolet-camaro-ss-add-on-replace-tuning-template-rs-ss-zl1-1le-widebody) | ✔️ |
 | **Chevrolet Corvette C5 Z06** | corvettec5z06 | ![Picture](./img/corvettec5z06.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-c5-z06-lods-add-on-template-liveries) | ✔️ |
 | **2009 Chevrolet Corvette ZR1** | czr1 | ![Picture](./img/czr1.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template) | ✔️ |

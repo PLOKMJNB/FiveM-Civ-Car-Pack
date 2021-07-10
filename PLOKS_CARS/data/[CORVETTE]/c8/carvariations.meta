@@ -3,116 +3,14 @@
 <CVehicleModelInfoVariation>
   <variationData>
 	<Item>
-      <modelName>c8</modelName>
-      <colors>
+      <modelName>stingray</modelName>
+     <colors>
         <Item>
           <indices content="char_array">
-            31 
-            31 
-            31 
-            156
-						0
-						0 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            6 
-            6 
-            111 
-            156
-						0
-						0 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            63 
-            63 
-            5 
-            156
-						0
-						0 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            4 
-            4 
-            111 
-            156
-						0
-						0 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            72 
-            72 
-            65 
-            156
-						0
-						0 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            111 
-            111 
+            27
             0 
-            156
-						0
-						0 
+            27
+            0
           </indices>
           <liveries>
             <Item value="false" />
@@ -127,12 +25,10 @@
         </Item>
         <Item>
           <indices content="char_array">
-            30 
-            30 
-            36 
-            156
-						0
-						0 
+            2
+            0
+            5
+            0
           </indices>
           <liveries>
             <Item value="false" />
@@ -147,12 +43,10 @@
         </Item>
         <Item>
           <indices content="char_array">
+            0
             0 
-            0 
-            1 
-            156
-						0
-						0 
+            0
+            0
           </indices>
           <liveries>
             <Item value="false" />
@@ -167,12 +61,10 @@
         </Item>
         <Item>
           <indices content="char_array">
-            2 
-            111 
-            4 
-            156
-						0
-						0 
+            138
+            138 
+            138
+            0
           </indices>
           <liveries>
             <Item value="false" />
@@ -187,12 +79,10 @@
         </Item>
         <Item>
           <indices content="char_array">
-            7 
+            112
             0 
-            5 
-            156
-						0
-						0 
+            112
+            0
           </indices>
           <liveries>
             <Item value="false" />
@@ -207,52 +97,10 @@
         </Item>
         <Item>
           <indices content="char_array">
-            5 
-            0 
-            111 
-            156
-						0
-						0 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            36 
-            0 
-            41 
-            156
-						0
-						0 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            13 
-            0 
-            0 
-            156
-						0
-						0 
+            3
+            3 
+            3
+            0
           </indices>
           <liveries>
             <Item value="false" />
@@ -267,19 +115,27 @@
         </Item>
       </colors>
       <kits>
-        <Item>0_default_modkit</Item>
+        <Item>706_c820_modkit</Item>
       </kits>
-      <windowsWithExposedEdges />
+      <windowsWithExposedEdges/>
       <plateProbabilities>
         <Probabilities>
           <Item>
-            <Name>Standard White</Name>
-            <Value value="100" />
+            <Name>White Plate 2</Name>
+            <Value value="10"/>
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="60"/>
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="30"/>
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="0" />
-      <sirenSettings value="0" />
+      <lightSettings value="1"/>
+      <sirenSettings value="0"/>
     </Item>
   </variationData>
 </CVehicleModelInfoVariation>

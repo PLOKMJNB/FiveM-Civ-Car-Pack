@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+	<Item>
+      <kitName>706_c820_modkit</kitName>
+      <id value="706" />	 	  
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+		<Item>
+          <modelName>waf</modelName>
+          <modShopLabel>GP1_HOOD_E</modShopLabel>
+          <linkedModels>
+         	<Item>c8boot6</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_w</Item></turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>waf</modelName>
+          <modShopLabel>GP1_HOOD_H</modShopLabel>
+          <linkedModels>
+         	<Item>c8boot7</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_w</Item></turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>waf</modelName>
+          <modShopLabel>GP1_HOOD_A</modShopLabel>
+          <linkedModels>
+         	<Item>c8boot8</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_w</Item></turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8stripesbody</modelName>
+          <modShopLabel>VAG_BON_B</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_CHASSIS5</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>waf</modelName>
+          <modShopLabel>MNU_BONSC2</modShopLabel>
+          <linkedModels>
+         	<Item>c8boot</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_w</Item></turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>waf</modelName>
+          <modShopLabel>MNU_BONP</modShopLabel>
+          <linkedModels>
+         	<Item>c8boot2</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_w</Item></turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>waf</modelName>
+          <modShopLabel>GP1_HOOD_G_X</modShopLabel>
+          <linkedModels>
+         	<Item>c8boot3</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_w</Item></turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>waf</modelName>
+          <modShopLabel>MNU_BONSC</modShopLabel>
+          <linkedModels>
+         	<Item>c8boot4</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_w</Item></turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>  
+		<Item>
+          <modelName>waf</modelName>
+          <modShopLabel>MNU_BONC</modShopLabel>
+          <linkedModels>
+         	<Item>c8boot5</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_w</Item></turnOffBones>
+          <type>VMT_TRUNK</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8n</modelName>
+          <modShopLabel>JEST3_HOOD2</modShopLabel>
+          <linkedModels>
+         	<Item>c8hood3</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_v</Item></turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8n</modelName>
+          <modShopLabel>JEST3_HOOD9</modShopLabel>
+          <linkedModels>
+         	<Item>c8hood4</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_v</Item></turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8n</modelName>
+          <modShopLabel>JEST3_HOOD5</modShopLabel>
+          <linkedModels>
+         	<Item>c8hood2</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_v</Item></turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8n</modelName>
+          <modShopLabel>JEST3_HOOD4</modShopLabel>
+          <linkedModels>
+         	<Item>c8hood</Item>
+          </linkedModels>
+          <turnOffBones><Item>misc_v</Item></turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8wing6</modelName>
+          <modShopLabel>SULTAN_WING12</modShopLabel>
+          <linkedModels>
+         	<Item>c8wing6</Item>
+          </linkedModels>
+          <turnOffBones><Item>extra_2</Item></turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8wing5</modelName>
+          <modShopLabel>MNU_WING2</modShopLabel>
+          <linkedModels>
+         	<Item>c8wing5</Item>
+          </linkedModels>
+          <turnOffBones><Item>extra_2</Item></turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8exhaustt</modelName>
+          <modShopLabel>MNU_EXH2</modShopLabel>
+          <linkedModels>
+         	<Item>c8exhaust</Item>
+          </linkedModels>
+		  <turnOffBones><Item>misc_e</Item><Item>exhaust</Item><Item>exhaust_2</Item><Item>exhaust_3</Item><Item>exhaust_4</Item></turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>ENGINEBLOCK</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8skirt2</modelName>
+          <modShopLabel>MNU_SKIRT2</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8skirt</modelName>
+          <modShopLabel>MNU_SKIRT4</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_SKIRT</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror7</modelName>
+          <modShopLabel>XA21_MIR_C</modShopLabel>
+		   <linkedModels>
+		    <Item>c8pmirror7</Item>
+         	<Item>c8dmirror7</Item>
+           </linkedModels>
+		  <turnOffBones><Item>misc_p</Item><Item>misc_d</Item></turnOffBones>
+          <type>VMT_KNOB</type>
+          <bone>DOOR_PSIDE_F</bone>
+          <collisionBone>DOOR_PSIDE_F</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror6</modelName>
+          <modShopLabel>XA21_MIR_A</modShopLabel>
+		   <linkedModels>
+		    <Item>c8pmirror6</Item>
+         	<Item>c8dmirror6</Item>
+           </linkedModels>
+		  <turnOffBones><Item>misc_p</Item><Item>misc_d</Item></turnOffBones>
+          <type>VMT_KNOB</type>
+          <bone>DOOR_PSIDE_F</bone>
+          <collisionBone>DOOR_PSIDE_F</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror5</modelName>
+          <modShopLabel>XA21_MIR_B</modShopLabel>
+		   <linkedModels>
+		    <Item>c8pmirror5</Item>
+         	<Item>c8dmirror5</Item>
+           </linkedModels>
+		  <turnOffBones><Item>misc_p</Item><Item>misc_d</Item></turnOffBones>
+          <type>VMT_KNOB</type>
+          <bone>DOOR_PSIDE_F</bone>
+          <collisionBone>DOOR_PSIDE_F</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror4</modelName>
+          <modShopLabel>GP1_MIRROR_C</modShopLabel>
+		   <linkedModels>
+		    <Item>c8pmirror4</Item>
+         	<Item>c8dmirror4</Item>
+           </linkedModels>
+		  <turnOffBones><Item>misc_p</Item><Item>misc_d</Item></turnOffBones>
+          <type>VMT_KNOB</type>
+          <bone>DOOR_PSIDE_F</bone>
+          <collisionBone>DOOR_PSIDE_F</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror3</modelName>
+          <modShopLabel>GP1_MIRROR_A</modShopLabel>
+		   <linkedModels>
+		    <Item>c8pmirror3</Item>
+         	<Item>c8dmirror3</Item>
+           </linkedModels>
+		  <turnOffBones><Item>misc_p</Item><Item>misc_d</Item></turnOffBones>
+          <type>VMT_KNOB</type>
+          <bone>DOOR_PSIDE_F</bone>
+          <collisionBone>DOOR_PSIDE_F</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror2</modelName>
+          <modShopLabel>VERL_MIR1</modShopLabel>
+		   <linkedModels>
+		    <Item>c8pmirror2</Item>
+         	<Item>c8dmirror2</Item>
+           </linkedModels>
+		  <turnOffBones><Item>misc_p</Item><Item>misc_d</Item></turnOffBones>
+          <type>VMT_KNOB</type>
+          <bone>DOOR_PSIDE_F</bone>
+          <collisionBone>DOOR_PSIDE_F</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror</modelName>
+          <modShopLabel>GP1_MIRROR_B</modShopLabel>
+		   <linkedModels>
+		    <Item>c8pmirror</Item>
+         	<Item>c8dmirror</Item>
+           </linkedModels>
+		  <turnOffBones><Item>misc_p</Item><Item>misc_d</Item></turnOffBones>
+          <type>VMT_KNOB</type>
+          <bone>DOOR_PSIDE_F</bone>
+          <collisionBone>DOOR_PSIDE_F</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8underbump2</modelName>
+          <modShopLabel>SPEC_BUMF1</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8underbump</modelName>
+          <modShopLabel>CYC_BUMF3</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8cage</modelName>
+          <modShopLabel>SULTAN_CAGE4</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_CHASSIS</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8fenders2</modelName>
+          <modShopLabel>ITALI2_ARCH1</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones><Item>misc_k</Item></turnOffBones>
+          <type>VMT_WING_R</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8fenders</modelName>
+          <modShopLabel>ITALI2_ARCH3</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones />
+          <type>VMT_WING_R</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8chassis32</modelName>
+          <modShopLabel>CLIQ_TRIMC</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones><Item>misc_t</Item></turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8chassis3</modelName>
+          <modShopLabel>DVSTE_TRM2</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones><Item>misc_t</Item></turnOffBones>
+          <type>VMT_CHASSIS3</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8chassis2</modelName>
+          <modShopLabel>ITALI_ROOF2</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones><Item>misc_n</Item></turnOffBones>
+          <type>VMT_CHASSIS2</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8wingl2</modelName>
+          <modShopLabel>CLIQ_TRIMC</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones><Item>misc_f</Item></turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8wingl</modelName>
+          <modShopLabel>DVSTE_TRM2</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones><Item>misc_f</Item></turnOffBones>
+          <type>VMT_CHASSIS4</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8grill2</modelName>
+          <modShopLabel>DVSTE_BUMF1</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones><Item>misc_h</Item></turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8grill</modelName>
+          <modShopLabel>DVSTE_BUMF4</modShopLabel>
+		  <linkedModels />
+		  <turnOffBones><Item>misc_h</Item></turnOffBones>
+          <type>VMT_GRILL</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8doorp</modelName>
+          <modShopLabel>NERO2_DET3</modShopLabel>
+		   <linkedModels>
+         	<Item>c8ddoor</Item>
+         	<Item>c8pdoor</Item>
+           </linkedModels>
+		  <turnOffBones><Item>misc_q</Item><Item>misc_l</Item><Item>misc_j</Item></turnOffBones>
+          <type>VMT_DOOR_L</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8wing7</modelName>
+          <modShopLabel>MNU_WING4</modShopLabel>
+          <linkedModels />
+          <turnOffBones><Item>extra_2</Item></turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8wing4</modelName>
+          <modShopLabel>DVSTE_WING3</modShopLabel>
+          <linkedModels />
+          <turnOffBones><Item>extra_2</Item></turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8wing3</modelName>
+          <modShopLabel>DVSTE_WING2</modShopLabel>
+          <linkedModels />
+          <turnOffBones><Item>extra_2</Item></turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8wing2</modelName>
+          <modShopLabel>CYC_WING2</modShopLabel>
+          <linkedModels />
+          <turnOffBones><Item>extra_2</Item></turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8wing</modelName>
+          <modShopLabel>CYC_WING1</modShopLabel>
+          <linkedModels />
+          <turnOffBones><Item>extra_2</Item></turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8rbump2</modelName>
+          <modShopLabel>ENTITY2_BUMR3</modShopLabel>
+          <linkedModels />
+          <turnOffBones><Item>misc_y</Item></turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>CHASSIS</bone>
+          <collisionBone>CHASSIS</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8rbump</modelName>
+          <modShopLabel>ENTITY2_BUMR1</modShopLabel>
+          <linkedModels />
+          <turnOffBones><Item>misc_y</Item></turnOffBones>
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8roof2</modelName>
+          <modShopLabel>ITALI_ROOF1</modShopLabel>
+          <linkedModels />
+          <turnOffBones><Item>extra_1</Item></turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>c8roof</modelName>
+          <modShopLabel>MNU_ROOFC</modShopLabel>
+          <linkedModels />
+          <turnOffBones><Item>extra_1</Item></turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>extra11</modelName>
+          <modShopLabel>ENTITY2_WING</modShopLabel>
+          <linkedModels />
+          <turnOffBones><Item>extra_2</Item></turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>extra22</modelName>
+          <modShopLabel>NOROOF</modShopLabel>
+          <linkedModels />
+          <turnOffBones><Item>extra_1</Item></turnOffBones>
+          <type>VMT_ROOF</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+      <linkMods>
+		<Item>
+          <modelName>c8exhaust</modelName>
+          <bone>engineblock</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8wing6</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8wing5</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8dmirror</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8dmirror2</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8dmirror3</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8dmirror4</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8dmirror5</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8dmirror6</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8dmirror7</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror2</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror3</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror4</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror5</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror6</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8pmirror7</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8pdoor</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8ddoor</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+        </Item>		
+		<Item>
+          <modelName>c8hood3</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8hood4</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8hood</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8hood2</modelName>
+          <bone>bonnet</bone>
+          <turnOffExtra value="false" />
+        </Item>
+		<Item>
+          <modelName>c8boot</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>		
+		<Item>
+          <modelName>c8boot2</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>c8boot3</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>c8boot4</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>c8boot5</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>			
+		<Item>
+          <modelName>c8boot6</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>c8boot7</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>	
+		<Item>
+          <modelName>c8boot8</modelName>
+          <bone>boot</bone>
+          <turnOffExtra value="false" />
+        </Item>					
+      </linkMods>
+      <statMods>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="75" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="50" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="40" />
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="60" />
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="80" />
+          <audioApply value="1.000000" />
+          <weight value="30" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="100" />
+          <audioApply value="1.000000" />
+          <weight value="40" />
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="5" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+         <Item>
+          <identifier />
+          <modifier value="10" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="15" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier />
+          <modifier value="20" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>  
+        <Item>
+          <identifier />
+          <modifier value="25" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_SUSPENSION</type>
+        </Item>          
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+		<Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+		</Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+    <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+		<!-- PREVIEW HORN - FOR MOD SHOP USE ONLY -->
+		<Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819" />
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames />
+      <liveryNames>
+        <Item>shaker_sign_1</Item>
+        <Item>shaker_sign_2</Item>
+		<Item>shaker_sign_3</Item>
+      </liveryNames>
+    </Item>
+  </Kits>
+</CVehicleModelInfoVarGlobal>
