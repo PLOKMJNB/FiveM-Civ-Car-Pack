@@ -1,0 +1,11 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  lint:
+    name: Lint Lua Scripts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Lint
+        uses: GoatG33k/fivem-lua-lint-action@v1
