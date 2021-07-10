@@ -143,6 +143,24 @@
           <allowBonnetSlide value="true" />
         </Item>
 		<Item>
+          <modelName>shaker_bum_f_10</modelName> <!-- RedEye-->
+          <modShopLabel>SHA_BUMF10</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>bumper_f</Item>
+			<Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="10" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
           <modelName>shaker_bum_f_7</modelName> <!-- Demon carbon-->
           <modShopLabel>SHA_BUMF7</modShopLabel>
           <linkedModels />
@@ -283,6 +301,26 @@
           <allowBonnetSlide value="false" />
         </Item>
 		<Item>
+          <modelName>shaker_hood_9</modelName> <!-- RedEYE -->
+          <modShopLabel>SHA_HOOD9</modShopLabel>
+          <linkedModels>
+			<Item>shaker_engine_01</Item>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>bonnet</Item>
+			<Item>misc_b</Item>
+          </turnOffBones>
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="false" />
+        </Item>
+		<Item>
           <modelName>shaker_spoiler_1</modelName> <!-- Dark -->
           <modShopLabel>SHA_SPOILER1</modShopLabel>
           <linkedModels />
@@ -353,6 +391,24 @@
 		<Item>
           <modelName>shaker_spoiler_8</modelName> <!-- Demon -->
           <modShopLabel>SHA_SPOILER8</modShopLabel>
+          <linkedModels>
+		  </linkedModels>
+          <turnOffBones>
+            <Item>misc_a</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="5" />
+          <turnOffExtra value="true" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>shaker_spoiler_16</modelName> <!-- RedEye -->
+          <modShopLabel>SHA_SPOILER16</modShopLabel>
           <linkedModels>
 		  </linkedModels>
           <turnOffBones>
@@ -593,6 +649,23 @@
 		<Item>
           <modelName>shaker_badge_3</modelName> <!-- Demon Badge --> 
           <modShopLabel>SHA_BADGE3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_h</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item> 
+		<Item>
+          <modelName>shaker_badge_4</modelName> <!-- RedEye Badge --> 
+          <modShopLabel>SHA_BADGE4</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_h</Item>
