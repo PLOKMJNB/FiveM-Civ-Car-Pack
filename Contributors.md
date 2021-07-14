@@ -15,3 +15,6 @@
 - [joe-p](https://github.com/joe-p)
   - Updated gameName in vehicles.meta files to match modelName for proper naming in vMenu
   - Updated incorrect vehicle classes in vehicles.meta files 
+
+- [DevAnanas0](https://github.com/devananas0)
+  - Added a SQL
