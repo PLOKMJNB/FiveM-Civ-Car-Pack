@@ -192,6 +192,6 @@ INSERT INTO `vehicles`(`name`, `model`, `price`, `category`) VALUES
 	("2015 Volkswagen Golf GTI MK7","golfgti7",375000,"volkswagen"),
 	("Volvo XC90 T8","xc90",425000,"volvo"),
 	("W-Motors Fenyr Supersport","wmfenyr",220000,"wmotors"),
-	("W-Motors Lykan HyperSport","lykan",185000,"wmotors"),
+	("W-Motors Lykan HyperSport","lykan",185000,"wmotors")
 	
 ;
