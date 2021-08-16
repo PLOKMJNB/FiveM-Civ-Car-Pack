@@ -71,7 +71,7 @@ INSERT INTO `vehicles`(`name`, `model`, `price`, `category`) VALUES
 	("Chevrolet Corvette C5 Z06","corvettec5z06",32000,"chevrolet"),
 	("2009 Chevrolet Corvette ZR1","czr1",19000,"chevrolet"),
 	("2014 Chevrolet Corvette C7 Stingray","c7",29000,"chevrolet"),
-	("2020 Chevrolet Corvette C8","c8",42000,"chevrolet"),
+	("2020 Chevrolet Corvette C8 Stingray","stingray",42000,"chevrolet"),
 	("2016 Dodge Charger","16charger",45000,"dodge"),
 	("1999 Dodge Viper GTS ACR","99viper",6500,"dodge"),
 	("Dodge Charger Hellcat Widebody 2021","chr20",13000,"dodge"),
@@ -86,7 +86,7 @@ INSERT INTO `vehicles`(`name`, `model`, `price`, `category`) VALUES
 	("2018 Ferrari 812 Superfast","f812",5500,"ferrari"),
 	("2015 Ferrari California T","fct",55000,"ferrari"),
 	("Ferrari FXX-K Hybrid Hypercar","fxxk",8500,"ferrari"),
-	("2015 Ferrari LaFerrari","laaddons",12000,"ferrari"),
+	("2015 Ferrari LaFerrari","laferrari",12000,"ferrari"),
 	("Ferrari Enzo","mig",6500,"ferrari"),
 	("458 Italia","yFe458i1",7500,"ferrari"),
 	("458 Speciale","yFe458i2",8000,"ferrari"),
@@ -192,6 +192,6 @@ INSERT INTO `vehicles`(`name`, `model`, `price`, `category`) VALUES
 	("2015 Volkswagen Golf GTI MK7","golfgti7",375000,"volkswagen"),
 	("Volvo XC90 T8","xc90",425000,"volvo"),
 	("W-Motors Fenyr Supersport","wmfenyr",220000,"wmotors"),
-	("W-Motors Lykan HyperSport","lykan",185000,"wmotors"),
+	("W-Motors Lykan HyperSport","lykan",185000,"wmotors")
 	
 ;
