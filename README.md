@@ -45,6 +45,10 @@
 | **2016 BMW M2** | m2 | ![Picture](./img/m2.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/2016-bmw-m2-add-on-replace-tuning-template) | ✔️ |
 | **1997 BMW M3 E36** | m3e36 | ![Picture](./img/m3e36.webp) | AkuzakiSokudo | [5MODS Link](https://www.gta5-mods.com/vehicles/1997-bmw-m3-e36) | ✔️ |
 | **2008 BMW M3 e92** | m3e92 | ![Picture](./img/m3e92.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/bmw-m2-e92-2008-add-on-replace) | ✔️ |
+| **2018 BMW M5 F90** | bmci | ![Picture](./img/bmci.jpg) | S4MuEL - | [5MODS Link](https://de.gta5-mods.com/vehicles/bmw-m5-f90-2018-add-on-hq-template) | ✔️ |
+| **BMW X6M F16** | bmci | ![Picture](./img/x6m.jpg) | Alex9581 | [5MODS Link](https://de.gta5-mods.com/vehicles/bmw-x6m-f16) | ✔️ |
+| **BMW X5 E53 2005 Sport Package** | x5e53 | ![Picture](./img/x5e53.jpg) | AlexHIT | [5MODS Link](https://de.gta5-mods.com/vehicles/bmw-x5-e53-2005-sport-package) | ✔️ |
+| **2015 BMW i8 (I12)** | i8 | ![Picture](./img/i8.jpg) | [YCA]Aige | [5MODS Link](https://de.gta5-mods.com/vehicles/2015-bmw-i8) | ✔️ |
 | **2015 BMW M3 (F80)** | m3f80 | ![Picture](./img/m3f80.webp) | ahmeda1999 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-bmw-m3-f80-add-on-tuning-analog-digital-dials) | ✔️ |
 | **2015 BMW M4 F82** | m4f82 | ![Picture](./img/m4f82.webp) | Alex9581 & p4elkin | [5MODS Link](https://www.gta5-mods.com/vehicles/bmw-m4-f82-2015-add-on-replace-animated) | ✔️ |
 | **BMW M6 F13 Shadow Line** | m6f13 | ![Picture](./img/m6f13.webp) | A.N.R.T | [5MODS Link](https://www.gta5-mods.com/vehicles/bmw-m6-f13) | ✔️ |
