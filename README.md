@@ -43,8 +43,13 @@
 | **2004 BMW 760Li Individual (E66/PFL)** | 760li04 | ![Picture](./img/760li04.webp) | DrAgOn777, HRH | [5MODS Link](https://www.gta5-mods.com/vehicles/2004-bmw-760li-individual-e66-pfl-add-on-replace-tuning-extras) | ✔️ |
 | **1995 BMW M5 E34** | e34 | ![Picture](./img/e34.webp) | HitmanNiko | [5MODS Link](https://www.gta5-mods.com/vehicles/1995-bmw-m5-e34-replace-add-on-tuning) | ✔️ |
 | **2016 BMW M2** | m2 | ![Picture](./img/m2.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/2016-bmw-m2-add-on-replace-tuning-template) | ✔️ |
+| **
 | **1997 BMW M3 E36** | m3e36 | ![Picture](./img/m3e36.webp) | AkuzakiSokudo | [5MODS Link](https://www.gta5-mods.com/vehicles/1997-bmw-m3-e36) | ✔️ |
 | **2008 BMW M3 e92** | m3e92 | ![Picture](./img/m3e92.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/bmw-m2-e92-2008-add-on-replace) | ✔️ |
+| **2018 BMW M5 F90** | bmci | ![Picture](./img/bmci.webp) | S4MuEL - | [5MODS Link](https://de.gta5-mods.com/vehicles/bmw-m5-f90-2018-add-on-hq-template) | ✔️ |
+| **BMW X6M F16** | x6m | ![Picture](./img/x6m.webp) | Alex9581 | [5MODS Link](https://de.gta5-mods.com/vehicles/bmw-x6m-f16) | ✔️ |
+| **BMW X5 E53 2005 Sport Package** | x5e53 | ![Picture](./img/x5e53.webp) | AlexHIT | [5MODS Link](https://de.gta5-mods.com/vehicles/bmw-x5-e53-2005-sport-package) | ✔️ |
+| **2015 BMW i8 (I12)** | i8 | ![Picture](./img/i8.webp) | [YCA]Aige | [5MODS Link](https://de.gta5-mods.com/vehicles/2015-bmw-i8) | ✔️ |
 | **2015 BMW M3 (F80)** | m3f80 | ![Picture](./img/m3f80.webp) | ahmeda1999 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-bmw-m3-f80-add-on-tuning-analog-digital-dials) | ✔️ |
 | **2015 BMW M4 F82** | m4f82 | ![Picture](./img/m4f82.webp) | Alex9581 & p4elkin | [5MODS Link](https://www.gta5-mods.com/vehicles/bmw-m4-f82-2015-add-on-replace-animated) | ✔️ |
 | **BMW M6 F13 Shadow Line** | m6f13 | ![Picture](./img/m6f13.webp) | A.N.R.T | [5MODS Link](https://www.gta5-mods.com/vehicles/bmw-m6-f13) | ✔️ |
@@ -177,8 +182,12 @@
 | **2018 Toyota Camry XSE** | cam8tun | ![Picture](./img/cam8tun.png) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-camry-xse-2018-crazy-exterior-add-on-tuning) | ✔️ |
 | **1998 Toyota Supra Turbo (A80)** | toysupmk4 | ![Picture](./img/toysupmk4.webp) | Wanted188, HummingBird | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-supra-turbo-98-a80-add-on-lods-250-tuning-parts) | ✔️ |
 | **Toyota Mark II JZX100** | mk2100 | ![Picture](./img/mk2100.webp) | cereaI | [5MODS Link](https://www.gta5-mods.com/vehicles/jzx100-mark-ii-add-on-tuning-template) | ✔️ |
+| **Toyota Trueno (AE86)** | ae86 | ![Picture](./img/ae86.webp) | [YCA]forget | [5MODS Link](https://de.gta5-mods.com/vehicles/toyota-trueno-ae86-add-on-rhd-lnital-d) | ✔️ |
 | **2016 Toyota Land Cruiser VXR** | vxr | ![Picture](./img/vxr.jpg) | Abdulrhman1 | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-land-cruiser-vxr) | ✔️ |
 | **2015 Volkswagen Golf GTI MK7** | golfgti7 | ![Picture](./img/golfgti7.webp) | mateus_ulhoa3D | [5MODS Link](https://www.gta5-mods.com/vehicles/volkswagen-golf-gti-mk7-2015-add-on-replace-digital-dials-dirt-map) | ✔️ |
+| **2018 Volkswagen Amarok V6** | amarok | ![Picture](./img/amarok.webp) | SaleeN | [5MODS Link](https://de.gta5-mods.com/vehicles/2018-volkswagen-amarok-v6-add-on-replace) | ✔️ |
+| **2016 Volkswagen Passat B8** | vwr | ![Picture](./img/vwr.webp) | zQrba | [5MODS Link](https://de.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on) | ✔️ |
+| **2016 Volkswagen Scirocco R 2011** | passat | ![Picture](./img/passat.webp) | bozdemirt | [5MODS Link](https://de.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on) | ✔️ 
 | **Volvo XC90 T8** | xc90 | ![Picture](./img/xc90.png) | Jureeke | [5MODS Link](https://www.gta5-mods.com/vehicles/volvo-xc90-t8-add-on-fivem-jureeke) | ✔️ |
 | **W-Motors Lykan HyperSport** | lykan | ![Picture](./img/Lykan.webp) | Kpym | [5MODS Link](https://www.gta5-mods.com/vehicles/w-motor-lykan-hypersport-add-on-replace-digital-dials) | ✔️ |
 | **W-Motors Fenyr Supersport** | wmfenyr | ![Picture](./img/wmfenyr.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/wmotors-fenyr-supersport-add-on) | ✔️ |
