@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopVehicleDataArray>
+	<Vehicles>
+	<Item>
+		<lockHash>CU_VEH_golf8gti</lockHash>
+		<modelNameHash>golf8gti</modelNameHash>
+		<cost value="100"/>
+		<textLabel>golf8gti</textLabel>
+		<textLabel></textLabel>
+	</Item>
+	</Vehicles>
+</ShopVehicleDataArray>
