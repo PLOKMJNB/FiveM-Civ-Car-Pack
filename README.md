@@ -75,6 +75,11 @@
 | **Dodge Neon SRT-4** | srt4 | ![Picture](./img/srt4.jpg) | Vxl | [Newmods Link](https://newmods.net/gta-5-dodge-neon-srt-4-add-on-tuning-template-unlock-1-0/) | ✔️ |
 | **2017 Dodge RAM 1500 Rebel TRX** | trx | ![Picture](./img/trx.webp) | DeezNutties123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ram-1500-rebel-trx-concept-add-on-beta) | ✔️ |
 | **2016 Dodge Challenger** | 16challenger | ![Picture](./img/16challenger.jpg) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-dodge-challenger-add-on-stock-shaker-hellcat) | ✔️ |
+| **Dacia Sandero 2014** | sandero | ![Picture](./img/sandero.webp) | JUVENILE | [5MODS Link](https://de.gta5-mods.com/vehicles/dacia-sandero-2014) | ✔️ |
+| **2008 Dacia Logan** | logan | ![Picture](./img/logan.webp) | JUVENILE | [5MODS Link](https://de.gta5-mods.com/vehicles/2008-dacia-logan) | ✔️ |
+| **Dacia 1310 2001** | 1310 | ![Picture](./img/1310.webp) | Andrei9948 | [5MODS Link](https://de.gta5-mods.com/vehicles/dacia-1310) | ✔️ |
+| **Dacia logan pickup** | cutlass | ![Picture](./img/cutlass.webp) | Lovely player 8 | [5MODS Link](https://de.gta5-mods.com/vehicles/dacia-1310) | ✔️ |
+| **Dacia Sandero Stepway 2014** | stepway | ![Picture](./img/stepway.webp) | JUVENILE | [5MODS Link](https://de.gta5-mods.com/vehicles/dacia-sandero-stepway-2014) | ✔️ |
 | **Ferrari 488 Spider** | 488 | ![Picture](./img/488.jpg) | [DTD]Dennissaurus | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-488-gts-addon-replace-tuner) | ✔️ |
 | **Ferrari F430 Scuderia** | f430s | ![Picture](./img/f430s.webp) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-430-scuderia-add-on-replace-tuning-template) | ✔️ |
 | **2018 Ferrari 812 Superfast** | f812 | ![Picture](./img/f812.webp) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-812-superfast) | ✔️ |
@@ -161,6 +166,8 @@
 | **2018 Porsche Cayenne S** | pcs18 | ![Picture](./img/pcs18.webp) | skyrix | [5MODS Link](https://www.gta5-mods.com/vehicles/porsche-cayenne-s-2018-add-on-replace-skyrix) | ✔️ |
 | **2019 Porsche Macan Turbo** | pm19 | ![Picture](./img/pm19.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-porsche-macan-turbo-add-on-extras-dirt-00abolfazl00) | ✔️ |
 | **2020 Porsche Taycan Turbo S** | taycan | ![Picture](./img/taycan.webp) | Scott_Carter | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-porsche-taycan-turbo-s-add-on-replace-template-auto-spoiler) | ✔️ |
+| **Peugeot 205 Turbo 16 2 in One** | yPG205t16A/yPG205t16B | ![Picture](./img/yPG205t16.webp) | dsawdsaw | [5MODS Link](https://de.gta5-mods.com/vehicles/peugeot-205-turbo-16-rally-2in1-add-on-tuning-livery) | ✔️ |
+| **Renault Twingo I** | twingo | ![Picture](./img/twingo.webp) | Gta5KoRn | [5MODS Link](https://de.gta5-mods.com/vehicles/renault-twingo-i) | ✔️ |
 | **Range Rover Evoque** | rrevoque | ![Picture](./img/rrevoque.jpg) | [YCA] SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-evoque) | ✔️ |
 | **Range Rover Vogue Startech** | rrst | ![Picture](./img/rrst.webp) | What The Fuck | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-vogue-startech-add-on-tuning) | ✔️ |
 | **2016 Range Rover Sport SVR** | rsvr16 | ![Picture](./img/rsvr16.webp) | Faysal | [5MODS Link](https://www.gta5-mods.com/vehicles/range-rover-sport-svr-2016) | ✔️ |
@@ -187,7 +194,8 @@
 | **2015 Volkswagen Golf GTI MK7** | golfgti7 | ![Picture](./img/golfgti7.webp) | mateus_ulhoa3D | [5MODS Link](https://www.gta5-mods.com/vehicles/volkswagen-golf-gti-mk7-2015-add-on-replace-digital-dials-dirt-map) | ✔️ |
 | **2018 Volkswagen Amarok V6** | amarok | ![Picture](./img/amarok.webp) | SaleeN | [5MODS Link](https://de.gta5-mods.com/vehicles/2018-volkswagen-amarok-v6-add-on-replace) | ✔️ |
 | **2016 Volkswagen Passat B8** | vwr | ![Picture](./img/vwr.webp) | zQrba | [5MODS Link](https://de.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on) | ✔️ |
-| **2016 Volkswagen Scirocco R 2011** | passat | ![Picture](./img/passat.webp) | bozdemirt | [5MODS Link](https://de.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on) | ✔️ 
+| **2016 Volkswagen Scirocco R 2011** | passat | ![Picture](./img/passat.webp) | bozdemirt | [5MODS Link](https://de.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on) | ✔️ |
+| **Volkswagen Golf 8 GTI** | golf8gti | ![Picture](./img/golf8gti.webp) | Rowan (Waslijn) | [5MODS Link](https://de.gta5-mods.com/vehicles/volkswagen-golf-8-gti-unlocked-add-on) | ✔️ |
 | **Volvo XC90 T8** | xc90 | ![Picture](./img/xc90.png) | Jureeke | [5MODS Link](https://www.gta5-mods.com/vehicles/volvo-xc90-t8-add-on-fivem-jureeke) | ✔️ |
 | **W-Motors Lykan HyperSport** | lykan | ![Picture](./img/Lykan.webp) | Kpym | [5MODS Link](https://www.gta5-mods.com/vehicles/w-motor-lykan-hypersport-add-on-replace-digital-dials) | ✔️ |
 | **W-Motors Fenyr Supersport** | wmfenyr | ![Picture](./img/wmfenyr.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/wmotors-fenyr-supersport-add-on) | ✔️ |
