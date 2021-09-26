@@ -127,7 +127,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected />
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash />
+			<audioNameHash>carbonizzare</audioNameHash>
 			<layout>LAYOUT_STD_LOWROOF</layout>
 			<coverBoundOffsets>BLISTA_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
