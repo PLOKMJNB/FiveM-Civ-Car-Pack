@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+ <residentTxd>vehshare</residentTxd>
+ <residentAnims />
+ <InitDatas>
 <Item>
       <modelName>17civict</modelName>
       <txdName>17civict</txdName>
@@ -10,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>ASEA</audioNameHash>
       <layout>LAYOUT_STD_EXITFIXUP</layout>
       <coverBoundOffsets>PREMIER_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -113,3 +118,7 @@
         <Item>STD_PREMIER_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
     </Item>
+ </InitDatas>
+ <txdRelationships>
+ </txdRelationships>
+</CVehicleModelInfo__InitDataList> 
