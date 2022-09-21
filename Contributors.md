@@ -16,6 +16,6 @@
   - Updated gameName in vehicles.meta files to match modelName for proper naming in vMenu
   - Updated incorrect vehicle classes in vehicles.meta files 
 
-- [DevAnanas0](https://github.com/DevAnanas0)
+- [R3tr0Ananas](https://github.com/R3tr0Ananas)
   - Created SQL
   - Contributed requested vehicles femo issues
