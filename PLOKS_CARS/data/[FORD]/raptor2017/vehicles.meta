@@ -176,9 +176,9 @@
       <lodDistances content="float_array">
         15.000000
         30.000000
-        60.000000	
-        120.000000	
-        500.000000	
+        60.000000
+        120.000000
+        500.000000
         500.000000
       </lodDistances>
       <minSeatHeight value="0.797" />
@@ -234,12 +234,8 @@
       <child>vehshare_worn</child>
     </Item>
     <Item>
-      <parent>raptor20171</parent>
-      <child>raptor2017</child>
-    </Item>
-    <Item>
       <parent>vehicles_cav_interior</parent>
-      <child>raptor20171</child>
+      <child>raptor2017</child>
     </Item>
     <Item>
       <parent>vehicles_vacca_interior</parent>
