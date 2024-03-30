@@ -14,7 +14,7 @@
 ***To see the car pictures better/larger click [here](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack/blob/master/README.md)***
 
 ### How To Install The Cars
-- [Click here](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack/wiki/VPS-installation) to see the wiki page for how to install the proper way
+- [Click here](https://github.com/PLOKMJNB/FiveM-Civ-Car-Pack/wiki/) to see the wiki page for how to install the proper way
 
 ### vMenu
 - If vMenu is installed on your server, every vehicle in the pack will show under "Addon Vehicles"
